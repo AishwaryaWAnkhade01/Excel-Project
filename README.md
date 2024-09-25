@@ -12,7 +12,7 @@ This project involves analyzing sales and expense data using Excel. The goal is 
 - The analysis includes categorizing expenses, identifying trends, and comparing monthly data.
 
 ## Files
-- **data/sales_expense_6months.xlsx**: The Excel file with raw data.
+- **[sales data]()**: The Excel file with raw data.
 - **reports/expense_analysis_report.pdf**: Detailed analysis of the data.
 
 ## How to Use
