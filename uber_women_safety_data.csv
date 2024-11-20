@@ -1,0 +1,1158 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,RIDER_GENDER,TIME_OF_DAY,AREA_SAFETY_SCORE,PICKUP_AREA,DROPOFF_AREA,INCIDENT_REPORT,RIDE_TYPE
+2023-01-01 00:00:00,2023-01-01 00:30:00,Personal,Location_B,Location_C,12.76,Meeting,Female,Afternoon,5.6952497000280715,Downtown,Downtown,No,Shared
+2023-01-01 01:00:00,2023-01-01 01:30:00,Business,Location_A,Location_A,24.65,Customer Visit,Male,Afternoon,8.52364321533439,Suburbs,Downtown,No,Solo
+2023-01-01 02:00:00,2023-01-01 02:30:00,Business,Location_D,Location_D,9.42,Airport,Female,Morning,2.641063860302495,Suburbs,City Outskirts,Yes,Solo
+2023-01-01 03:00:00,2023-01-01 03:30:00,Business,Location_B,Location_A,3.56,Customer Visit,Male,Night,1.7197733673903017,City Outskirts,Suburbs,Yes,Shared
+2023-01-01 04:00:00,2023-01-01 04:30:00,Business,Location_A,Location_D,18.86,Errand/Supplies,Male,Afternoon,6.091130356552781,City Outskirts,City Outskirts,No,Shared
+2023-01-01 05:00:00,2023-01-01 05:30:00,Personal,Location_D,Location_C,6.58,Meal/Entertainment,Female,Morning,9.470189711058042,Downtown,Suburbs,No,Shared
+2023-01-01 06:00:00,2023-01-01 06:30:00,Business,Location_C,Location_C,22.32,Customer Visit,Female,Morning,9.552383742503311,Downtown,Downtown,No,Shared
+2023-01-01 07:00:00,2023-01-01 07:30:00,Business,Location_D,Location_A,4.3,Meeting,Female,Morning,8.97805951848334,Downtown,Downtown,No,Solo
+2023-01-01 08:00:00,2023-01-01 08:30:00,Personal,Location_D,Location_D,7.52,Customer Visit,Male,Afternoon,1.1505316605714653,City Outskirts,Suburbs,No,Solo
+2023-01-01 09:00:00,2023-01-01 09:30:00,Personal,Location_B,Location_D,7.13,Meeting,Female,Morning,5.972571653836812,Downtown,Downtown,No,Shared
+2023-01-01 10:00:00,2023-01-01 10:30:00,Personal,Location_D,Location_B,4.59,Customer Visit,Female,Morning,8.953704940046805,Suburbs,City Outskirts,Yes,Shared
+2023-01-01 11:00:00,2023-01-01 11:30:00,Business,Location_B,Location_A,10.94,Meeting,Male,Evening,3.039878118054917,Downtown,City Outskirts,No,Solo
+2023-01-01 12:00:00,2023-01-01 12:30:00,Business,Location_B,Location_C,23.85,Meeting,Female,Night,9.583369213957576,Suburbs,Downtown,Yes,Solo
+2023-01-01 13:00:00,2023-01-01 13:30:00,Personal,Location_C,Location_C,21.72,Meeting,Male,Night,2.1801687788515736,City Outskirts,Suburbs,No,Shared
+2023-01-01 14:00:00,2023-01-01 14:30:00,Personal,Location_D,Location_B,18.54,Meal/Entertainment,Male,Evening,6.813539161767851,Downtown,Downtown,Yes,Solo
+2023-01-01 15:00:00,2023-01-01 15:30:00,Business,Location_C,Location_A,4.21,Airport,Male,Evening,2.7498916786410343,Downtown,Suburbs,No,Solo
+2023-01-01 16:00:00,2023-01-01 16:30:00,Business,Location_A,Location_D,6.67,Meal/Entertainment,Female,Morning,4.715809635974947,Downtown,Suburbs,Yes,Solo
+2023-01-01 17:00:00,2023-01-01 17:30:00,Personal,Location_D,Location_C,21.14,Errand/Supplies,Male,Afternoon,5.593719018568509,Suburbs,Downtown,No,Shared
+2023-01-01 18:00:00,2023-01-01 18:30:00,Personal,Location_B,Location_A,12.23,Meal/Entertainment,Female,Afternoon,3.7617729530966475,City Outskirts,City Outskirts,No,Shared
+2023-01-01 19:00:00,2023-01-01 19:30:00,Business,Location_D,Location_A,18.89,Errand/Supplies,Female,Afternoon,1.3194099625934754,Suburbs,Downtown,No,Solo
+2023-01-01 20:00:00,2023-01-01 20:30:00,Personal,Location_C,Location_B,18.05,Meal/Entertainment,Female,Afternoon,3.8267498610341035,Downtown,Suburbs,Yes,Solo
+2023-01-01 21:00:00,2023-01-01 21:30:00,Business,Location_B,Location_C,24.98,Customer Visit,Female,Evening,5.271443680654755,City Outskirts,Suburbs,No,Solo
+2023-01-01 22:00:00,2023-01-01 22:30:00,Business,Location_A,Location_D,7.31,Meal/Entertainment,Male,Night,6.694360447204119,Suburbs,City Outskirts,Yes,Shared
+2023-01-01 23:00:00,2023-01-01 23:30:00,Business,Location_B,Location_D,8.11,Airport,Male,Night,4.975119379172565,Suburbs,City Outskirts,Yes,Shared
+2023-01-02 00:00:00,2023-01-02 00:30:00,Business,Location_D,Location_B,4.79,Errand/Supplies,Female,Morning,5.624629436458665,City Outskirts,Downtown,Yes,Solo
+2023-01-02 01:00:00,2023-01-02 01:30:00,Personal,Location_D,Location_A,15.12,Meeting,Male,Afternoon,7.7622348386689985,Suburbs,City Outskirts,No,Shared
+2023-01-02 02:00:00,2023-01-02 02:30:00,Personal,Location_D,Location_C,17.71,Customer Visit,Female,Evening,2.167697317635775,Suburbs,Suburbs,No,Shared
+2023-01-02 03:00:00,2023-01-02 03:30:00,Personal,Location_B,Location_B,8.94,Meal/Entertainment,Female,Morning,1.673762132550036,City Outskirts,City Outskirts,Yes,Solo
+2023-01-02 04:00:00,2023-01-02 04:30:00,Business,Location_C,Location_C,12.53,Airport,Female,Night,1.4834682480915267,Suburbs,City Outskirts,No,Shared
+2023-01-02 05:00:00,2023-01-02 05:30:00,Business,Location_D,Location_B,11.61,Errand/Supplies,Female,Evening,4.031550050721657,Downtown,Downtown,Yes,Shared
+2023-01-02 06:00:00,2023-01-02 06:30:00,Personal,Location_C,Location_D,15.98,Customer Visit,Female,Night,6.664969754117932,City Outskirts,City Outskirts,No,Solo
+2023-01-02 07:00:00,2023-01-02 07:30:00,Business,Location_A,Location_C,8.03,Meeting,Male,Morning,5.737584142685134,Suburbs,Downtown,No,Solo
+2023-01-02 08:00:00,2023-01-02 08:30:00,Business,Location_C,Location_B,8.21,Airport,Male,Night,9.22642063708455,Suburbs,City Outskirts,Yes,Solo
+2023-01-02 09:00:00,2023-01-02 09:30:00,Business,Location_A,Location_C,2.04,Meeting,Male,Afternoon,3.0681735285569425,City Outskirts,Downtown,No,Shared
+2023-01-02 10:00:00,2023-01-02 10:30:00,Business,Location_A,Location_B,24.53,Meeting,Female,Morning,8.753211029585106,Suburbs,Downtown,No,Solo
+2023-01-02 11:00:00,2023-01-02 11:30:00,Personal,Location_D,Location_C,18.64,Meeting,Male,Evening,9.928590789026243,Downtown,Suburbs,Yes,Solo
+2023-01-02 12:00:00,2023-01-02 12:30:00,Business,Location_C,Location_A,2.85,Meeting,Male,Morning,7.292623241420389,City Outskirts,City Outskirts,Yes,Shared
+2023-01-02 13:00:00,2023-01-02 13:30:00,Personal,Location_D,Location_A,13.25,Customer Visit,Male,Afternoon,5.734129299124007,Suburbs,Suburbs,No,Shared
+2023-01-02 14:00:00,2023-01-02 14:30:00,Business,Location_C,Location_B,10.89,Customer Visit,Female,Morning,4.073674724942394,Downtown,Downtown,Yes,Solo
+2023-01-02 15:00:00,2023-01-02 15:30:00,Personal,Location_D,Location_D,22.55,Airport,Female,Evening,1.5538819359113059,City Outskirts,Downtown,No,Shared
+2023-01-02 16:00:00,2023-01-02 16:30:00,Business,Location_A,Location_C,14.56,Meal/Entertainment,Male,Evening,9.79847042557737,Suburbs,Downtown,Yes,Shared
+2023-01-02 17:00:00,2023-01-02 17:30:00,Personal,Location_A,Location_D,21.63,Meeting,Female,Afternoon,5.786584551437016,City Outskirts,City Outskirts,Yes,Solo
+2023-01-02 18:00:00,2023-01-02 18:30:00,Business,Location_B,Location_B,11.89,Meal/Entertainment,Female,Afternoon,7.9630733873303425,City Outskirts,City Outskirts,Yes,Shared
+2023-01-02 19:00:00,2023-01-02 19:30:00,Business,Location_C,Location_C,16.62,Meeting,Female,Afternoon,9.859488391604852,Suburbs,Downtown,Yes,Shared
+2023-01-02 20:00:00,2023-01-02 20:30:00,Business,Location_C,Location_B,12.3,Errand/Supplies,Male,Evening,2.8919590978721392,City Outskirts,Suburbs,Yes,Shared
+2023-01-02 21:00:00,2023-01-02 21:30:00,Business,Location_A,Location_C,3.46,Errand/Supplies,Male,Night,2.3560478322037404,City Outskirts,City Outskirts,No,Shared
+2023-01-02 22:00:00,2023-01-02 22:30:00,Business,Location_C,Location_B,2.92,Airport,Female,Evening,3.9088048815503083,Suburbs,Suburbs,No,Shared
+2023-01-02 23:00:00,2023-01-02 23:30:00,Business,Location_D,Location_D,15.27,Errand/Supplies,Female,Evening,5.604105631229082,City Outskirts,Downtown,Yes,Shared
+2023-01-03 00:00:00,2023-01-03 00:30:00,Personal,Location_C,Location_C,23.77,Meal/Entertainment,Female,Afternoon,6.77059641642108,City Outskirts,Downtown,Yes,Solo
+2023-01-03 01:00:00,2023-01-03 01:30:00,Business,Location_C,Location_A,2.17,Meeting,Male,Night,1.0301394199903484,City Outskirts,City Outskirts,No,Solo
+2023-01-03 02:00:00,2023-01-03 02:30:00,Personal,Location_C,Location_D,11.81,Meeting,Male,Afternoon,3.292462764995216,Downtown,Suburbs,No,Shared
+2023-01-03 03:00:00,2023-01-03 03:30:00,Business,Location_D,Location_D,20.23,Meeting,Female,Night,2.419680101747727,Downtown,Suburbs,Yes,Solo
+2023-01-03 04:00:00,2023-01-03 04:30:00,Personal,Location_D,Location_D,14.75,Meeting,Male,Night,2.727797486834734,City Outskirts,Suburbs,No,Shared
+2023-01-03 05:00:00,2023-01-03 05:30:00,Personal,Location_B,Location_C,5.26,Meal/Entertainment,Male,Afternoon,6.851872771088901,Downtown,Downtown,Yes,Solo
+2023-01-03 06:00:00,2023-01-03 06:30:00,Business,Location_C,Location_D,11.79,Meal/Entertainment,Female,Evening,8.101815140818823,Downtown,City Outskirts,No,Shared
+2023-01-03 07:00:00,2023-01-03 07:30:00,Personal,Location_A,Location_D,18.26,Meeting,Female,Morning,8.948305058970162,Downtown,City Outskirts,Yes,Solo
+2023-01-03 08:00:00,2023-01-03 08:30:00,Business,Location_D,Location_C,5.92,Meeting,Male,Night,2.842346786557906,City Outskirts,City Outskirts,No,Solo
+2023-01-03 09:00:00,2023-01-03 09:30:00,Personal,Location_B,Location_C,1.37,Airport,Male,Evening,5.87898339271649,Suburbs,Suburbs,Yes,Shared
+2023-01-03 10:00:00,2023-01-03 10:30:00,Personal,Location_B,Location_A,6.61,Airport,Female,Morning,3.8008825296785034,Downtown,Downtown,Yes,Solo
+2023-01-03 11:00:00,2023-01-03 11:30:00,Business,Location_B,Location_C,12.41,Meeting,Male,Afternoon,4.193635550023079,Downtown,Downtown,Yes,Solo
+2023-01-03 12:00:00,2023-01-03 12:30:00,Personal,Location_A,Location_D,24.62,Errand/Supplies,Male,Night,4.476985817656026,Downtown,Downtown,No,Shared
+2023-01-03 13:00:00,2023-01-03 13:30:00,Business,Location_D,Location_B,4.15,Meeting,Male,Morning,7.049311072215264,Downtown,Suburbs,No,Shared
+2023-01-03 14:00:00,2023-01-03 14:30:00,Business,Location_C,Location_B,23.96,Customer Visit,Female,Night,4.810525794610818,Downtown,City Outskirts,No,Solo
+2023-01-03 15:00:00,2023-01-03 15:30:00,Personal,Location_D,Location_C,5.54,Airport,Male,Afternoon,5.4892190663256635,Downtown,Downtown,Yes,Shared
+2023-01-03 16:00:00,2023-01-03 16:30:00,Personal,Location_B,Location_B,9.4,Airport,Male,Afternoon,3.483961386417111,Downtown,Suburbs,No,Shared
+2023-01-03 17:00:00,2023-01-03 17:30:00,Personal,Location_A,Location_D,21.84,Errand/Supplies,Male,Night,7.5276291926668195,City Outskirts,Suburbs,Yes,Solo
+2023-01-03 18:00:00,2023-01-03 18:30:00,Personal,Location_C,Location_C,16.52,Meeting,Male,Evening,6.436141068798623,City Outskirts,Downtown,Yes,Solo
+2023-01-03 19:00:00,2023-01-03 19:30:00,Business,Location_D,Location_D,7.46,Customer Visit,Male,Evening,2.686843481475051,Suburbs,Suburbs,Yes,Shared
+2023-01-03 20:00:00,2023-01-03 20:30:00,Personal,Location_C,Location_D,23.29,Meal/Entertainment,Male,Morning,4.40094369597484,Downtown,Suburbs,Yes,Solo
+2023-01-03 21:00:00,2023-01-03 21:30:00,Personal,Location_D,Location_C,20.55,Customer Visit,Male,Evening,7.220368317665493,Downtown,City Outskirts,Yes,Shared
+2023-01-03 22:00:00,2023-01-03 22:30:00,Personal,Location_B,Location_B,1.33,Meal/Entertainment,Female,Afternoon,4.151986793401802,Suburbs,City Outskirts,Yes,Solo
+2023-01-03 23:00:00,2023-01-03 23:30:00,Business,Location_D,Location_B,19.48,Airport,Female,Night,4.796829618308827,City Outskirts,City Outskirts,Yes,Shared
+2023-01-04 00:00:00,2023-01-04 00:30:00,Business,Location_B,Location_A,14.07,Airport,Male,Afternoon,1.424980158560622,Suburbs,Suburbs,No,Solo
+2023-01-04 01:00:00,2023-01-04 01:30:00,Business,Location_A,Location_A,2.91,Airport,Female,Evening,6.858587088965365,City Outskirts,Suburbs,No,Shared
+2023-01-04 02:00:00,2023-01-04 02:30:00,Business,Location_D,Location_B,9.56,Customer Visit,Female,Night,2.2046473271978506,Suburbs,Downtown,Yes,Shared
+2023-01-04 03:00:00,2023-01-04 03:30:00,Business,Location_A,Location_A,21.92,Meeting,Male,Morning,2.041840068744831,Downtown,Downtown,Yes,Solo
+2023-01-04 04:00:00,2023-01-04 04:30:00,Personal,Location_B,Location_D,7.36,Meeting,Male,Night,8.613536621288262,City Outskirts,Suburbs,No,Shared
+2023-01-04 05:00:00,2023-01-04 05:30:00,Business,Location_C,Location_C,23.85,Errand/Supplies,Male,Night,2.3312959216263827,City Outskirts,Downtown,No,Shared
+2023-01-04 06:00:00,2023-01-04 06:30:00,Business,Location_A,Location_C,13.34,Customer Visit,Female,Afternoon,2.1728363601106855,Downtown,City Outskirts,No,Shared
+2023-01-04 07:00:00,2023-01-04 07:30:00,Personal,Location_C,Location_C,6.04,Meal/Entertainment,Female,Night,5.111325623482326,Downtown,Downtown,Yes,Shared
+2023-01-04 08:00:00,2023-01-04 08:30:00,Personal,Location_C,Location_C,5.78,Meal/Entertainment,Male,Morning,5.18761688275184,City Outskirts,Suburbs,Yes,Shared
+2023-01-04 09:00:00,2023-01-04 09:30:00,Business,Location_B,Location_B,5.95,Airport,Male,Morning,2.337419597367443,Suburbs,City Outskirts,No,Shared
+2023-01-04 10:00:00,2023-01-04 10:30:00,Business,Location_D,Location_D,6.39,Airport,Female,Afternoon,9.805616488345933,Downtown,City Outskirts,Yes,Solo
+2023-01-04 11:00:00,2023-01-04 11:30:00,Business,Location_D,Location_B,9.77,Airport,Female,Evening,9.3011519578019,City Outskirts,Downtown,No,Shared
+2023-01-04 12:00:00,2023-01-04 12:30:00,Personal,Location_B,Location_B,1.85,Customer Visit,Male,Afternoon,8.208169106077023,Suburbs,Downtown,Yes,Shared
+2023-01-04 13:00:00,2023-01-04 13:30:00,Business,Location_A,Location_C,13.15,Customer Visit,Female,Morning,8.850826257381875,Suburbs,Downtown,Yes,Solo
+2023-01-04 14:00:00,2023-01-04 14:30:00,Business,Location_B,Location_D,8.85,Customer Visit,Male,Evening,8.910957408477076,City Outskirts,Downtown,Yes,Shared
+2023-01-04 15:00:00,2023-01-04 15:30:00,Personal,Location_D,Location_B,1.09,Airport,Male,Night,5.308842580586249,Downtown,Downtown,No,Solo
+2023-01-04 16:00:00,2023-01-04 16:30:00,Personal,Location_C,Location_B,20.78,Meeting,Male,Evening,2.5240317079931653,City Outskirts,Downtown,Yes,Shared
+2023-01-04 17:00:00,2023-01-04 17:30:00,Business,Location_B,Location_B,13.12,Errand/Supplies,Male,Night,5.968783864946889,Downtown,Suburbs,No,Solo
+2023-01-04 18:00:00,2023-01-04 18:30:00,Personal,Location_C,Location_C,11.3,Customer Visit,Male,Evening,5.658520335547463,Suburbs,Downtown,Yes,Shared
+2023-01-04 19:00:00,2023-01-04 19:30:00,Personal,Location_B,Location_A,16.68,Meeting,Male,Afternoon,3.151081172286926,City Outskirts,Suburbs,No,Solo
+2023-01-04 20:00:00,2023-01-04 20:30:00,Personal,Location_B,Location_C,4.62,Meal/Entertainment,Male,Evening,8.569603595898016,City Outskirts,Downtown,No,Shared
+2023-01-04 21:00:00,2023-01-04 21:30:00,Business,Location_B,Location_A,22.95,Errand/Supplies,Female,Morning,4.983359861210113,Downtown,Suburbs,No,Solo
+2023-01-04 22:00:00,2023-01-04 22:30:00,Business,Location_B,Location_A,3.1,Errand/Supplies,Male,Evening,2.831219858325769,Suburbs,Downtown,Yes,Shared
+2023-01-04 23:00:00,2023-01-04 23:30:00,Business,Location_C,Location_B,19.11,Meeting,Male,Morning,8.269684471429315,Suburbs,Downtown,Yes,Solo
+2023-01-05 00:00:00,2023-01-05 00:30:00,Business,Location_B,Location_D,18.78,Customer Visit,Female,Morning,9.444529282021877,Suburbs,Downtown,Yes,Solo
+2023-01-05 01:00:00,2023-01-05 01:30:00,Personal,Location_A,Location_C,5.43,Airport,Female,Evening,9.474135879934984,Suburbs,Downtown,Yes,Shared
+2023-01-05 02:00:00,2023-01-05 02:30:00,Business,Location_A,Location_A,2.1,Customer Visit,Male,Afternoon,5.516873886898761,Suburbs,Suburbs,Yes,Solo
+2023-01-05 03:00:00,2023-01-05 03:30:00,Business,Location_A,Location_B,23.11,Airport,Male,Morning,5.565496335778885,Downtown,Suburbs,No,Shared
+2023-01-05 04:00:00,2023-01-05 04:30:00,Business,Location_C,Location_D,14.9,Meeting,Female,Morning,2.0057551714639623,City Outskirts,City Outskirts,Yes,Solo
+2023-01-05 05:00:00,2023-01-05 05:30:00,Business,Location_D,Location_C,14.9,Meal/Entertainment,Female,Evening,5.880803677002046,Downtown,Downtown,Yes,Solo
+2023-01-05 06:00:00,2023-01-05 06:30:00,Business,Location_D,Location_A,10.83,Meal/Entertainment,Male,Morning,4.786088141130325,City Outskirts,City Outskirts,Yes,Shared
+2023-01-05 07:00:00,2023-01-05 07:30:00,Business,Location_C,Location_B,1.2,Customer Visit,Male,Evening,7.388976499835449,City Outskirts,Downtown,Yes,Solo
+2023-01-05 08:00:00,2023-01-05 08:30:00,Personal,Location_C,Location_A,5.98,Airport,Female,Evening,4.568802243719809,Downtown,Downtown,No,Shared
+2023-01-05 09:00:00,2023-01-05 09:30:00,Business,Location_D,Location_C,15.09,Errand/Supplies,Female,Morning,4.129838355559786,Suburbs,Downtown,No,Solo
+2023-01-05 10:00:00,2023-01-05 10:30:00,Personal,Location_B,Location_C,23.18,Errand/Supplies,Male,Night,8.049816346380613,City Outskirts,Suburbs,Yes,Solo
+2023-01-05 11:00:00,2023-01-05 11:30:00,Personal,Location_D,Location_C,7.88,Customer Visit,Male,Evening,9.758609805169613,City Outskirts,Downtown,No,Shared
+2023-01-05 12:00:00,2023-01-05 12:30:00,Business,Location_C,Location_C,23.88,Errand/Supplies,Female,Evening,7.456562443725254,City Outskirts,Downtown,Yes,Shared
+2023-01-05 13:00:00,2023-01-05 13:30:00,Personal,Location_C,Location_D,15.23,Airport,Female,Morning,4.060708093733022,City Outskirts,Suburbs,No,Solo
+2023-01-05 14:00:00,2023-01-05 14:30:00,Business,Location_D,Location_B,3.1,Errand/Supplies,Male,Night,7.2180655764404005,Suburbs,Downtown,No,Shared
+2023-01-05 15:00:00,2023-01-05 15:30:00,Personal,Location_B,Location_A,3.29,Meal/Entertainment,Female,Morning,5.689778484772235,Downtown,Downtown,Yes,Solo
+2023-01-05 16:00:00,2023-01-05 16:30:00,Personal,Location_A,Location_C,9.46,Errand/Supplies,Female,Afternoon,8.159842416715357,Suburbs,Downtown,No,Shared
+2023-01-05 17:00:00,2023-01-05 17:30:00,Business,Location_A,Location_B,10.23,Airport,Female,Afternoon,2.1869024736167892,City Outskirts,City Outskirts,Yes,Shared
+2023-01-05 18:00:00,2023-01-05 18:30:00,Business,Location_C,Location_D,8.02,Meeting,Female,Night,7.6413681173700425,City Outskirts,City Outskirts,No,Solo
+2023-01-05 19:00:00,2023-01-05 19:30:00,Business,Location_A,Location_C,7.43,Airport,Male,Night,5.898921121928976,Downtown,Downtown,No,Shared
+2023-01-05 20:00:00,2023-01-05 20:30:00,Personal,Location_D,Location_D,11.89,Airport,Female,Afternoon,4.872282252997761,Downtown,Suburbs,No,Solo
+2023-01-05 21:00:00,2023-01-05 21:30:00,Personal,Location_A,Location_B,16.34,Meal/Entertainment,Female,Morning,8.578305294840476,Suburbs,Downtown,No,Solo
+2023-01-05 22:00:00,2023-01-05 22:30:00,Business,Location_A,Location_D,4.62,Errand/Supplies,Female,Evening,2.799638375278701,Downtown,Suburbs,No,Solo
+2023-01-05 23:00:00,2023-01-05 23:30:00,Personal,Location_A,Location_D,23.9,Customer Visit,Male,Morning,3.632144739875871,Downtown,Suburbs,No,Shared
+2023-01-06 00:00:00,2023-01-06 00:30:00,Business,Location_A,Location_C,7.18,Customer Visit,Male,Afternoon,5.31361016088536,City Outskirts,Suburbs,Yes,Solo
+2023-01-06 01:00:00,2023-01-06 01:30:00,Business,Location_A,Location_B,3.64,Meal/Entertainment,Male,Evening,6.253094119864218,Downtown,Downtown,No,Solo
+2023-01-06 02:00:00,2023-01-06 02:30:00,Personal,Location_B,Location_A,9.15,Airport,Female,Night,7.589775444495064,Downtown,Suburbs,Yes,Solo
+2023-01-06 03:00:00,2023-01-06 03:30:00,Business,Location_B,Location_B,1.2,Meal/Entertainment,Female,Morning,4.69366813120744,Suburbs,Suburbs,Yes,Shared
+2023-01-06 04:00:00,2023-01-06 04:30:00,Business,Location_C,Location_A,4.73,Airport,Male,Afternoon,9.23835312474563,Downtown,Suburbs,Yes,Shared
+2023-01-06 05:00:00,2023-01-06 05:30:00,Personal,Location_D,Location_C,6.42,Meal/Entertainment,Male,Night,1.4689382120425414,Suburbs,Suburbs,No,Shared
+2023-01-06 06:00:00,2023-01-06 06:30:00,Business,Location_B,Location_D,14.83,Customer Visit,Female,Night,9.989116608331404,City Outskirts,City Outskirts,Yes,Solo
+2023-01-06 07:00:00,2023-01-06 07:30:00,Personal,Location_B,Location_C,7.42,Errand/Supplies,Female,Evening,9.806154449755876,City Outskirts,Suburbs,Yes,Solo
+2023-01-06 08:00:00,2023-01-06 08:30:00,Business,Location_C,Location_D,12.74,Errand/Supplies,Male,Afternoon,5.968518356715276,Suburbs,City Outskirts,Yes,Solo
+2023-01-06 09:00:00,2023-01-06 09:30:00,Personal,Location_A,Location_C,2.19,Meal/Entertainment,Male,Evening,5.895350742199491,Suburbs,Downtown,No,Solo
+2023-01-06 10:00:00,2023-01-06 10:30:00,Personal,Location_A,Location_D,18.77,Meal/Entertainment,Female,Evening,9.736424277247739,Suburbs,City Outskirts,Yes,Shared
+2023-01-06 11:00:00,2023-01-06 11:30:00,Personal,Location_A,Location_A,13.62,Errand/Supplies,Male,Afternoon,4.122918162458781,Downtown,City Outskirts,No,Shared
+2023-01-06 12:00:00,2023-01-06 12:30:00,Personal,Location_A,Location_D,8.47,Meeting,Male,Night,4.269142334378207,City Outskirts,City Outskirts,Yes,Shared
+2023-01-06 13:00:00,2023-01-06 13:30:00,Personal,Location_D,Location_B,15.83,Meal/Entertainment,Male,Night,6.414756099072475,City Outskirts,City Outskirts,Yes,Solo
+2023-01-06 14:00:00,2023-01-06 14:30:00,Personal,Location_C,Location_B,1.64,Errand/Supplies,Female,Night,8.75539210338211,Suburbs,Downtown,Yes,Shared
+2023-01-06 15:00:00,2023-01-06 15:30:00,Personal,Location_B,Location_A,23.65,Meeting,Female,Night,6.074841407324657,Suburbs,City Outskirts,Yes,Shared
+2023-01-06 16:00:00,2023-01-06 16:30:00,Personal,Location_D,Location_A,6.91,Airport,Female,Night,7.95348904882376,City Outskirts,City Outskirts,No,Solo
+2023-01-06 17:00:00,2023-01-06 17:30:00,Business,Location_B,Location_A,18.86,Meal/Entertainment,Female,Evening,3.6481711018831313,Downtown,City Outskirts,No,Shared
+2023-01-06 18:00:00,2023-01-06 18:30:00,Business,Location_B,Location_A,14.11,Errand/Supplies,Male,Afternoon,2.2209504072872512,Suburbs,Downtown,Yes,Solo
+2023-01-06 19:00:00,2023-01-06 19:30:00,Business,Location_A,Location_B,15.39,Meeting,Male,Evening,1.4461151318229906,City Outskirts,Suburbs,No,Solo
+2023-01-06 20:00:00,2023-01-06 20:30:00,Business,Location_B,Location_B,24.5,Errand/Supplies,Male,Afternoon,9.844628383901645,Downtown,Downtown,No,Shared
+2023-01-06 21:00:00,2023-01-06 21:30:00,Business,Location_D,Location_A,21.44,Meal/Entertainment,Male,Night,3.618961065471834,City Outskirts,Suburbs,No,Shared
+2023-01-06 22:00:00,2023-01-06 22:30:00,Business,Location_D,Location_C,13.45,Meal/Entertainment,Male,Evening,5.10894748153178,Suburbs,City Outskirts,Yes,Solo
+2023-01-06 23:00:00,2023-01-06 23:30:00,Personal,Location_C,Location_A,3.23,Meal/Entertainment,Female,Morning,8.976277145051082,City Outskirts,City Outskirts,No,Shared
+2023-01-07 00:00:00,2023-01-07 00:30:00,Business,Location_A,Location_A,21.26,Meeting,Male,Evening,6.7576641618198545,City Outskirts,Downtown,No,Solo
+2023-01-07 01:00:00,2023-01-07 01:30:00,Personal,Location_A,Location_B,8.68,Meal/Entertainment,Female,Morning,5.6633790661857635,Downtown,Downtown,Yes,Solo
+2023-01-07 02:00:00,2023-01-07 02:30:00,Business,Location_D,Location_D,8.47,Meeting,Male,Morning,5.9171610125349545,Suburbs,Suburbs,No,Solo
+2023-01-07 03:00:00,2023-01-07 03:30:00,Personal,Location_A,Location_B,17.31,Meal/Entertainment,Female,Night,2.2281276461169326,City Outskirts,City Outskirts,Yes,Solo
+2023-01-07 04:00:00,2023-01-07 04:30:00,Business,Location_D,Location_D,17.13,Errand/Supplies,Female,Afternoon,2.2939210598855198,Suburbs,City Outskirts,No,Solo
+2023-01-07 05:00:00,2023-01-07 05:30:00,Personal,Location_B,Location_C,2.1,Meal/Entertainment,Male,Afternoon,1.8504954258857458,City Outskirts,Downtown,No,Solo
+2023-01-07 06:00:00,2023-01-07 06:30:00,Personal,Location_B,Location_C,5.09,Customer Visit,Male,Morning,2.3095881161272676,City Outskirts,Downtown,Yes,Shared
+2023-01-07 07:00:00,2023-01-07 07:30:00,Business,Location_D,Location_C,24.9,Meeting,Female,Night,4.6541285827397285,City Outskirts,City Outskirts,No,Shared
+2023-01-07 08:00:00,2023-01-07 08:30:00,Business,Location_C,Location_D,1.45,Customer Visit,Female,Morning,6.823833513673087,Downtown,City Outskirts,No,Shared
+2023-01-07 09:00:00,2023-01-07 09:30:00,Business,Location_A,Location_B,11.42,Errand/Supplies,Female,Night,7.295554125412913,Downtown,Downtown,Yes,Shared
+2023-01-07 10:00:00,2023-01-07 10:30:00,Business,Location_D,Location_C,3.49,Customer Visit,Female,Night,6.126062813869513,City Outskirts,Suburbs,Yes,Solo
+2023-01-07 11:00:00,2023-01-07 11:30:00,Business,Location_A,Location_B,18.43,Errand/Supplies,Male,Night,8.768242104468133,Suburbs,Downtown,No,Shared
+2023-01-07 12:00:00,2023-01-07 12:30:00,Personal,Location_B,Location_D,6.78,Meal/Entertainment,Female,Evening,5.327250255948429,Suburbs,City Outskirts,Yes,Shared
+2023-01-07 13:00:00,2023-01-07 13:30:00,Personal,Location_A,Location_D,10.45,Meeting,Male,Afternoon,1.5486116653578197,City Outskirts,City Outskirts,Yes,Solo
+2023-01-07 14:00:00,2023-01-07 14:30:00,Business,Location_A,Location_C,9.24,Meal/Entertainment,Female,Morning,4.589968344213949,City Outskirts,City Outskirts,No,Solo
+2023-01-07 15:00:00,2023-01-07 15:30:00,Personal,Location_B,Location_D,3.03,Customer Visit,Female,Morning,6.269581607350058,City Outskirts,Downtown,Yes,Solo
+2023-01-07 16:00:00,2023-01-07 16:30:00,Personal,Location_D,Location_C,10.28,Airport,Male,Night,9.079605660887676,City Outskirts,Suburbs,Yes,Shared
+2023-01-07 17:00:00,2023-01-07 17:30:00,Personal,Location_A,Location_C,4.94,Meal/Entertainment,Female,Evening,5.77996974522379,Suburbs,Downtown,No,Solo
+2023-01-07 18:00:00,2023-01-07 18:30:00,Business,Location_A,Location_A,18.75,Customer Visit,Male,Night,2.7425638994003467,Downtown,City Outskirts,Yes,Solo
+2023-01-07 19:00:00,2023-01-07 19:30:00,Business,Location_B,Location_D,8.36,Errand/Supplies,Male,Night,6.530934254939719,City Outskirts,Suburbs,Yes,Shared
+2023-01-07 20:00:00,2023-01-07 20:30:00,Business,Location_C,Location_D,2.16,Meeting,Female,Afternoon,7.746460039526742,Suburbs,City Outskirts,No,Shared
+2023-01-07 21:00:00,2023-01-07 21:30:00,Business,Location_C,Location_A,9.17,Errand/Supplies,Male,Night,7.683455135529586,City Outskirts,City Outskirts,No,Solo
+2023-01-07 22:00:00,2023-01-07 22:30:00,Business,Location_D,Location_B,19.62,Customer Visit,Male,Evening,4.888237448136257,City Outskirts,City Outskirts,No,Shared
+2023-01-07 23:00:00,2023-01-07 23:30:00,Business,Location_B,Location_D,9.72,Meeting,Female,Morning,6.986488927744474,Suburbs,Suburbs,Yes,Shared
+2023-01-08 00:00:00,2023-01-08 00:30:00,Business,Location_D,Location_D,4.8,Customer Visit,Female,Night,4.278196382455308,Suburbs,Downtown,Yes,Solo
+2023-01-08 01:00:00,2023-01-08 01:30:00,Personal,Location_B,Location_A,11.52,Meeting,Female,Morning,3.2936694439136303,City Outskirts,City Outskirts,Yes,Solo
+2023-01-08 02:00:00,2023-01-08 02:30:00,Personal,Location_A,Location_C,8.31,Meal/Entertainment,Male,Morning,2.6030498456927105,Downtown,Suburbs,Yes,Shared
+2023-01-08 03:00:00,2023-01-08 03:30:00,Personal,Location_D,Location_B,18.35,Errand/Supplies,Female,Afternoon,4.353720289112394,Downtown,Suburbs,Yes,Solo
+2023-01-08 04:00:00,2023-01-08 04:30:00,Business,Location_D,Location_D,20.98,Customer Visit,Female,Evening,5.241199412482201,Suburbs,Downtown,Yes,Solo
+2023-01-08 05:00:00,2023-01-08 05:30:00,Personal,Location_A,Location_A,4.08,Meeting,Female,Evening,9.682747512394108,Downtown,Downtown,Yes,Shared
+2023-01-08 06:00:00,2023-01-08 06:30:00,Business,Location_D,Location_C,9.77,Customer Visit,Female,Morning,7.930024585198615,Suburbs,Suburbs,Yes,Shared
+2023-01-08 07:00:00,2023-01-08 07:30:00,Business,Location_A,Location_D,11.75,Customer Visit,Female,Morning,9.95023989018617,City Outskirts,Suburbs,Yes,Shared
+2023-01-08 08:00:00,2023-01-08 08:30:00,Business,Location_D,Location_B,19.27,Airport,Male,Night,8.51183877036527,Downtown,Suburbs,Yes,Shared
+2023-01-08 09:00:00,2023-01-08 09:30:00,Personal,Location_D,Location_A,13.95,Errand/Supplies,Female,Night,3.1831722618880844,Suburbs,Suburbs,Yes,Shared
+2023-01-08 10:00:00,2023-01-08 10:30:00,Business,Location_A,Location_C,12.45,Meeting,Female,Morning,9.141135875881501,Downtown,Downtown,Yes,Shared
+2023-01-08 11:00:00,2023-01-08 11:30:00,Business,Location_D,Location_D,23.19,Errand/Supplies,Female,Afternoon,7.769621612262576,Suburbs,Suburbs,No,Solo
+2023-01-08 12:00:00,2023-01-08 12:30:00,Business,Location_A,Location_C,17.69,Customer Visit,Female,Afternoon,3.3620099978848472,Suburbs,Suburbs,No,Solo
+2023-01-08 13:00:00,2023-01-08 13:30:00,Business,Location_C,Location_D,24.21,Meal/Entertainment,Male,Afternoon,5.283820531877842,Suburbs,City Outskirts,No,Solo
+2023-01-08 14:00:00,2023-01-08 14:30:00,Business,Location_C,Location_B,9.94,Errand/Supplies,Male,Morning,6.641209898086358,City Outskirts,Downtown,No,Solo
+2023-01-08 15:00:00,2023-01-08 15:30:00,Business,Location_D,Location_A,9.85,Errand/Supplies,Female,Morning,4.5628802682931635,City Outskirts,Downtown,No,Shared
+2023-01-08 16:00:00,2023-01-08 16:30:00,Business,Location_B,Location_D,14.34,Meeting,Male,Evening,3.675777942819548,Downtown,Downtown,Yes,Shared
+2023-01-08 17:00:00,2023-01-08 17:30:00,Business,Location_C,Location_B,13.98,Airport,Female,Afternoon,8.35353843345745,Suburbs,Downtown,No,Shared
+2023-01-08 18:00:00,2023-01-08 18:30:00,Business,Location_C,Location_B,20.34,Airport,Female,Morning,6.211880968171339,Suburbs,Downtown,No,Shared
+2023-01-08 19:00:00,2023-01-08 19:30:00,Personal,Location_D,Location_B,9.86,Meal/Entertainment,Male,Night,3.700560764476859,City Outskirts,Downtown,Yes,Shared
+2023-01-08 20:00:00,2023-01-08 20:30:00,Business,Location_C,Location_B,3.67,Meeting,Male,Evening,7.159266844366338,Suburbs,Suburbs,Yes,Solo
+2023-01-08 21:00:00,2023-01-08 21:30:00,Personal,Location_D,Location_C,9.03,Meeting,Male,Night,9.94750248484015,City Outskirts,Suburbs,Yes,Solo
+2023-01-08 22:00:00,2023-01-08 22:30:00,Personal,Location_A,Location_C,10.34,Meal/Entertainment,Female,Morning,2.5010784605571037,City Outskirts,City Outskirts,Yes,Shared
+2023-01-08 23:00:00,2023-01-08 23:30:00,Business,Location_D,Location_C,22.73,Errand/Supplies,Female,Night,4.279899690757894,Suburbs,Downtown,Yes,Solo
+2023-01-09 00:00:00,2023-01-09 00:30:00,Personal,Location_C,Location_C,15.68,Airport,Female,Night,8.305620550011367,City Outskirts,Suburbs,Yes,Shared
+2023-01-09 01:00:00,2023-01-09 01:30:00,Business,Location_A,Location_A,15.92,Errand/Supplies,Female,Evening,5.8761013463550125,Suburbs,City Outskirts,No,Solo
+2023-01-09 02:00:00,2023-01-09 02:30:00,Personal,Location_D,Location_C,11.9,Customer Visit,Male,Night,5.997854604814876,City Outskirts,City Outskirts,No,Shared
+2023-01-09 03:00:00,2023-01-09 03:30:00,Business,Location_D,Location_A,7.82,Meeting,Male,Morning,4.89265635453072,Downtown,Downtown,No,Shared
+2023-01-09 04:00:00,2023-01-09 04:30:00,Business,Location_D,Location_A,17.13,Meal/Entertainment,Female,Evening,5.388734980483555,Downtown,City Outskirts,No,Shared
+2023-01-09 05:00:00,2023-01-09 05:30:00,Business,Location_A,Location_A,23.12,Customer Visit,Female,Morning,5.821351608755122,City Outskirts,City Outskirts,Yes,Solo
+2023-01-09 06:00:00,2023-01-09 06:30:00,Business,Location_B,Location_D,3.52,Meeting,Male,Afternoon,2.6270204233115693,City Outskirts,Suburbs,Yes,Shared
+2023-01-09 07:00:00,2023-01-09 07:30:00,Personal,Location_C,Location_B,11.27,Errand/Supplies,Female,Night,5.117651725013613,Downtown,Suburbs,No,Solo
+2023-01-09 08:00:00,2023-01-09 08:30:00,Business,Location_B,Location_B,21.41,Airport,Male,Evening,2.358308971573378,City Outskirts,Downtown,No,Shared
+2023-01-09 09:00:00,2023-01-09 09:30:00,Business,Location_B,Location_C,19.4,Meeting,Male,Night,3.6497600971868667,City Outskirts,Downtown,No,Shared
+2023-01-09 10:00:00,2023-01-09 10:30:00,Personal,Location_B,Location_D,7.89,Meeting,Female,Afternoon,6.963329991384357,City Outskirts,Downtown,Yes,Solo
+2023-01-09 11:00:00,2023-01-09 11:30:00,Personal,Location_A,Location_D,8.41,Customer Visit,Female,Morning,5.370907415780246,Suburbs,Suburbs,Yes,Solo
+2023-01-09 12:00:00,2023-01-09 12:30:00,Personal,Location_A,Location_D,18.73,Errand/Supplies,Male,Afternoon,9.929998229091112,Downtown,City Outskirts,No,Solo
+2023-01-09 13:00:00,2023-01-09 13:30:00,Business,Location_D,Location_B,13.89,Customer Visit,Female,Morning,9.073533857045867,Downtown,Downtown,No,Shared
+2023-01-09 14:00:00,2023-01-09 14:30:00,Business,Location_A,Location_B,20.04,Airport,Male,Evening,4.454066616913058,Suburbs,City Outskirts,No,Shared
+2023-01-09 15:00:00,2023-01-09 15:30:00,Personal,Location_C,Location_A,13.63,Errand/Supplies,Female,Afternoon,5.476955209986261,City Outskirts,City Outskirts,Yes,Shared
+2023-01-09 16:00:00,2023-01-09 16:30:00,Business,Location_C,Location_D,18.59,Customer Visit,Male,Morning,6.685382744069654,Downtown,Suburbs,Yes,Solo
+2023-01-09 17:00:00,2023-01-09 17:30:00,Business,Location_C,Location_B,18.62,Airport,Female,Morning,4.022107919704921,Suburbs,Downtown,Yes,Shared
+2023-01-09 18:00:00,2023-01-09 18:30:00,Business,Location_A,Location_D,11.65,Customer Visit,Male,Evening,5.156422155264944,Suburbs,Suburbs,No,Shared
+2023-01-09 19:00:00,2023-01-09 19:30:00,Business,Location_D,Location_A,22.55,Meal/Entertainment,Female,Morning,9.035249637734017,City Outskirts,Suburbs,Yes,Solo
+2023-01-09 20:00:00,2023-01-09 20:30:00,Personal,Location_B,Location_D,20.99,Meal/Entertainment,Male,Afternoon,6.3616580120354325,City Outskirts,Downtown,No,Shared
+2023-01-09 21:00:00,2023-01-09 21:30:00,Business,Location_C,Location_B,7.5,Meeting,Male,Evening,4.993386788223287,Suburbs,Suburbs,Yes,Solo
+2023-01-09 22:00:00,2023-01-09 22:30:00,Personal,Location_D,Location_D,10.9,Airport,Female,Afternoon,9.793234036734304,Suburbs,Downtown,Yes,Shared
+2023-01-09 23:00:00,2023-01-09 23:30:00,Business,Location_A,Location_A,12.66,Airport,Female,Night,4.841941186123313,Suburbs,City Outskirts,Yes,Solo
+2023-01-10 00:00:00,2023-01-10 00:30:00,Personal,Location_C,Location_D,20.65,Meal/Entertainment,Female,Night,4.5928691917081075,City Outskirts,Suburbs,Yes,Solo
+2023-01-10 01:00:00,2023-01-10 01:30:00,Personal,Location_C,Location_B,1.19,Meeting,Female,Night,2.59745527152288,Suburbs,Downtown,No,Solo
+2023-01-10 02:00:00,2023-01-10 02:30:00,Personal,Location_C,Location_D,11.43,Customer Visit,Female,Night,7.943398244990348,Suburbs,City Outskirts,Yes,Solo
+2023-01-10 03:00:00,2023-01-10 03:30:00,Personal,Location_C,Location_B,9.54,Airport,Male,Afternoon,3.484115611864261,Suburbs,City Outskirts,Yes,Shared
+2023-01-10 04:00:00,2023-01-10 04:30:00,Business,Location_B,Location_C,13.34,Customer Visit,Male,Evening,9.320306515371447,Suburbs,Downtown,Yes,Shared
+2023-01-10 05:00:00,2023-01-10 05:30:00,Business,Location_A,Location_A,21.37,Meal/Entertainment,Male,Morning,1.1081480135000157,City Outskirts,Suburbs,No,Shared
+2023-01-10 06:00:00,2023-01-10 06:30:00,Personal,Location_B,Location_D,20.82,Airport,Male,Evening,5.957382314070286,Suburbs,City Outskirts,Yes,Solo
+2023-01-10 07:00:00,2023-01-10 07:30:00,Business,Location_D,Location_D,21.23,Meal/Entertainment,Male,Evening,3.975858607990972,City Outskirts,City Outskirts,Yes,Solo
+2023-01-10 08:00:00,2023-01-10 08:30:00,Personal,Location_A,Location_C,11.33,Errand/Supplies,Male,Night,6.379435307442127,Suburbs,Downtown,No,Solo
+2023-01-10 09:00:00,2023-01-10 09:30:00,Business,Location_A,Location_D,22.85,Meal/Entertainment,Female,Morning,6.782320315592237,Suburbs,Downtown,No,Solo
+2023-01-10 10:00:00,2023-01-10 10:30:00,Personal,Location_A,Location_C,18.16,Airport,Female,Night,6.454328015008977,City Outskirts,City Outskirts,No,Solo
+2023-01-10 11:00:00,2023-01-10 11:30:00,Personal,Location_A,Location_B,2.24,Meeting,Female,Morning,8.769454487212913,Downtown,Suburbs,No,Shared
+2023-01-10 12:00:00,2023-01-10 12:30:00,Business,Location_D,Location_C,12.68,Airport,Female,Evening,4.624774921515993,City Outskirts,City Outskirts,No,Solo
+2023-01-10 13:00:00,2023-01-10 13:30:00,Business,Location_C,Location_A,7.18,Errand/Supplies,Male,Night,5.4800001475290445,Downtown,City Outskirts,Yes,Shared
+2023-01-10 14:00:00,2023-01-10 14:30:00,Business,Location_A,Location_C,16.36,Airport,Female,Morning,3.69780217533663,Downtown,Downtown,Yes,Solo
+2023-01-10 15:00:00,2023-01-10 15:30:00,Business,Location_D,Location_B,2.17,Airport,Female,Afternoon,6.161248386683347,City Outskirts,Downtown,No,Solo
+2023-01-10 16:00:00,2023-01-10 16:30:00,Business,Location_B,Location_D,10.6,Airport,Male,Afternoon,6.999306170464039,City Outskirts,Downtown,Yes,Solo
+2023-01-10 17:00:00,2023-01-10 17:30:00,Business,Location_D,Location_C,12.16,Meal/Entertainment,Female,Night,5.883564570825424,Downtown,Suburbs,No,Solo
+2023-01-10 18:00:00,2023-01-10 18:30:00,Personal,Location_C,Location_D,4.06,Meal/Entertainment,Male,Afternoon,4.464669071688482,Downtown,City Outskirts,Yes,Solo
+2023-01-10 19:00:00,2023-01-10 19:30:00,Business,Location_C,Location_D,9.79,Errand/Supplies,Male,Night,7.784694876350134,City Outskirts,City Outskirts,No,Shared
+2023-01-10 20:00:00,2023-01-10 20:30:00,Personal,Location_B,Location_D,5.05,Customer Visit,Male,Afternoon,2.3168756450761467,Downtown,Downtown,Yes,Shared
+2023-01-10 21:00:00,2023-01-10 21:30:00,Business,Location_D,Location_B,21.09,Customer Visit,Male,Afternoon,9.906053278312493,Suburbs,Suburbs,Yes,Shared
+2023-01-10 22:00:00,2023-01-10 22:30:00,Personal,Location_B,Location_A,19.75,Airport,Female,Afternoon,1.9830501742850997,Suburbs,Downtown,Yes,Solo
+2023-01-10 23:00:00,2023-01-10 23:30:00,Business,Location_C,Location_C,19.64,Meal/Entertainment,Female,Night,9.488229645622539,Downtown,City Outskirts,Yes,Solo
+2023-01-11 00:00:00,2023-01-11 00:30:00,Business,Location_C,Location_A,8.55,Meeting,Male,Afternoon,2.9996651664887954,City Outskirts,Downtown,Yes,Shared
+2023-01-11 01:00:00,2023-01-11 01:30:00,Business,Location_D,Location_C,1.68,Meal/Entertainment,Male,Morning,1.8048619631864615,Downtown,City Outskirts,Yes,Solo
+2023-01-11 02:00:00,2023-01-11 02:30:00,Business,Location_A,Location_A,6.95,Meal/Entertainment,Male,Morning,8.67279359957298,City Outskirts,City Outskirts,No,Solo
+2023-01-11 03:00:00,2023-01-11 03:30:00,Personal,Location_A,Location_A,18.13,Customer Visit,Female,Night,9.172586684159066,City Outskirts,Suburbs,No,Solo
+2023-01-11 04:00:00,2023-01-11 04:30:00,Personal,Location_A,Location_B,17.14,Meal/Entertainment,Female,Morning,1.347938618929941,Suburbs,City Outskirts,No,Solo
+2023-01-11 05:00:00,2023-01-11 05:30:00,Personal,Location_A,Location_A,11.58,Customer Visit,Female,Night,2.4996497744192654,Suburbs,Suburbs,No,Shared
+2023-01-11 06:00:00,2023-01-11 06:30:00,Personal,Location_A,Location_B,4.11,Customer Visit,Female,Morning,1.6219943773977512,City Outskirts,City Outskirts,No,Shared
+2023-01-11 07:00:00,2023-01-11 07:30:00,Business,Location_D,Location_B,8.36,Errand/Supplies,Female,Morning,5.100639571561032,Downtown,City Outskirts,No,Solo
+2023-01-11 08:00:00,2023-01-11 08:30:00,Personal,Location_A,Location_D,9.67,Meeting,Female,Morning,4.9509367941712155,Suburbs,Suburbs,Yes,Shared
+2023-01-11 09:00:00,2023-01-11 09:30:00,Personal,Location_D,Location_D,12.09,Meal/Entertainment,Male,Evening,6.824920418294514,City Outskirts,Downtown,Yes,Solo
+2023-01-11 10:00:00,2023-01-11 10:30:00,Business,Location_A,Location_D,15.62,Customer Visit,Female,Afternoon,5.756718259014871,City Outskirts,City Outskirts,No,Solo
+2023-01-11 11:00:00,2023-01-11 11:30:00,Business,Location_A,Location_A,5.29,Meal/Entertainment,Female,Night,8.302404652412118,Suburbs,Suburbs,No,Solo
+2023-01-11 12:00:00,2023-01-11 12:30:00,Business,Location_A,Location_D,1.13,Errand/Supplies,Male,Evening,6.731015136711708,Downtown,Downtown,Yes,Solo
+2023-01-11 13:00:00,2023-01-11 13:30:00,Personal,Location_A,Location_B,5.66,Meeting,Male,Night,7.670136687653891,City Outskirts,City Outskirts,Yes,Solo
+2023-01-11 14:00:00,2023-01-11 14:30:00,Personal,Location_D,Location_D,6.62,Meal/Entertainment,Female,Night,5.6273903130795,City Outskirts,Downtown,Yes,Solo
+2023-01-11 15:00:00,2023-01-11 15:30:00,Personal,Location_A,Location_B,9.91,Errand/Supplies,Male,Afternoon,3.4680499926604824,City Outskirts,Suburbs,Yes,Shared
+2023-01-11 16:00:00,2023-01-11 16:30:00,Personal,Location_B,Location_C,23.97,Meal/Entertainment,Male,Evening,1.718115863847258,Downtown,City Outskirts,No,Shared
+2023-01-11 17:00:00,2023-01-11 17:30:00,Business,Location_C,Location_D,6.1,Meal/Entertainment,Female,Night,7.506543249609105,City Outskirts,Suburbs,No,Shared
+2023-01-11 18:00:00,2023-01-11 18:30:00,Business,Location_D,Location_C,16.42,Customer Visit,Female,Morning,6.159148292632257,Suburbs,Downtown,Yes,Solo
+2023-01-11 19:00:00,2023-01-11 19:30:00,Business,Location_A,Location_B,21.16,Meal/Entertainment,Female,Night,3.3900096518333633,City Outskirts,City Outskirts,No,Solo
+2023-01-11 20:00:00,2023-01-11 20:30:00,Business,Location_B,Location_B,2.46,Meal/Entertainment,Female,Evening,4.7597063091372505,City Outskirts,City Outskirts,Yes,Shared
+2023-01-11 21:00:00,2023-01-11 21:30:00,Business,Location_A,Location_C,15.73,Meeting,Female,Night,4.061040205122257,Downtown,Suburbs,Yes,Solo
+2023-01-11 22:00:00,2023-01-11 22:30:00,Personal,Location_A,Location_B,6.74,Meal/Entertainment,Female,Morning,8.598252345422074,Suburbs,Suburbs,No,Shared
+2023-01-11 23:00:00,2023-01-11 23:30:00,Business,Location_D,Location_D,16.8,Airport,Male,Evening,9.737508939704856,Downtown,Downtown,Yes,Shared
+2023-01-12 00:00:00,2023-01-12 00:30:00,Business,Location_D,Location_B,3.11,Meeting,Female,Afternoon,7.632186448405988,City Outskirts,Downtown,Yes,Shared
+2023-01-12 01:00:00,2023-01-12 01:30:00,Personal,Location_A,Location_B,21.76,Meeting,Female,Afternoon,8.123802196048922,Suburbs,Suburbs,No,Shared
+2023-01-12 02:00:00,2023-01-12 02:30:00,Personal,Location_A,Location_B,18.58,Airport,Male,Evening,6.422507183479161,Suburbs,City Outskirts,Yes,Shared
+2023-01-12 03:00:00,2023-01-12 03:30:00,Personal,Location_D,Location_D,9.29,Airport,Male,Evening,4.819483910712149,Downtown,Downtown,No,Solo
+2023-01-12 04:00:00,2023-01-12 04:30:00,Business,Location_C,Location_C,15.23,Meal/Entertainment,Male,Afternoon,2.3614146347727933,City Outskirts,City Outskirts,No,Shared
+2023-01-12 05:00:00,2023-01-12 05:30:00,Personal,Location_D,Location_B,16.21,Meal/Entertainment,Male,Night,4.299453502275611,Suburbs,City Outskirts,No,Solo
+2023-01-12 06:00:00,2023-01-12 06:30:00,Personal,Location_B,Location_B,7.65,Meeting,Male,Evening,1.69742068285499,City Outskirts,Downtown,No,Shared
+2023-01-12 07:00:00,2023-01-12 07:30:00,Business,Location_D,Location_C,14.71,Meeting,Female,Afternoon,1.3243473144108955,Downtown,Suburbs,Yes,Shared
+2023-01-12 08:00:00,2023-01-12 08:30:00,Personal,Location_A,Location_B,7.73,Errand/Supplies,Female,Night,3.455077857611423,Downtown,City Outskirts,No,Shared
+2023-01-12 09:00:00,2023-01-12 09:30:00,Business,Location_C,Location_A,5.54,Meeting,Male,Night,5.052029863152632,City Outskirts,Downtown,No,Shared
+2023-01-12 10:00:00,2023-01-12 10:30:00,Personal,Location_C,Location_B,8.04,Errand/Supplies,Female,Evening,7.533137366901349,Downtown,City Outskirts,No,Solo
+2023-01-12 11:00:00,2023-01-12 11:30:00,Personal,Location_D,Location_D,24.53,Errand/Supplies,Male,Night,8.541203737633168,Downtown,Downtown,No,Shared
+2023-01-12 12:00:00,2023-01-12 12:30:00,Personal,Location_D,Location_A,23.59,Meeting,Male,Evening,2.5269341373778427,Suburbs,City Outskirts,Yes,Solo
+2023-01-12 13:00:00,2023-01-12 13:30:00,Business,Location_C,Location_B,4.95,Customer Visit,Female,Night,6.460891735756305,Downtown,Suburbs,No,Solo
+2023-01-12 14:00:00,2023-01-12 14:30:00,Personal,Location_A,Location_C,23.43,Meeting,Male,Night,9.470051166537813,Downtown,City Outskirts,No,Shared
+2023-01-12 15:00:00,2023-01-12 15:30:00,Business,Location_D,Location_D,10.21,Customer Visit,Female,Night,6.02992194923782,Suburbs,City Outskirts,Yes,Shared
+2023-01-12 16:00:00,2023-01-12 16:30:00,Business,Location_C,Location_B,23.42,Meeting,Male,Evening,9.489590143353619,City Outskirts,Suburbs,No,Shared
+2023-01-12 17:00:00,2023-01-12 17:30:00,Business,Location_D,Location_C,9.07,Meal/Entertainment,Male,Morning,4.480348107476177,Downtown,City Outskirts,Yes,Shared
+2023-01-12 18:00:00,2023-01-12 18:30:00,Personal,Location_C,Location_B,20.87,Meeting,Female,Morning,8.236287712498015,Downtown,Downtown,No,Shared
+2023-01-12 19:00:00,2023-01-12 19:30:00,Business,Location_A,Location_D,20.14,Customer Visit,Male,Afternoon,9.321962016820676,Suburbs,Downtown,Yes,Solo
+2023-01-12 20:00:00,2023-01-12 20:30:00,Personal,Location_C,Location_D,18.65,Meeting,Female,Evening,5.365288675770348,Suburbs,City Outskirts,No,Shared
+2023-01-12 21:00:00,2023-01-12 21:30:00,Personal,Location_D,Location_B,17.97,Customer Visit,Male,Afternoon,2.173831435828865,Suburbs,Suburbs,Yes,Shared
+2023-01-12 22:00:00,2023-01-12 22:30:00,Personal,Location_C,Location_B,23.08,Errand/Supplies,Male,Night,4.748340677377152,Suburbs,Downtown,No,Solo
+2023-01-12 23:00:00,2023-01-12 23:30:00,Personal,Location_A,Location_D,13.51,Customer Visit,Female,Evening,7.473155781233331,Downtown,Downtown,Yes,Solo
+2023-01-13 00:00:00,2023-01-13 00:30:00,Business,Location_B,Location_D,6.47,Meeting,Male,Night,6.7728592090728625,Suburbs,City Outskirts,Yes,Shared
+2023-01-13 01:00:00,2023-01-13 01:30:00,Business,Location_A,Location_C,11.03,Meeting,Female,Afternoon,3.6799330500983527,City Outskirts,Suburbs,No,Shared
+2023-01-13 02:00:00,2023-01-13 02:30:00,Personal,Location_C,Location_C,11.58,Errand/Supplies,Female,Night,6.742156377974144,Downtown,Downtown,Yes,Shared
+2023-01-13 03:00:00,2023-01-13 03:30:00,Personal,Location_C,Location_A,10.73,Meeting,Female,Night,6.033800894220052,Downtown,Suburbs,Yes,Shared
+2023-01-13 04:00:00,2023-01-13 04:30:00,Business,Location_C,Location_A,19.77,Meal/Entertainment,Female,Night,7.305085243576296,Downtown,Suburbs,Yes,Solo
+2023-01-13 05:00:00,2023-01-13 05:30:00,Business,Location_A,Location_A,5.62,Meeting,Female,Morning,6.111259609094941,Suburbs,Suburbs,Yes,Solo
+2023-01-13 06:00:00,2023-01-13 06:30:00,Business,Location_B,Location_B,11.22,Customer Visit,Female,Night,8.033304953698188,Suburbs,Downtown,No,Shared
+2023-01-13 07:00:00,2023-01-13 07:30:00,Personal,Location_D,Location_A,14.31,Errand/Supplies,Female,Morning,4.448258612503516,Downtown,Suburbs,Yes,Solo
+2023-01-13 08:00:00,2023-01-13 08:30:00,Business,Location_A,Location_A,2.23,Errand/Supplies,Male,Evening,6.095276837438961,Suburbs,City Outskirts,No,Shared
+2023-01-13 09:00:00,2023-01-13 09:30:00,Personal,Location_D,Location_A,22.09,Customer Visit,Male,Night,9.992005981019846,Suburbs,Downtown,Yes,Shared
+2023-01-13 10:00:00,2023-01-13 10:30:00,Business,Location_A,Location_B,21.81,Meal/Entertainment,Female,Night,7.8130827485160745,Downtown,City Outskirts,No,Solo
+2023-01-13 11:00:00,2023-01-13 11:30:00,Personal,Location_C,Location_A,1.81,Airport,Female,Night,6.774247357861327,Downtown,Downtown,No,Solo
+2023-01-13 12:00:00,2023-01-13 12:30:00,Business,Location_B,Location_C,18.99,Airport,Female,Evening,5.54454413210891,City Outskirts,Suburbs,Yes,Solo
+2023-01-13 13:00:00,2023-01-13 13:30:00,Business,Location_C,Location_B,14.31,Meeting,Male,Afternoon,6.221146405628052,City Outskirts,Suburbs,Yes,Shared
+2023-01-13 14:00:00,2023-01-13 14:30:00,Business,Location_D,Location_C,5.86,Customer Visit,Female,Evening,5.705143541047808,City Outskirts,Suburbs,No,Shared
+2023-01-13 15:00:00,2023-01-13 15:30:00,Personal,Location_D,Location_D,22.72,Customer Visit,Female,Night,3.596346691076916,City Outskirts,Downtown,Yes,Shared
+2023-01-13 16:00:00,2023-01-13 16:30:00,Business,Location_D,Location_D,11.7,Airport,Female,Evening,9.502714858821788,Suburbs,Downtown,Yes,Shared
+2023-01-13 17:00:00,2023-01-13 17:30:00,Business,Location_A,Location_C,17.6,Errand/Supplies,Male,Night,3.4095579941056156,Suburbs,City Outskirts,No,Solo
+2023-01-13 18:00:00,2023-01-13 18:30:00,Personal,Location_D,Location_A,20.35,Airport,Female,Evening,3.5480328816888744,Suburbs,City Outskirts,Yes,Shared
+2023-01-13 19:00:00,2023-01-13 19:30:00,Personal,Location_B,Location_D,13.34,Meeting,Female,Morning,8.866168496742077,Suburbs,City Outskirts,No,Solo
+2023-01-13 20:00:00,2023-01-13 20:30:00,Personal,Location_A,Location_C,4.41,Meal/Entertainment,Female,Evening,7.509587110908425,Downtown,Suburbs,Yes,Solo
+2023-01-13 21:00:00,2023-01-13 21:30:00,Personal,Location_C,Location_B,20.15,Airport,Female,Evening,5.241964260535129,Downtown,Downtown,Yes,Shared
+2023-01-13 22:00:00,2023-01-13 22:30:00,Personal,Location_D,Location_A,6.08,Errand/Supplies,Male,Evening,1.2909945205771405,Suburbs,Suburbs,No,Solo
+2023-01-13 23:00:00,2023-01-13 23:30:00,Business,Location_A,Location_B,15.82,Meeting,Female,Night,3.547228394794789,Suburbs,City Outskirts,No,Shared
+2023-01-14 00:00:00,2023-01-14 00:30:00,Business,Location_C,Location_B,2.67,Customer Visit,Female,Afternoon,5.566057707316816,City Outskirts,Suburbs,No,Solo
+2023-01-14 01:00:00,2023-01-14 01:30:00,Business,Location_A,Location_C,24.98,Meal/Entertainment,Female,Afternoon,1.3856156540887674,City Outskirts,Suburbs,Yes,Solo
+2023-01-14 02:00:00,2023-01-14 02:30:00,Personal,Location_B,Location_D,15.65,Meeting,Male,Night,8.207051759410911,City Outskirts,Suburbs,No,Solo
+2023-01-14 03:00:00,2023-01-14 03:30:00,Business,Location_A,Location_A,17.92,Errand/Supplies,Male,Evening,5.296539291674505,Suburbs,City Outskirts,Yes,Solo
+2023-01-14 04:00:00,2023-01-14 04:30:00,Personal,Location_D,Location_B,15.66,Meeting,Male,Evening,2.982805823621611,City Outskirts,Downtown,Yes,Shared
+2023-01-14 05:00:00,2023-01-14 05:30:00,Personal,Location_A,Location_A,19.58,Errand/Supplies,Male,Afternoon,4.373529621493038,Suburbs,Downtown,No,Shared
+2023-01-14 06:00:00,2023-01-14 06:30:00,Business,Location_C,Location_B,3.33,Errand/Supplies,Female,Evening,9.890418038536907,City Outskirts,City Outskirts,Yes,Solo
+2023-01-14 07:00:00,2023-01-14 07:30:00,Personal,Location_C,Location_A,16.23,Meal/Entertainment,Female,Afternoon,3.142887981943483,Suburbs,City Outskirts,No,Solo
+2023-01-14 08:00:00,2023-01-14 08:30:00,Personal,Location_A,Location_C,16.92,Meeting,Male,Evening,2.2131030163187284,City Outskirts,Suburbs,No,Shared
+2023-01-14 09:00:00,2023-01-14 09:30:00,Business,Location_D,Location_D,10.8,Airport,Female,Morning,5.865125867543874,City Outskirts,Downtown,No,Solo
+2023-01-14 10:00:00,2023-01-14 10:30:00,Personal,Location_D,Location_A,21.33,Errand/Supplies,Female,Morning,6.237897748069056,Suburbs,Suburbs,Yes,Solo
+2023-01-14 11:00:00,2023-01-14 11:30:00,Business,Location_B,Location_B,3.56,Meeting,Male,Evening,1.6091544490470016,Downtown,City Outskirts,Yes,Shared
+2023-01-14 12:00:00,2023-01-14 12:30:00,Personal,Location_D,Location_B,3.47,Customer Visit,Female,Afternoon,8.849945131229555,Suburbs,City Outskirts,No,Solo
+2023-01-14 13:00:00,2023-01-14 13:30:00,Business,Location_A,Location_C,4.45,Meal/Entertainment,Female,Evening,4.050032636592501,Downtown,Downtown,Yes,Solo
+2023-01-14 14:00:00,2023-01-14 14:30:00,Personal,Location_C,Location_B,5.88,Customer Visit,Female,Night,3.550193488900392,City Outskirts,City Outskirts,Yes,Shared
+2023-01-14 15:00:00,2023-01-14 15:30:00,Personal,Location_B,Location_D,3.39,Customer Visit,Female,Night,2.9945640383275807,Suburbs,Downtown,No,Solo
+2023-01-14 16:00:00,2023-01-14 16:30:00,Personal,Location_C,Location_C,10.79,Meal/Entertainment,Male,Night,6.274887605214378,Suburbs,City Outskirts,Yes,Shared
+2023-01-14 17:00:00,2023-01-14 17:30:00,Personal,Location_C,Location_A,17.86,Customer Visit,Female,Afternoon,7.180622433802689,City Outskirts,Suburbs,No,Shared
+2023-01-14 18:00:00,2023-01-14 18:30:00,Business,Location_A,Location_B,20.0,Meal/Entertainment,Male,Afternoon,8.124069374913702,Suburbs,City Outskirts,No,Shared
+2023-01-14 19:00:00,2023-01-14 19:30:00,Business,Location_C,Location_B,13.32,Airport,Male,Morning,2.6703065639370394,City Outskirts,City Outskirts,Yes,Shared
+2023-01-14 20:00:00,2023-01-14 20:30:00,Personal,Location_D,Location_D,14.57,Meeting,Male,Evening,7.5011481960134665,City Outskirts,City Outskirts,Yes,Solo
+2023-01-14 21:00:00,2023-01-14 21:30:00,Business,Location_A,Location_D,8.58,Errand/Supplies,Female,Afternoon,9.10872692532061,Downtown,Suburbs,Yes,Solo
+2023-01-14 22:00:00,2023-01-14 22:30:00,Business,Location_A,Location_B,16.29,Airport,Male,Night,4.039358044396648,City Outskirts,City Outskirts,No,Shared
+2023-01-14 23:00:00,2023-01-14 23:30:00,Business,Location_D,Location_B,18.91,Airport,Male,Night,6.921773780124324,Suburbs,Downtown,No,Solo
+2023-01-15 00:00:00,2023-01-15 00:30:00,Business,Location_A,Location_A,24.52,Meeting,Female,Morning,5.94872111244456,Suburbs,Suburbs,No,Shared
+2023-01-15 01:00:00,2023-01-15 01:30:00,Personal,Location_B,Location_A,1.01,Errand/Supplies,Female,Morning,8.996892592250287,City Outskirts,Downtown,Yes,Solo
+2023-01-15 02:00:00,2023-01-15 02:30:00,Business,Location_C,Location_A,14.69,Customer Visit,Male,Afternoon,5.525380556951621,City Outskirts,City Outskirts,Yes,Solo
+2023-01-15 03:00:00,2023-01-15 03:30:00,Business,Location_B,Location_C,3.7,Meeting,Female,Night,2.442927927145997,City Outskirts,Downtown,Yes,Shared
+2023-01-15 04:00:00,2023-01-15 04:30:00,Personal,Location_A,Location_A,5.31,Airport,Female,Night,2.4121779589640244,Suburbs,City Outskirts,No,Solo
+2023-01-15 05:00:00,2023-01-15 05:30:00,Business,Location_B,Location_D,10.4,Meeting,Male,Evening,5.186016914007627,City Outskirts,Suburbs,Yes,Solo
+2023-01-15 06:00:00,2023-01-15 06:30:00,Business,Location_B,Location_A,11.74,Customer Visit,Male,Evening,7.8222423865196635,Downtown,Suburbs,Yes,Shared
+2023-01-15 07:00:00,2023-01-15 07:30:00,Personal,Location_A,Location_C,23.0,Airport,Male,Morning,2.38500673647189,City Outskirts,Suburbs,No,Shared
+2023-01-15 08:00:00,2023-01-15 08:30:00,Personal,Location_D,Location_D,1.75,Airport,Female,Morning,4.23416013476735,Downtown,City Outskirts,Yes,Shared
+2023-01-15 09:00:00,2023-01-15 09:30:00,Business,Location_C,Location_A,16.49,Meal/Entertainment,Male,Morning,7.602097008302467,Suburbs,City Outskirts,No,Solo
+2023-01-15 10:00:00,2023-01-15 10:30:00,Business,Location_B,Location_A,18.88,Airport,Male,Night,4.448632569610794,Downtown,Suburbs,Yes,Shared
+2023-01-15 11:00:00,2023-01-15 11:30:00,Business,Location_C,Location_B,14.1,Errand/Supplies,Male,Night,3.78026557567817,Downtown,City Outskirts,Yes,Shared
+2023-01-15 12:00:00,2023-01-15 12:30:00,Personal,Location_C,Location_B,13.7,Meeting,Male,Morning,7.037366454337759,Suburbs,City Outskirts,Yes,Shared
+2023-01-15 13:00:00,2023-01-15 13:30:00,Personal,Location_A,Location_A,23.68,Customer Visit,Female,Afternoon,5.557214463984912,Suburbs,City Outskirts,Yes,Shared
+2023-01-15 14:00:00,2023-01-15 14:30:00,Personal,Location_A,Location_D,9.28,Airport,Male,Morning,8.668109953587686,Downtown,Downtown,Yes,Shared
+2023-01-15 15:00:00,2023-01-15 15:30:00,Personal,Location_C,Location_A,12.44,Meeting,Male,Night,4.403029997034388,Suburbs,City Outskirts,No,Shared
+2023-01-15 16:00:00,2023-01-15 16:30:00,Business,Location_A,Location_A,7.11,Errand/Supplies,Male,Morning,7.306947762733777,City Outskirts,Downtown,Yes,Solo
+2023-01-15 17:00:00,2023-01-15 17:30:00,Personal,Location_A,Location_C,18.62,Errand/Supplies,Male,Evening,2.2556928683163715,Downtown,Downtown,No,Shared
+2023-01-15 18:00:00,2023-01-15 18:30:00,Personal,Location_C,Location_B,15.47,Customer Visit,Female,Evening,8.21435927828904,City Outskirts,Suburbs,Yes,Shared
+2023-01-15 19:00:00,2023-01-15 19:30:00,Personal,Location_B,Location_B,21.23,Meeting,Male,Night,9.728901475287893,Suburbs,Suburbs,No,Shared
+2023-01-15 20:00:00,2023-01-15 20:30:00,Business,Location_C,Location_A,23.6,Airport,Female,Evening,7.880882569573398,Downtown,City Outskirts,No,Solo
+2023-01-15 21:00:00,2023-01-15 21:30:00,Personal,Location_A,Location_D,2.26,Meal/Entertainment,Male,Evening,8.485808048985163,Suburbs,Downtown,Yes,Shared
+2023-01-15 22:00:00,2023-01-15 22:30:00,Business,Location_C,Location_D,13.68,Meal/Entertainment,Female,Afternoon,5.6850943492191,Downtown,City Outskirts,Yes,Solo
+2023-01-15 23:00:00,2023-01-15 23:30:00,Personal,Location_C,Location_B,16.38,Errand/Supplies,Female,Night,2.60273375886657,Downtown,Suburbs,No,Shared
+2023-01-16 00:00:00,2023-01-16 00:30:00,Business,Location_D,Location_B,3.75,Meeting,Female,Evening,2.363497833507524,City Outskirts,Suburbs,Yes,Shared
+2023-01-16 01:00:00,2023-01-16 01:30:00,Personal,Location_B,Location_D,4.74,Customer Visit,Male,Morning,4.511173731118888,Suburbs,Downtown,No,Solo
+2023-01-16 02:00:00,2023-01-16 02:30:00,Personal,Location_B,Location_A,5.65,Meeting,Male,Afternoon,8.645090866142773,City Outskirts,City Outskirts,No,Shared
+2023-01-16 03:00:00,2023-01-16 03:30:00,Business,Location_D,Location_A,23.65,Meeting,Female,Evening,1.8774839043939393,City Outskirts,City Outskirts,Yes,Shared
+2023-01-16 04:00:00,2023-01-16 04:30:00,Business,Location_C,Location_D,7.77,Customer Visit,Male,Morning,2.1464270376244956,Downtown,City Outskirts,No,Solo
+2023-01-16 05:00:00,2023-01-16 05:30:00,Business,Location_C,Location_C,1.77,Airport,Female,Afternoon,5.671491033877938,Suburbs,Suburbs,No,Shared
+2023-01-16 06:00:00,2023-01-16 06:30:00,Business,Location_A,Location_C,18.35,Meal/Entertainment,Male,Night,1.4427199947546856,Downtown,Suburbs,Yes,Shared
+2023-01-16 07:00:00,2023-01-16 07:30:00,Personal,Location_B,Location_C,3.58,Airport,Female,Night,2.7126891446322676,City Outskirts,City Outskirts,No,Solo
+2023-01-16 08:00:00,2023-01-16 08:30:00,Personal,Location_B,Location_A,16.44,Airport,Female,Night,9.69135871230948,Downtown,Suburbs,Yes,Shared
+2023-01-16 09:00:00,2023-01-16 09:30:00,Business,Location_A,Location_D,14.54,Meeting,Female,Night,7.996608800413249,Downtown,Downtown,No,Solo
+2023-01-16 10:00:00,2023-01-16 10:30:00,Business,Location_B,Location_C,12.52,Airport,Female,Night,9.991085444107792,Downtown,Downtown,No,Solo
+2023-01-16 11:00:00,2023-01-16 11:30:00,Business,Location_C,Location_D,23.48,Airport,Male,Evening,1.927614344360486,Suburbs,City Outskirts,No,Solo
+2023-01-16 12:00:00,2023-01-16 12:30:00,Business,Location_A,Location_D,20.97,Errand/Supplies,Male,Night,2.442699398192717,Suburbs,Downtown,No,Shared
+2023-01-16 13:00:00,2023-01-16 13:30:00,Business,Location_C,Location_D,20.59,Airport,Female,Night,2.795736768608988,Suburbs,City Outskirts,No,Shared
+2023-01-16 14:00:00,2023-01-16 14:30:00,Personal,Location_A,Location_C,10.14,Meeting,Male,Morning,5.907243193420894,City Outskirts,Downtown,Yes,Shared
+2023-01-16 15:00:00,2023-01-16 15:30:00,Personal,Location_C,Location_D,16.44,Meal/Entertainment,Female,Afternoon,5.986055297501368,Downtown,Suburbs,Yes,Solo
+2023-01-16 16:00:00,2023-01-16 16:30:00,Business,Location_A,Location_A,11.97,Errand/Supplies,Male,Evening,8.321539835643435,Suburbs,Downtown,No,Solo
+2023-01-16 17:00:00,2023-01-16 17:30:00,Personal,Location_A,Location_C,12.86,Meal/Entertainment,Female,Morning,8.465382588628586,Downtown,Downtown,Yes,Shared
+2023-01-16 18:00:00,2023-01-16 18:30:00,Business,Location_B,Location_C,23.64,Errand/Supplies,Male,Night,2.9262161312813886,Suburbs,Downtown,No,Solo
+2023-01-16 19:00:00,2023-01-16 19:30:00,Personal,Location_B,Location_C,19.94,Airport,Male,Night,5.088398689796043,City Outskirts,City Outskirts,Yes,Shared
+2023-01-16 20:00:00,2023-01-16 20:30:00,Personal,Location_A,Location_D,19.98,Meal/Entertainment,Female,Evening,9.720005836560679,Downtown,City Outskirts,Yes,Solo
+2023-01-16 21:00:00,2023-01-16 21:30:00,Business,Location_A,Location_A,14.73,Customer Visit,Female,Morning,7.435950568664294,Downtown,City Outskirts,No,Solo
+2023-01-16 22:00:00,2023-01-16 22:30:00,Personal,Location_B,Location_A,10.18,Meeting,Male,Evening,2.2706315774191683,Suburbs,City Outskirts,Yes,Solo
+2023-01-16 23:00:00,2023-01-16 23:30:00,Personal,Location_A,Location_C,15.86,Errand/Supplies,Male,Evening,2.7294396757548114,Suburbs,City Outskirts,No,Solo
+2023-01-17 00:00:00,2023-01-17 00:30:00,Business,Location_A,Location_B,10.49,Meal/Entertainment,Female,Afternoon,9.541362712150736,Downtown,Suburbs,Yes,Solo
+2023-01-17 01:00:00,2023-01-17 01:30:00,Business,Location_D,Location_D,15.02,Airport,Female,Morning,9.830993564406912,Downtown,Downtown,No,Shared
+2023-01-17 02:00:00,2023-01-17 02:30:00,Business,Location_B,Location_B,4.63,Customer Visit,Female,Evening,6.079114732723559,Downtown,Suburbs,No,Solo
+2023-01-17 03:00:00,2023-01-17 03:30:00,Business,Location_D,Location_D,24.95,Airport,Female,Afternoon,6.648060276020124,City Outskirts,Downtown,Yes,Shared
+2023-01-17 04:00:00,2023-01-17 04:30:00,Personal,Location_A,Location_B,22.75,Meal/Entertainment,Female,Afternoon,3.68174132824963,Downtown,Suburbs,No,Shared
+2023-01-17 05:00:00,2023-01-17 05:30:00,Personal,Location_B,Location_A,15.84,Customer Visit,Female,Evening,6.356964814663858,Suburbs,Suburbs,No,Solo
+2023-01-17 06:00:00,2023-01-17 06:30:00,Business,Location_B,Location_D,1.04,Meal/Entertainment,Female,Afternoon,1.379507224754302,Suburbs,City Outskirts,No,Solo
+2023-01-17 07:00:00,2023-01-17 07:30:00,Personal,Location_C,Location_B,22.26,Customer Visit,Male,Evening,4.321350600842402,Suburbs,Suburbs,No,Solo
+2023-01-17 08:00:00,2023-01-17 08:30:00,Business,Location_C,Location_A,4.44,Customer Visit,Female,Evening,6.321101604907188,Suburbs,City Outskirts,No,Shared
+2023-01-17 09:00:00,2023-01-17 09:30:00,Business,Location_C,Location_D,14.14,Errand/Supplies,Male,Evening,6.800291386297097,Downtown,Suburbs,No,Solo
+2023-01-17 10:00:00,2023-01-17 10:30:00,Business,Location_B,Location_A,8.27,Errand/Supplies,Male,Morning,9.15112722681972,City Outskirts,Downtown,Yes,Solo
+2023-01-17 11:00:00,2023-01-17 11:30:00,Personal,Location_D,Location_A,13.72,Meeting,Male,Evening,5.8722220135945555,City Outskirts,Downtown,No,Shared
+2023-01-17 12:00:00,2023-01-17 12:30:00,Business,Location_B,Location_A,24.27,Airport,Female,Morning,8.972844360653294,Downtown,City Outskirts,Yes,Shared
+2023-01-17 13:00:00,2023-01-17 13:30:00,Business,Location_A,Location_C,5.85,Meal/Entertainment,Female,Night,8.940980550928982,City Outskirts,Downtown,Yes,Shared
+2023-01-17 14:00:00,2023-01-17 14:30:00,Personal,Location_B,Location_C,23.77,Customer Visit,Female,Night,3.2050560082102937,City Outskirts,City Outskirts,Yes,Shared
+2023-01-17 15:00:00,2023-01-17 15:30:00,Personal,Location_A,Location_A,11.07,Meal/Entertainment,Female,Morning,6.167335219609004,City Outskirts,Suburbs,Yes,Shared
+2023-01-17 16:00:00,2023-01-17 16:30:00,Personal,Location_A,Location_B,13.47,Airport,Male,Morning,1.4861416330954391,Suburbs,Downtown,No,Shared
+2023-01-17 17:00:00,2023-01-17 17:30:00,Personal,Location_B,Location_D,17.81,Customer Visit,Male,Evening,2.519066960453908,City Outskirts,Downtown,Yes,Shared
+2023-01-17 18:00:00,2023-01-17 18:30:00,Personal,Location_D,Location_C,13.01,Customer Visit,Female,Night,6.081051853371532,Downtown,City Outskirts,Yes,Shared
+2023-01-17 19:00:00,2023-01-17 19:30:00,Business,Location_D,Location_C,24.56,Customer Visit,Female,Morning,6.250738559107887,Suburbs,Suburbs,No,Solo
+2023-01-17 20:00:00,2023-01-17 20:30:00,Business,Location_C,Location_B,17.74,Meal/Entertainment,Male,Evening,5.444734854145965,Downtown,Suburbs,Yes,Shared
+2023-01-17 21:00:00,2023-01-17 21:30:00,Personal,Location_A,Location_B,8.96,Meeting,Male,Evening,1.771749407351136,City Outskirts,Suburbs,Yes,Shared
+2023-01-17 22:00:00,2023-01-17 22:30:00,Business,Location_D,Location_B,4.47,Meeting,Female,Afternoon,8.575996487580138,City Outskirts,City Outskirts,No,Solo
+2023-01-17 23:00:00,2023-01-17 23:30:00,Business,Location_A,Location_B,11.81,Customer Visit,Female,Evening,2.556172775258477,Downtown,City Outskirts,No,Solo
+2023-01-18 00:00:00,2023-01-18 00:30:00,Business,Location_B,Location_B,9.86,Meeting,Male,Evening,2.7141327221906915,City Outskirts,City Outskirts,Yes,Shared
+2023-01-18 01:00:00,2023-01-18 01:30:00,Business,Location_A,Location_D,4.21,Airport,Male,Evening,9.378271679680575,Suburbs,City Outskirts,No,Shared
+2023-01-18 02:00:00,2023-01-18 02:30:00,Personal,Location_A,Location_D,9.17,Airport,Female,Morning,4.3702402501255975,Downtown,City Outskirts,No,Shared
+2023-01-18 03:00:00,2023-01-18 03:30:00,Business,Location_D,Location_D,8.28,Meeting,Male,Afternoon,6.883655099177573,Downtown,Downtown,No,Shared
+2023-01-18 04:00:00,2023-01-18 04:30:00,Business,Location_A,Location_C,14.63,Meeting,Male,Afternoon,3.9799903893909625,Suburbs,Downtown,No,Solo
+2023-01-18 05:00:00,2023-01-18 05:30:00,Personal,Location_A,Location_D,23.8,Meal/Entertainment,Male,Evening,9.491634408379028,Suburbs,Suburbs,No,Solo
+2023-01-18 06:00:00,2023-01-18 06:30:00,Personal,Location_B,Location_A,1.42,Customer Visit,Female,Morning,2.371280564900506,City Outskirts,Suburbs,No,Shared
+2023-01-18 07:00:00,2023-01-18 07:30:00,Personal,Location_B,Location_A,5.7,Errand/Supplies,Male,Night,3.5837090734044468,Suburbs,Downtown,Yes,Solo
+2023-01-18 08:00:00,2023-01-18 08:30:00,Personal,Location_B,Location_C,5.27,Meal/Entertainment,Male,Afternoon,8.470424596935127,City Outskirts,Downtown,No,Shared
+2023-01-18 09:00:00,2023-01-18 09:30:00,Business,Location_B,Location_A,11.05,Meal/Entertainment,Male,Evening,7.110792723118817,Downtown,Downtown,Yes,Solo
+2023-01-18 10:00:00,2023-01-18 10:30:00,Business,Location_D,Location_B,6.13,Airport,Male,Evening,3.7593273469719772,Downtown,City Outskirts,Yes,Solo
+2023-01-18 11:00:00,2023-01-18 11:30:00,Personal,Location_C,Location_C,1.2,Meal/Entertainment,Male,Night,4.615664515014812,Downtown,City Outskirts,No,Shared
+2023-01-18 12:00:00,2023-01-18 12:30:00,Business,Location_A,Location_A,15.06,Airport,Male,Morning,4.778731145453431,Suburbs,Downtown,No,Solo
+2023-01-18 13:00:00,2023-01-18 13:30:00,Business,Location_B,Location_A,23.16,Errand/Supplies,Male,Evening,7.761167111680836,Suburbs,Suburbs,No,Shared
+2023-01-18 14:00:00,2023-01-18 14:30:00,Business,Location_C,Location_D,11.14,Meal/Entertainment,Male,Afternoon,5.515184740460737,Suburbs,Downtown,Yes,Solo
+2023-01-18 15:00:00,2023-01-18 15:30:00,Personal,Location_D,Location_C,7.36,Airport,Male,Afternoon,1.9397002714992073,Suburbs,Downtown,No,Shared
+2023-01-18 16:00:00,2023-01-18 16:30:00,Business,Location_D,Location_B,11.08,Errand/Supplies,Male,Afternoon,5.601205848167845,Suburbs,City Outskirts,No,Shared
+2023-01-18 17:00:00,2023-01-18 17:30:00,Personal,Location_C,Location_D,23.5,Errand/Supplies,Female,Afternoon,2.3911257044280627,Suburbs,Downtown,Yes,Shared
+2023-01-18 18:00:00,2023-01-18 18:30:00,Personal,Location_C,Location_D,5.96,Meal/Entertainment,Male,Evening,8.726277963840197,Downtown,Downtown,No,Solo
+2023-01-18 19:00:00,2023-01-18 19:30:00,Business,Location_D,Location_B,15.7,Customer Visit,Male,Morning,3.5096426369124085,Downtown,Downtown,Yes,Shared
+2023-01-18 20:00:00,2023-01-18 20:30:00,Business,Location_C,Location_C,5.94,Customer Visit,Female,Afternoon,2.0796162675414793,Suburbs,Downtown,No,Solo
+2023-01-18 21:00:00,2023-01-18 21:30:00,Personal,Location_D,Location_A,11.49,Meal/Entertainment,Male,Night,7.010764948390805,Downtown,Suburbs,Yes,Shared
+2023-01-18 22:00:00,2023-01-18 22:30:00,Business,Location_A,Location_B,3.42,Customer Visit,Male,Night,3.648533304328463,Downtown,City Outskirts,Yes,Shared
+2023-01-18 23:00:00,2023-01-18 23:30:00,Personal,Location_C,Location_A,1.96,Airport,Male,Afternoon,8.121968613959032,Suburbs,Downtown,No,Solo
+2023-01-19 00:00:00,2023-01-19 00:30:00,Business,Location_C,Location_C,19.98,Meal/Entertainment,Female,Afternoon,8.893746491575584,Suburbs,City Outskirts,Yes,Shared
+2023-01-19 01:00:00,2023-01-19 01:30:00,Personal,Location_C,Location_A,17.58,Airport,Male,Evening,3.1927146416466616,Downtown,Suburbs,No,Solo
+2023-01-19 02:00:00,2023-01-19 02:30:00,Business,Location_A,Location_D,23.27,Airport,Female,Afternoon,7.378065663360585,Suburbs,Suburbs,Yes,Solo
+2023-01-19 03:00:00,2023-01-19 03:30:00,Personal,Location_D,Location_A,3.89,Customer Visit,Female,Evening,4.705318242755155,Downtown,Downtown,Yes,Shared
+2023-01-19 04:00:00,2023-01-19 04:30:00,Business,Location_A,Location_B,6.21,Airport,Female,Evening,6.335107107560623,Downtown,City Outskirts,No,Shared
+2023-01-19 05:00:00,2023-01-19 05:30:00,Personal,Location_B,Location_D,8.69,Customer Visit,Female,Afternoon,7.347602588213272,Suburbs,Downtown,Yes,Shared
+2023-01-19 06:00:00,2023-01-19 06:30:00,Personal,Location_D,Location_B,3.49,Meal/Entertainment,Female,Afternoon,7.725330334619573,City Outskirts,City Outskirts,Yes,Shared
+2023-01-19 07:00:00,2023-01-19 07:30:00,Personal,Location_B,Location_C,2.52,Meal/Entertainment,Male,Night,8.708515285725145,Suburbs,Suburbs,No,Shared
+2023-01-19 08:00:00,2023-01-19 08:30:00,Business,Location_D,Location_B,17.69,Meeting,Male,Evening,6.709746615128155,Downtown,City Outskirts,No,Solo
+2023-01-19 09:00:00,2023-01-19 09:30:00,Business,Location_D,Location_C,15.6,Airport,Male,Afternoon,2.141610991008848,Downtown,Suburbs,No,Solo
+2023-01-19 10:00:00,2023-01-19 10:30:00,Personal,Location_A,Location_A,20.08,Errand/Supplies,Male,Evening,6.763173870933368,Downtown,City Outskirts,No,Shared
+2023-01-19 11:00:00,2023-01-19 11:30:00,Personal,Location_B,Location_A,13.2,Airport,Male,Afternoon,2.571368109417313,Suburbs,City Outskirts,No,Shared
+2023-01-19 12:00:00,2023-01-19 12:30:00,Business,Location_B,Location_A,9.6,Meeting,Female,Afternoon,1.9697399882580926,Downtown,Suburbs,Yes,Shared
+2023-01-19 13:00:00,2023-01-19 13:30:00,Business,Location_A,Location_B,20.81,Meal/Entertainment,Female,Morning,3.658670272348308,Downtown,Downtown,No,Shared
+2023-01-19 14:00:00,2023-01-19 14:30:00,Personal,Location_A,Location_D,10.28,Meeting,Male,Morning,1.0477453744888319,City Outskirts,City Outskirts,Yes,Shared
+2023-01-19 15:00:00,2023-01-19 15:30:00,Personal,Location_C,Location_A,21.67,Meeting,Male,Evening,1.2911213373672816,City Outskirts,Downtown,No,Shared
+2023-01-19 16:00:00,2023-01-19 16:30:00,Business,Location_B,Location_B,11.77,Meal/Entertainment,Female,Afternoon,7.076716130619087,Downtown,Suburbs,Yes,Solo
+2023-01-19 17:00:00,2023-01-19 17:30:00,Personal,Location_A,Location_B,4.03,Customer Visit,Male,Morning,2.0104421943763686,Suburbs,City Outskirts,No,Shared
+2023-01-19 18:00:00,2023-01-19 18:30:00,Personal,Location_A,Location_D,17.93,Errand/Supplies,Male,Night,8.284065875552205,Suburbs,Suburbs,Yes,Solo
+2023-01-19 19:00:00,2023-01-19 19:30:00,Business,Location_B,Location_D,4.61,Airport,Female,Night,3.8820738947392064,Suburbs,Downtown,No,Shared
+2023-01-19 20:00:00,2023-01-19 20:30:00,Personal,Location_D,Location_B,10.79,Airport,Male,Evening,4.460157257610849,Downtown,Suburbs,Yes,Solo
+2023-01-19 21:00:00,2023-01-19 21:30:00,Business,Location_B,Location_D,11.28,Meal/Entertainment,Female,Afternoon,3.2619010409769595,City Outskirts,City Outskirts,Yes,Shared
+2023-01-19 22:00:00,2023-01-19 22:30:00,Personal,Location_D,Location_A,14.1,Meal/Entertainment,Female,Evening,1.469539370608031,Downtown,Suburbs,Yes,Shared
+2023-01-19 23:00:00,2023-01-19 23:30:00,Personal,Location_C,Location_C,18.25,Customer Visit,Female,Night,2.814027806937127,City Outskirts,City Outskirts,No,Shared
+2023-01-20 00:00:00,2023-01-20 00:30:00,Business,Location_B,Location_D,24.31,Customer Visit,Male,Afternoon,1.8702761203606701,Suburbs,Suburbs,Yes,Solo
+2023-01-20 01:00:00,2023-01-20 01:30:00,Business,Location_B,Location_C,14.51,Customer Visit,Male,Evening,4.352287349225541,Downtown,Downtown,Yes,Solo
+2023-01-20 02:00:00,2023-01-20 02:30:00,Business,Location_A,Location_B,19.71,Errand/Supplies,Male,Afternoon,3.9273728573127236,Downtown,Suburbs,Yes,Shared
+2023-01-20 03:00:00,2023-01-20 03:30:00,Personal,Location_B,Location_B,2.34,Meal/Entertainment,Female,Afternoon,7.487706900933566,Downtown,Downtown,No,Shared
+2023-01-20 04:00:00,2023-01-20 04:30:00,Business,Location_D,Location_C,8.75,Meeting,Male,Morning,7.492932884324491,City Outskirts,City Outskirts,Yes,Shared
+2023-01-20 05:00:00,2023-01-20 05:30:00,Personal,Location_B,Location_C,2.36,Meeting,Male,Afternoon,8.708715903326183,Suburbs,Suburbs,No,Shared
+2023-01-20 06:00:00,2023-01-20 06:30:00,Business,Location_C,Location_B,7.17,Airport,Female,Evening,5.362824324144229,City Outskirts,City Outskirts,No,Shared
+2023-01-20 07:00:00,2023-01-20 07:30:00,Personal,Location_A,Location_B,1.24,Meal/Entertainment,Female,Evening,9.743885791260483,Downtown,Suburbs,Yes,Solo
+2023-01-20 08:00:00,2023-01-20 08:30:00,Personal,Location_C,Location_B,9.56,Customer Visit,Male,Afternoon,1.2277293812676517,City Outskirts,Suburbs,Yes,Solo
+2023-01-20 09:00:00,2023-01-20 09:30:00,Business,Location_B,Location_C,19.54,Errand/Supplies,Female,Evening,3.5388331272734836,City Outskirts,City Outskirts,Yes,Shared
+2023-01-20 10:00:00,2023-01-20 10:30:00,Personal,Location_D,Location_B,15.18,Airport,Female,Morning,2.230981264162069,Downtown,City Outskirts,No,Shared
+2023-01-20 11:00:00,2023-01-20 11:30:00,Business,Location_B,Location_D,23.69,Errand/Supplies,Female,Morning,1.0349479064719431,City Outskirts,Suburbs,No,Solo
+2023-01-20 12:00:00,2023-01-20 12:30:00,Business,Location_C,Location_B,12.9,Customer Visit,Female,Morning,4.851253310015824,Downtown,Suburbs,Yes,Solo
+2023-01-20 13:00:00,2023-01-20 13:30:00,Business,Location_B,Location_D,23.3,Meeting,Male,Afternoon,4.7895143248688345,Downtown,City Outskirts,No,Shared
+2023-01-20 14:00:00,2023-01-20 14:30:00,Business,Location_B,Location_A,22.08,Customer Visit,Male,Evening,6.189012419211575,Downtown,Suburbs,No,Solo
+2023-01-20 15:00:00,2023-01-20 15:30:00,Business,Location_B,Location_B,4.08,Customer Visit,Male,Morning,4.90512247242395,Suburbs,Downtown,Yes,Solo
+2023-01-20 16:00:00,2023-01-20 16:30:00,Personal,Location_D,Location_B,23.04,Meeting,Female,Evening,4.931685653962947,City Outskirts,Suburbs,No,Solo
+2023-01-20 17:00:00,2023-01-20 17:30:00,Personal,Location_C,Location_C,5.0,Customer Visit,Female,Evening,8.049381264745119,Downtown,Suburbs,Yes,Solo
+2023-01-20 18:00:00,2023-01-20 18:30:00,Business,Location_D,Location_B,22.08,Airport,Male,Evening,6.869144534839128,Downtown,Downtown,No,Shared
+2023-01-20 19:00:00,2023-01-20 19:30:00,Business,Location_C,Location_C,24.07,Customer Visit,Male,Evening,1.457836999139232,Suburbs,Suburbs,Yes,Shared
+2023-01-20 20:00:00,2023-01-20 20:30:00,Business,Location_A,Location_B,6.95,Customer Visit,Female,Evening,2.6121027394559615,Downtown,Downtown,No,Shared
+2023-01-20 21:00:00,2023-01-20 21:30:00,Personal,Location_B,Location_A,9.61,Meal/Entertainment,Male,Night,8.036987398996484,City Outskirts,Suburbs,Yes,Solo
+2023-01-20 22:00:00,2023-01-20 22:30:00,Business,Location_B,Location_B,18.82,Customer Visit,Female,Evening,9.811966221374492,Downtown,City Outskirts,No,Solo
+2023-01-20 23:00:00,2023-01-20 23:30:00,Business,Location_C,Location_C,13.0,Airport,Male,Night,6.979991257101556,Downtown,Suburbs,Yes,Shared
+2023-01-21 00:00:00,2023-01-21 00:30:00,Personal,Location_D,Location_C,11.06,Meeting,Female,Morning,3.5671391659380935,Downtown,Suburbs,Yes,Shared
+2023-01-21 01:00:00,2023-01-21 01:30:00,Personal,Location_C,Location_D,17.03,Customer Visit,Male,Evening,5.2489669604262525,City Outskirts,Suburbs,Yes,Shared
+2023-01-21 02:00:00,2023-01-21 02:30:00,Business,Location_A,Location_D,21.49,Customer Visit,Female,Night,3.847471414945543,Suburbs,Downtown,Yes,Shared
+2023-01-21 03:00:00,2023-01-21 03:30:00,Business,Location_A,Location_A,11.93,Meeting,Male,Afternoon,6.846064568673217,City Outskirts,Suburbs,No,Solo
+2023-01-21 04:00:00,2023-01-21 04:30:00,Business,Location_C,Location_B,6.27,Meeting,Female,Evening,8.797662638610904,Downtown,City Outskirts,Yes,Shared
+2023-01-21 05:00:00,2023-01-21 05:30:00,Business,Location_D,Location_D,15.95,Meal/Entertainment,Female,Evening,5.9781876963459375,Downtown,Downtown,No,Shared
+2023-01-21 06:00:00,2023-01-21 06:30:00,Personal,Location_D,Location_A,20.75,Customer Visit,Male,Afternoon,9.269550779650716,Suburbs,City Outskirts,No,Solo
+2023-01-21 07:00:00,2023-01-21 07:30:00,Business,Location_D,Location_D,18.33,Meeting,Female,Night,1.1764019760795836,City Outskirts,City Outskirts,Yes,Shared
+2023-01-21 08:00:00,2023-01-21 08:30:00,Business,Location_B,Location_B,22.38,Customer Visit,Female,Morning,9.663467359644441,Suburbs,Downtown,Yes,Shared
+2023-01-21 09:00:00,2023-01-21 09:30:00,Personal,Location_A,Location_C,17.13,Meal/Entertainment,Male,Morning,1.5566218003171248,Downtown,City Outskirts,No,Shared
+2023-01-21 10:00:00,2023-01-21 10:30:00,Business,Location_B,Location_C,21.73,Meal/Entertainment,Male,Night,4.698986058192649,Downtown,Suburbs,No,Solo
+2023-01-21 11:00:00,2023-01-21 11:30:00,Business,Location_A,Location_D,10.18,Meal/Entertainment,Female,Evening,1.346222305660012,Downtown,Suburbs,No,Shared
+2023-01-21 12:00:00,2023-01-21 12:30:00,Personal,Location_B,Location_A,18.04,Customer Visit,Female,Evening,3.500888184171961,Downtown,Downtown,No,Solo
+2023-01-21 13:00:00,2023-01-21 13:30:00,Business,Location_A,Location_D,9.82,Errand/Supplies,Male,Afternoon,5.533439509423958,City Outskirts,City Outskirts,No,Solo
+2023-01-21 14:00:00,2023-01-21 14:30:00,Business,Location_C,Location_A,13.66,Customer Visit,Male,Night,5.685662539684866,Suburbs,Downtown,No,Shared
+2023-01-21 15:00:00,2023-01-21 15:30:00,Personal,Location_B,Location_B,2.12,Customer Visit,Female,Afternoon,5.7747779265122094,Downtown,Suburbs,Yes,Shared
+2023-01-21 16:00:00,2023-01-21 16:30:00,Personal,Location_A,Location_D,10.48,Meal/Entertainment,Female,Night,6.781769708190119,Downtown,Suburbs,Yes,Shared
+2023-01-21 17:00:00,2023-01-21 17:30:00,Business,Location_B,Location_C,12.8,Customer Visit,Female,Evening,5.783821370421881,Downtown,Downtown,Yes,Solo
+2023-01-21 18:00:00,2023-01-21 18:30:00,Personal,Location_D,Location_D,14.01,Meeting,Female,Evening,8.890333465524744,Downtown,Downtown,No,Solo
+2023-01-21 19:00:00,2023-01-21 19:30:00,Business,Location_C,Location_B,1.8,Customer Visit,Female,Morning,9.255079219494148,Downtown,City Outskirts,No,Solo
+2023-01-21 20:00:00,2023-01-21 20:30:00,Business,Location_A,Location_A,1.5,Customer Visit,Male,Afternoon,1.5629573752563706,Suburbs,Suburbs,No,Solo
+2023-01-21 21:00:00,2023-01-21 21:30:00,Business,Location_B,Location_C,6.6,Airport,Female,Afternoon,3.653640459364298,City Outskirts,Suburbs,No,Solo
+2023-01-21 22:00:00,2023-01-21 22:30:00,Business,Location_D,Location_C,22.7,Airport,Female,Morning,3.1022596889522887,City Outskirts,Suburbs,Yes,Solo
+2023-01-21 23:00:00,2023-01-21 23:30:00,Personal,Location_B,Location_A,5.06,Errand/Supplies,Female,Morning,9.94168195806584,Suburbs,City Outskirts,No,Solo
+2023-01-22 00:00:00,2023-01-22 00:30:00,Personal,Location_A,Location_D,14.6,Meeting,Male,Evening,7.0686772513382365,City Outskirts,Suburbs,No,Solo
+2023-01-22 01:00:00,2023-01-22 01:30:00,Business,Location_B,Location_D,4.93,Airport,Female,Afternoon,6.224018234287691,City Outskirts,Suburbs,Yes,Shared
+2023-01-22 02:00:00,2023-01-22 02:30:00,Personal,Location_C,Location_B,4.61,Meeting,Male,Morning,8.663414936113266,City Outskirts,Downtown,Yes,Solo
+2023-01-22 03:00:00,2023-01-22 03:30:00,Business,Location_D,Location_B,24.35,Customer Visit,Male,Evening,8.658823115267195,Downtown,Downtown,No,Solo
+2023-01-22 04:00:00,2023-01-22 04:30:00,Business,Location_B,Location_A,17.74,Meal/Entertainment,Male,Afternoon,6.587199583604605,City Outskirts,City Outskirts,Yes,Solo
+2023-01-22 05:00:00,2023-01-22 05:30:00,Personal,Location_A,Location_A,2.39,Errand/Supplies,Male,Afternoon,8.389620203860552,City Outskirts,Downtown,No,Shared
+2023-01-22 06:00:00,2023-01-22 06:30:00,Personal,Location_D,Location_A,5.78,Meal/Entertainment,Female,Night,5.474450585951605,City Outskirts,City Outskirts,No,Shared
+2023-01-22 07:00:00,2023-01-22 07:30:00,Personal,Location_B,Location_C,17.82,Errand/Supplies,Female,Evening,3.7224454069121684,Downtown,Suburbs,Yes,Solo
+2023-01-22 08:00:00,2023-01-22 08:30:00,Personal,Location_B,Location_D,19.22,Airport,Male,Morning,6.682173615906588,Downtown,City Outskirts,Yes,Solo
+2023-01-22 09:00:00,2023-01-22 09:30:00,Business,Location_C,Location_D,19.57,Meal/Entertainment,Male,Evening,4.517381894320817,City Outskirts,Downtown,Yes,Solo
+2023-01-22 10:00:00,2023-01-22 10:30:00,Business,Location_B,Location_A,24.51,Errand/Supplies,Female,Afternoon,8.231448924579714,Suburbs,Suburbs,No,Shared
+2023-01-22 11:00:00,2023-01-22 11:30:00,Personal,Location_D,Location_B,8.61,Customer Visit,Female,Afternoon,9.687372053007218,City Outskirts,Suburbs,No,Solo
+2023-01-22 12:00:00,2023-01-22 12:30:00,Business,Location_C,Location_A,18.4,Errand/Supplies,Male,Evening,1.6951044428470188,City Outskirts,Suburbs,Yes,Solo
+2023-01-22 13:00:00,2023-01-22 13:30:00,Business,Location_D,Location_D,18.92,Errand/Supplies,Female,Night,6.263855959021975,City Outskirts,City Outskirts,Yes,Solo
+2023-01-22 14:00:00,2023-01-22 14:30:00,Personal,Location_D,Location_C,11.94,Customer Visit,Female,Evening,6.560326116920221,Suburbs,Suburbs,No,Solo
+2023-01-22 15:00:00,2023-01-22 15:30:00,Business,Location_C,Location_A,23.63,Airport,Female,Evening,4.5394650429684855,City Outskirts,Suburbs,No,Solo
+2023-01-22 16:00:00,2023-01-22 16:30:00,Business,Location_C,Location_D,13.52,Errand/Supplies,Male,Morning,2.622977365876368,Downtown,City Outskirts,Yes,Solo
+2023-01-22 17:00:00,2023-01-22 17:30:00,Personal,Location_B,Location_A,5.13,Airport,Female,Afternoon,9.094303995967373,City Outskirts,Downtown,Yes,Solo
+2023-01-22 18:00:00,2023-01-22 18:30:00,Personal,Location_C,Location_D,7.29,Meeting,Female,Morning,8.849637781895762,City Outskirts,Suburbs,No,Solo
+2023-01-22 19:00:00,2023-01-22 19:30:00,Personal,Location_C,Location_C,3.36,Meal/Entertainment,Male,Afternoon,3.505166462960141,City Outskirts,Suburbs,Yes,Solo
+2023-01-22 20:00:00,2023-01-22 20:30:00,Personal,Location_D,Location_C,22.2,Meal/Entertainment,Female,Evening,5.966056321313003,Downtown,City Outskirts,No,Solo
+2023-01-22 21:00:00,2023-01-22 21:30:00,Business,Location_A,Location_C,17.49,Meeting,Male,Afternoon,4.316569259026293,City Outskirts,Downtown,No,Solo
+2023-01-22 22:00:00,2023-01-22 22:30:00,Business,Location_D,Location_B,15.24,Meeting,Female,Night,1.9419133097013077,Suburbs,City Outskirts,No,Shared
+2023-01-22 23:00:00,2023-01-22 23:30:00,Personal,Location_B,Location_A,18.09,Errand/Supplies,Female,Morning,7.863012258557429,Suburbs,Downtown,No,Shared
+2023-01-23 00:00:00,2023-01-23 00:30:00,Business,Location_B,Location_B,6.08,Airport,Female,Night,5.9852311914739005,City Outskirts,Downtown,No,Shared
+2023-01-23 01:00:00,2023-01-23 01:30:00,Business,Location_C,Location_D,7.26,Meal/Entertainment,Male,Afternoon,4.040719304407972,Downtown,Suburbs,Yes,Shared
+2023-01-23 02:00:00,2023-01-23 02:30:00,Personal,Location_C,Location_B,19.95,Errand/Supplies,Male,Evening,9.19478671826225,Suburbs,Downtown,No,Shared
+2023-01-23 03:00:00,2023-01-23 03:30:00,Personal,Location_D,Location_D,23.85,Meeting,Male,Afternoon,7.3885663909425805,Downtown,Suburbs,No,Solo
+2023-01-23 04:00:00,2023-01-23 04:30:00,Personal,Location_A,Location_B,20.38,Meeting,Male,Afternoon,7.9645562073216825,Suburbs,City Outskirts,Yes,Solo
+2023-01-23 05:00:00,2023-01-23 05:30:00,Business,Location_A,Location_C,9.02,Customer Visit,Female,Night,5.751993035162391,City Outskirts,Suburbs,No,Solo
+2023-01-23 06:00:00,2023-01-23 06:30:00,Personal,Location_A,Location_D,3.62,Errand/Supplies,Male,Night,5.681754553338614,City Outskirts,City Outskirts,Yes,Shared
+2023-01-23 07:00:00,2023-01-23 07:30:00,Business,Location_D,Location_C,18.73,Errand/Supplies,Male,Night,5.629187131620133,Downtown,Suburbs,Yes,Shared
+2023-01-23 08:00:00,2023-01-23 08:30:00,Personal,Location_D,Location_D,3.4,Airport,Female,Evening,6.352430699599283,City Outskirts,City Outskirts,No,Shared
+2023-01-23 09:00:00,2023-01-23 09:30:00,Personal,Location_A,Location_A,10.96,Customer Visit,Female,Evening,2.632879569582805,Suburbs,City Outskirts,No,Solo
+2023-01-23 10:00:00,2023-01-23 10:30:00,Personal,Location_A,Location_C,13.35,Airport,Male,Night,1.1494603507180714,Downtown,Suburbs,No,Shared
+2023-01-23 11:00:00,2023-01-23 11:30:00,Business,Location_A,Location_B,11.85,Airport,Female,Afternoon,4.9445991216747665,Downtown,City Outskirts,Yes,Shared
+2023-01-23 12:00:00,2023-01-23 12:30:00,Personal,Location_A,Location_A,8.87,Meal/Entertainment,Male,Night,9.075336116303847,Suburbs,Suburbs,Yes,Solo
+2023-01-23 13:00:00,2023-01-23 13:30:00,Personal,Location_A,Location_A,4.35,Errand/Supplies,Female,Morning,3.5365006047883156,Downtown,Downtown,No,Shared
+2023-01-23 14:00:00,2023-01-23 14:30:00,Personal,Location_D,Location_A,12.53,Errand/Supplies,Female,Afternoon,4.501297418154529,City Outskirts,Suburbs,No,Solo
+2023-01-23 15:00:00,2023-01-23 15:30:00,Business,Location_C,Location_D,17.39,Meeting,Male,Afternoon,6.524170237310653,Suburbs,City Outskirts,No,Shared
+2023-01-23 16:00:00,2023-01-23 16:30:00,Business,Location_B,Location_A,5.9,Errand/Supplies,Male,Night,8.919810458299473,Suburbs,Downtown,No,Solo
+2023-01-23 17:00:00,2023-01-23 17:30:00,Personal,Location_A,Location_D,18.08,Airport,Male,Afternoon,8.736181850074733,City Outskirts,Suburbs,Yes,Solo
+2023-01-23 18:00:00,2023-01-23 18:30:00,Personal,Location_D,Location_B,16.83,Meeting,Male,Morning,3.3077989081662555,City Outskirts,City Outskirts,Yes,Solo
+2023-01-23 19:00:00,2023-01-23 19:30:00,Business,Location_C,Location_A,13.23,Errand/Supplies,Female,Evening,4.077848612808908,City Outskirts,City Outskirts,Yes,Solo
+2023-01-23 20:00:00,2023-01-23 20:30:00,Business,Location_D,Location_B,12.25,Airport,Female,Evening,3.5087487762497873,Downtown,Downtown,No,Solo
+2023-01-23 21:00:00,2023-01-23 21:30:00,Personal,Location_C,Location_C,18.46,Airport,Female,Night,1.7470210078575183,City Outskirts,City Outskirts,Yes,Solo
+2023-01-23 22:00:00,2023-01-23 22:30:00,Business,Location_A,Location_C,10.75,Meeting,Female,Night,8.418004732478419,Downtown,City Outskirts,Yes,Shared
+2023-01-23 23:00:00,2023-01-23 23:30:00,Business,Location_B,Location_A,11.98,Meeting,Female,Night,3.571518017076052,City Outskirts,Downtown,Yes,Shared
+2023-01-24 00:00:00,2023-01-24 00:30:00,Personal,Location_C,Location_D,2.25,Airport,Male,Morning,4.849871647161665,Downtown,Suburbs,Yes,Solo
+2023-01-24 01:00:00,2023-01-24 01:30:00,Personal,Location_D,Location_D,14.3,Meeting,Male,Afternoon,4.549391626013839,City Outskirts,Suburbs,No,Solo
+2023-01-24 02:00:00,2023-01-24 02:30:00,Personal,Location_D,Location_B,6.84,Meal/Entertainment,Female,Morning,2.50671040081093,Downtown,City Outskirts,No,Shared
+2023-01-24 03:00:00,2023-01-24 03:30:00,Personal,Location_C,Location_C,24.56,Airport,Female,Morning,4.622658477688116,Suburbs,Downtown,No,Solo
+2023-01-24 04:00:00,2023-01-24 04:30:00,Business,Location_B,Location_D,8.97,Meal/Entertainment,Male,Night,3.067967432227346,City Outskirts,Downtown,Yes,Shared
+2023-01-24 05:00:00,2023-01-24 05:30:00,Personal,Location_D,Location_D,5.6,Customer Visit,Female,Morning,6.65083449128355,Downtown,Suburbs,No,Solo
+2023-01-24 06:00:00,2023-01-24 06:30:00,Business,Location_C,Location_D,5.69,Airport,Male,Night,8.688728416388217,Suburbs,City Outskirts,No,Solo
+2023-01-24 07:00:00,2023-01-24 07:30:00,Personal,Location_D,Location_A,8.11,Meal/Entertainment,Female,Afternoon,5.609094072423115,Downtown,Downtown,Yes,Shared
+2023-01-24 08:00:00,2023-01-24 08:30:00,Personal,Location_B,Location_C,1.56,Errand/Supplies,Male,Evening,7.293400382946216,Downtown,Downtown,No,Solo
+2023-01-24 09:00:00,2023-01-24 09:30:00,Business,Location_B,Location_A,20.96,Airport,Female,Morning,6.870221501831117,Suburbs,City Outskirts,No,Solo
+2023-01-24 10:00:00,2023-01-24 10:30:00,Personal,Location_C,Location_C,11.11,Customer Visit,Female,Morning,3.496376391353613,Suburbs,Suburbs,No,Solo
+2023-01-24 11:00:00,2023-01-24 11:30:00,Business,Location_A,Location_A,17.73,Customer Visit,Male,Night,9.26618812994559,Downtown,City Outskirts,Yes,Shared
+2023-01-24 12:00:00,2023-01-24 12:30:00,Personal,Location_C,Location_A,12.23,Customer Visit,Male,Night,9.620690553680317,Downtown,Suburbs,Yes,Shared
+2023-01-24 13:00:00,2023-01-24 13:30:00,Personal,Location_A,Location_D,6.85,Meeting,Female,Night,8.869179479597186,City Outskirts,Downtown,Yes,Solo
+2023-01-24 14:00:00,2023-01-24 14:30:00,Business,Location_C,Location_D,24.05,Customer Visit,Female,Afternoon,9.762651564969572,Downtown,Downtown,No,Shared
+2023-01-24 15:00:00,2023-01-24 15:30:00,Business,Location_D,Location_C,24.61,Customer Visit,Female,Night,8.600089678668326,City Outskirts,Suburbs,No,Solo
+2023-01-24 16:00:00,2023-01-24 16:30:00,Personal,Location_B,Location_B,22.53,Meeting,Male,Evening,8.821944570583572,City Outskirts,Downtown,No,Solo
+2023-01-24 17:00:00,2023-01-24 17:30:00,Personal,Location_D,Location_B,17.95,Customer Visit,Female,Evening,7.74609424692866,City Outskirts,Suburbs,No,Solo
+2023-01-24 18:00:00,2023-01-24 18:30:00,Personal,Location_C,Location_A,15.36,Customer Visit,Female,Evening,6.070585295480855,City Outskirts,Suburbs,Yes,Shared
+2023-01-24 19:00:00,2023-01-24 19:30:00,Business,Location_B,Location_D,24.63,Meeting,Female,Morning,3.3915781643572376,Downtown,City Outskirts,Yes,Shared
+2023-01-24 20:00:00,2023-01-24 20:30:00,Personal,Location_B,Location_A,3.21,Customer Visit,Male,Morning,7.9576093265805685,Downtown,Downtown,Yes,Solo
+2023-01-24 21:00:00,2023-01-24 21:30:00,Personal,Location_D,Location_B,2.64,Errand/Supplies,Male,Afternoon,9.329815236714422,Suburbs,City Outskirts,Yes,Solo
+2023-01-24 22:00:00,2023-01-24 22:30:00,Business,Location_C,Location_B,18.46,Meal/Entertainment,Female,Night,2.167647729752974,City Outskirts,Suburbs,Yes,Shared
+2023-01-24 23:00:00,2023-01-24 23:30:00,Personal,Location_C,Location_D,3.64,Customer Visit,Male,Morning,6.085657891444478,Downtown,Downtown,Yes,Solo
+2023-01-25 00:00:00,2023-01-25 00:30:00,Business,Location_C,Location_B,15.38,Errand/Supplies,Female,Evening,2.278967557221658,Suburbs,Suburbs,No,Shared
+2023-01-25 01:00:00,2023-01-25 01:30:00,Business,Location_A,Location_D,2.89,Customer Visit,Male,Evening,7.209934629240048,Suburbs,Downtown,No,Shared
+2023-01-25 02:00:00,2023-01-25 02:30:00,Personal,Location_A,Location_A,22.63,Meeting,Female,Evening,7.534097322971299,Downtown,Suburbs,No,Solo
+2023-01-25 03:00:00,2023-01-25 03:30:00,Personal,Location_B,Location_C,15.76,Errand/Supplies,Male,Evening,2.497202022257406,City Outskirts,City Outskirts,No,Shared
+2023-01-25 04:00:00,2023-01-25 04:30:00,Business,Location_A,Location_B,16.02,Airport,Male,Evening,4.694193405870889,City Outskirts,Downtown,No,Solo
+2023-01-25 05:00:00,2023-01-25 05:30:00,Personal,Location_C,Location_A,13.0,Meeting,Female,Afternoon,2.7912481799865523,City Outskirts,Downtown,No,Shared
+2023-01-25 06:00:00,2023-01-25 06:30:00,Personal,Location_A,Location_C,1.71,Meal/Entertainment,Female,Night,5.229585208479169,Suburbs,Suburbs,No,Shared
+2023-01-25 07:00:00,2023-01-25 07:30:00,Personal,Location_B,Location_A,18.96,Customer Visit,Female,Night,4.231343315809067,Downtown,Downtown,Yes,Solo
+2023-01-25 08:00:00,2023-01-25 08:30:00,Business,Location_D,Location_C,4.68,Errand/Supplies,Male,Morning,9.174374867764445,Downtown,City Outskirts,Yes,Solo
+2023-01-25 09:00:00,2023-01-25 09:30:00,Business,Location_C,Location_D,15.2,Customer Visit,Female,Evening,5.924002993181455,Downtown,City Outskirts,Yes,Solo
+2023-01-25 10:00:00,2023-01-25 10:30:00,Business,Location_A,Location_B,3.13,Meal/Entertainment,Male,Evening,8.154913807055738,Suburbs,City Outskirts,No,Shared
+2023-01-25 11:00:00,2023-01-25 11:30:00,Business,Location_D,Location_A,17.02,Customer Visit,Female,Night,9.046386912098805,City Outskirts,Suburbs,No,Solo
+2023-01-25 12:00:00,2023-01-25 12:30:00,Business,Location_B,Location_A,14.6,Meeting,Male,Afternoon,8.01389798695065,City Outskirts,Suburbs,No,Shared
+2023-01-25 13:00:00,2023-01-25 13:30:00,Business,Location_D,Location_B,20.24,Meal/Entertainment,Male,Night,6.762113506249721,Suburbs,City Outskirts,Yes,Shared
+2023-01-25 14:00:00,2023-01-25 14:30:00,Business,Location_A,Location_B,3.56,Meal/Entertainment,Male,Night,4.4206252078865,Downtown,City Outskirts,No,Solo
+2023-01-25 15:00:00,2023-01-25 15:30:00,Business,Location_A,Location_B,11.04,Meeting,Male,Evening,2.1668583939313004,Suburbs,Suburbs,Yes,Shared
+2023-01-25 16:00:00,2023-01-25 16:30:00,Business,Location_C,Location_A,21.46,Airport,Male,Afternoon,6.464627083381293,City Outskirts,Downtown,No,Shared
+2023-01-25 17:00:00,2023-01-25 17:30:00,Business,Location_C,Location_B,15.33,Meeting,Female,Afternoon,8.720006751149905,Suburbs,Suburbs,No,Shared
+2023-01-25 18:00:00,2023-01-25 18:30:00,Business,Location_D,Location_B,4.58,Errand/Supplies,Male,Afternoon,4.2551960248034435,Suburbs,Suburbs,No,Solo
+2023-01-25 19:00:00,2023-01-25 19:30:00,Personal,Location_A,Location_C,15.45,Meal/Entertainment,Female,Night,7.7597443456533615,City Outskirts,Downtown,No,Solo
+2023-01-25 20:00:00,2023-01-25 20:30:00,Business,Location_D,Location_B,17.52,Meeting,Female,Afternoon,5.165460163837828,Downtown,City Outskirts,Yes,Shared
+2023-01-25 21:00:00,2023-01-25 21:30:00,Business,Location_B,Location_A,18.23,Airport,Male,Afternoon,9.680498526522808,Downtown,City Outskirts,No,Shared
+2023-01-25 22:00:00,2023-01-25 22:30:00,Personal,Location_B,Location_A,3.82,Meeting,Female,Morning,2.082966131982813,Downtown,Downtown,No,Shared
+2023-01-25 23:00:00,2023-01-25 23:30:00,Business,Location_C,Location_A,21.61,Meal/Entertainment,Female,Morning,9.875437990485466,Suburbs,Downtown,No,Shared
+2023-01-26 00:00:00,2023-01-26 00:30:00,Business,Location_D,Location_C,12.48,Meal/Entertainment,Female,Evening,5.662570307053444,City Outskirts,City Outskirts,No,Shared
+2023-01-26 01:00:00,2023-01-26 01:30:00,Business,Location_C,Location_D,12.13,Meal/Entertainment,Male,Morning,2.7641166173796825,Suburbs,Suburbs,No,Solo
+2023-01-26 02:00:00,2023-01-26 02:30:00,Personal,Location_B,Location_C,19.65,Meal/Entertainment,Male,Evening,8.321306975551934,Suburbs,Downtown,Yes,Solo
+2023-01-26 03:00:00,2023-01-26 03:30:00,Business,Location_A,Location_D,14.78,Meeting,Female,Morning,5.608011491752416,Suburbs,City Outskirts,Yes,Shared
+2023-01-26 04:00:00,2023-01-26 04:30:00,Business,Location_B,Location_B,13.44,Errand/Supplies,Male,Morning,5.8771865715212,Downtown,Suburbs,No,Shared
+2023-01-26 05:00:00,2023-01-26 05:30:00,Personal,Location_D,Location_C,16.78,Meeting,Female,Afternoon,9.454479164665209,Downtown,City Outskirts,Yes,Shared
+2023-01-26 06:00:00,2023-01-26 06:30:00,Personal,Location_C,Location_D,24.7,Errand/Supplies,Male,Morning,1.7337624972316492,Downtown,Downtown,Yes,Shared
+2023-01-26 07:00:00,2023-01-26 07:30:00,Business,Location_B,Location_B,21.54,Customer Visit,Male,Evening,2.9666833474313266,Downtown,Downtown,Yes,Shared
+2023-01-26 08:00:00,2023-01-26 08:30:00,Business,Location_B,Location_D,10.5,Customer Visit,Female,Evening,7.475129631969411,City Outskirts,City Outskirts,No,Shared
+2023-01-26 09:00:00,2023-01-26 09:30:00,Business,Location_A,Location_D,9.89,Meal/Entertainment,Female,Evening,8.17937510159038,City Outskirts,Downtown,No,Shared
+2023-01-26 10:00:00,2023-01-26 10:30:00,Personal,Location_D,Location_B,16.29,Airport,Female,Evening,8.543472009035408,City Outskirts,Downtown,No,Solo
+2023-01-26 11:00:00,2023-01-26 11:30:00,Business,Location_D,Location_D,15.14,Meeting,Female,Evening,6.619505047466561,Downtown,City Outskirts,No,Shared
+2023-01-26 12:00:00,2023-01-26 12:30:00,Business,Location_A,Location_B,3.12,Customer Visit,Female,Night,4.504394710837376,Downtown,City Outskirts,Yes,Shared
+2023-01-26 13:00:00,2023-01-26 13:30:00,Personal,Location_C,Location_A,20.5,Meeting,Male,Evening,6.959556952060722,Downtown,Downtown,No,Solo
+2023-01-26 14:00:00,2023-01-26 14:30:00,Personal,Location_D,Location_B,1.49,Airport,Male,Morning,6.278147329117164,Suburbs,City Outskirts,Yes,Shared
+2023-01-26 15:00:00,2023-01-26 15:30:00,Business,Location_A,Location_C,5.97,Meeting,Male,Afternoon,7.713212371572499,City Outskirts,Suburbs,Yes,Solo
+2023-01-26 16:00:00,2023-01-26 16:30:00,Personal,Location_B,Location_C,13.8,Errand/Supplies,Male,Evening,6.240486319851409,Downtown,City Outskirts,No,Shared
+2023-01-26 17:00:00,2023-01-26 17:30:00,Business,Location_D,Location_A,3.03,Errand/Supplies,Male,Night,1.4586722159979515,Downtown,Suburbs,Yes,Shared
+2023-01-26 18:00:00,2023-01-26 18:30:00,Business,Location_A,Location_A,7.14,Errand/Supplies,Male,Evening,1.8946990551440686,Suburbs,Downtown,Yes,Shared
+2023-01-26 19:00:00,2023-01-26 19:30:00,Personal,Location_D,Location_C,4.91,Errand/Supplies,Female,Evening,6.722781577943841,Suburbs,City Outskirts,No,Shared
+2023-01-26 20:00:00,2023-01-26 20:30:00,Personal,Location_B,Location_B,2.27,Airport,Male,Evening,8.552597954081254,City Outskirts,City Outskirts,No,Solo
+2023-01-26 21:00:00,2023-01-26 21:30:00,Business,Location_D,Location_D,23.62,Meal/Entertainment,Female,Morning,6.338340483961415,City Outskirts,City Outskirts,Yes,Shared
+2023-01-26 22:00:00,2023-01-26 22:30:00,Personal,Location_C,Location_D,20.58,Meeting,Female,Night,1.0196856747165597,City Outskirts,Downtown,Yes,Solo
+2023-01-26 23:00:00,2023-01-26 23:30:00,Personal,Location_D,Location_D,6.92,Errand/Supplies,Male,Morning,2.728559194874834,Suburbs,City Outskirts,Yes,Solo
+2023-01-27 00:00:00,2023-01-27 00:30:00,Personal,Location_A,Location_D,9.79,Meeting,Female,Night,6.3960916397238945,Suburbs,City Outskirts,Yes,Shared
+2023-01-27 01:00:00,2023-01-27 01:30:00,Business,Location_C,Location_B,12.71,Airport,Male,Night,8.883499362035451,City Outskirts,City Outskirts,No,Solo
+2023-01-27 02:00:00,2023-01-27 02:30:00,Business,Location_B,Location_C,1.72,Meeting,Female,Afternoon,6.424482571456996,Downtown,Downtown,Yes,Solo
+2023-01-27 03:00:00,2023-01-27 03:30:00,Business,Location_A,Location_D,13.16,Customer Visit,Female,Afternoon,1.1635214987936404,Suburbs,City Outskirts,Yes,Shared
+2023-01-27 04:00:00,2023-01-27 04:30:00,Personal,Location_B,Location_B,9.08,Meeting,Female,Afternoon,9.639264631878973,City Outskirts,Suburbs,Yes,Solo
+2023-01-27 05:00:00,2023-01-27 05:30:00,Personal,Location_C,Location_D,19.33,Errand/Supplies,Male,Night,6.991802083427438,Downtown,City Outskirts,No,Shared
+2023-01-27 06:00:00,2023-01-27 06:30:00,Business,Location_D,Location_D,14.95,Meeting,Male,Morning,4.0110892523431465,Downtown,City Outskirts,Yes,Shared
+2023-01-27 07:00:00,2023-01-27 07:30:00,Personal,Location_D,Location_C,21.85,Errand/Supplies,Female,Morning,8.22635741417038,City Outskirts,City Outskirts,No,Solo
+2023-01-27 08:00:00,2023-01-27 08:30:00,Personal,Location_D,Location_D,18.2,Meal/Entertainment,Female,Afternoon,5.272402044410384,City Outskirts,Suburbs,Yes,Shared
+2023-01-27 09:00:00,2023-01-27 09:30:00,Business,Location_A,Location_B,12.05,Errand/Supplies,Male,Night,5.970064436536142,Suburbs,City Outskirts,Yes,Shared
+2023-01-27 10:00:00,2023-01-27 10:30:00,Business,Location_B,Location_C,20.02,Errand/Supplies,Male,Evening,5.436604600101492,City Outskirts,Downtown,Yes,Solo
+2023-01-27 11:00:00,2023-01-27 11:30:00,Personal,Location_B,Location_B,1.31,Errand/Supplies,Male,Afternoon,9.019897400485133,Suburbs,Suburbs,No,Shared
+2023-01-27 12:00:00,2023-01-27 12:30:00,Business,Location_C,Location_C,1.28,Customer Visit,Female,Evening,4.4304434470462954,City Outskirts,City Outskirts,Yes,Solo
+2023-01-27 13:00:00,2023-01-27 13:30:00,Personal,Location_D,Location_B,14.54,Meeting,Female,Afternoon,9.127804373048239,City Outskirts,City Outskirts,No,Solo
+2023-01-27 14:00:00,2023-01-27 14:30:00,Business,Location_A,Location_C,18.81,Errand/Supplies,Male,Evening,5.468002488764911,Suburbs,Downtown,No,Solo
+2023-01-27 15:00:00,2023-01-27 15:30:00,Business,Location_D,Location_C,22.85,Meal/Entertainment,Female,Evening,4.465127992557335,Downtown,Suburbs,No,Solo
+2023-01-27 16:00:00,2023-01-27 16:30:00,Business,Location_C,Location_B,4.39,Airport,Female,Morning,8.910461065525173,Suburbs,City Outskirts,No,Shared
+2023-01-27 17:00:00,2023-01-27 17:30:00,Personal,Location_B,Location_D,1.72,Errand/Supplies,Male,Afternoon,4.9787551194297235,Suburbs,City Outskirts,Yes,Shared
+2023-01-27 18:00:00,2023-01-27 18:30:00,Personal,Location_B,Location_D,2.04,Errand/Supplies,Female,Morning,1.7799306612964252,Downtown,City Outskirts,No,Solo
+2023-01-27 19:00:00,2023-01-27 19:30:00,Business,Location_A,Location_C,21.6,Meeting,Female,Night,4.518951417905033,Downtown,Downtown,No,Solo
+2023-01-27 20:00:00,2023-01-27 20:30:00,Personal,Location_D,Location_D,15.89,Meeting,Female,Night,1.347432313423073,Downtown,Suburbs,No,Solo
+2023-01-27 21:00:00,2023-01-27 21:30:00,Personal,Location_B,Location_C,6.93,Meeting,Female,Afternoon,4.691893025802386,City Outskirts,Downtown,No,Shared
+2023-01-27 22:00:00,2023-01-27 22:30:00,Business,Location_D,Location_B,8.97,Meeting,Female,Evening,3.7446017581836744,Downtown,Downtown,Yes,Solo
+2023-01-27 23:00:00,2023-01-27 23:30:00,Business,Location_B,Location_A,14.96,Errand/Supplies,Female,Evening,2.364090117864377,Suburbs,City Outskirts,Yes,Solo
+2023-01-28 00:00:00,2023-01-28 00:30:00,Business,Location_B,Location_D,17.97,Meal/Entertainment,Female,Morning,1.7635685969149373,Suburbs,Suburbs,Yes,Solo
+2023-01-28 01:00:00,2023-01-28 01:30:00,Personal,Location_A,Location_D,9.24,Meeting,Female,Night,8.029654109327286,Suburbs,Downtown,No,Solo
+2023-01-28 02:00:00,2023-01-28 02:30:00,Business,Location_A,Location_D,24.39,Errand/Supplies,Female,Evening,2.4886080922605287,Suburbs,City Outskirts,Yes,Shared
+2023-01-28 03:00:00,2023-01-28 03:30:00,Business,Location_C,Location_A,19.25,Airport,Female,Night,7.510752842253339,Downtown,Downtown,No,Shared
+2023-01-28 04:00:00,2023-01-28 04:30:00,Personal,Location_A,Location_A,21.43,Errand/Supplies,Male,Afternoon,2.3345673530980067,Downtown,Downtown,No,Solo
+2023-01-28 05:00:00,2023-01-28 05:30:00,Business,Location_B,Location_D,1.32,Meeting,Female,Evening,6.748199900759743,Suburbs,Suburbs,No,Shared
+2023-01-28 06:00:00,2023-01-28 06:30:00,Personal,Location_C,Location_B,7.75,Customer Visit,Female,Afternoon,2.841331767503805,Downtown,Downtown,No,Shared
+2023-01-28 07:00:00,2023-01-28 07:30:00,Business,Location_D,Location_C,13.49,Meeting,Female,Evening,6.960850960417927,Suburbs,Suburbs,No,Solo
+2023-01-28 08:00:00,2023-01-28 08:30:00,Personal,Location_B,Location_A,6.28,Meeting,Female,Morning,9.643859280526485,City Outskirts,Suburbs,No,Shared
+2023-01-28 09:00:00,2023-01-28 09:30:00,Personal,Location_B,Location_A,21.6,Customer Visit,Female,Afternoon,1.7254875932262963,Suburbs,City Outskirts,Yes,Solo
+2023-01-28 10:00:00,2023-01-28 10:30:00,Personal,Location_C,Location_A,23.6,Errand/Supplies,Female,Morning,6.905084628658524,Suburbs,City Outskirts,No,Solo
+2023-01-28 11:00:00,2023-01-28 11:30:00,Personal,Location_B,Location_C,5.83,Errand/Supplies,Male,Night,3.00406819068134,Downtown,Downtown,Yes,Shared
+2023-01-28 12:00:00,2023-01-28 12:30:00,Personal,Location_C,Location_C,9.8,Meeting,Male,Afternoon,6.218132511181887,Suburbs,Downtown,No,Shared
+2023-01-28 13:00:00,2023-01-28 13:30:00,Business,Location_C,Location_A,3.31,Meeting,Male,Afternoon,9.224371936688048,Suburbs,Downtown,Yes,Solo
+2023-01-28 14:00:00,2023-01-28 14:30:00,Personal,Location_A,Location_D,19.96,Meeting,Female,Afternoon,2.3826047691227896,Downtown,Suburbs,No,Shared
+2023-01-28 15:00:00,2023-01-28 15:30:00,Personal,Location_B,Location_A,13.15,Customer Visit,Male,Evening,9.952820343946756,Suburbs,Suburbs,Yes,Shared
+2023-01-28 16:00:00,2023-01-28 16:30:00,Personal,Location_C,Location_A,23.45,Customer Visit,Female,Evening,2.0314570672765724,City Outskirts,City Outskirts,No,Solo
+2023-01-28 17:00:00,2023-01-28 17:30:00,Business,Location_B,Location_D,20.73,Meeting,Female,Evening,7.606414062016159,Suburbs,Downtown,No,Shared
+2023-01-28 18:00:00,2023-01-28 18:30:00,Business,Location_C,Location_D,22.29,Customer Visit,Male,Afternoon,1.5808297930084163,City Outskirts,Suburbs,Yes,Shared
+2023-01-28 19:00:00,2023-01-28 19:30:00,Personal,Location_B,Location_B,2.22,Airport,Male,Morning,1.9425356557656484,Downtown,Downtown,No,Solo
+2023-01-28 20:00:00,2023-01-28 20:30:00,Business,Location_C,Location_B,22.96,Meal/Entertainment,Female,Afternoon,1.2784533538776284,Downtown,City Outskirts,Yes,Shared
+2023-01-28 21:00:00,2023-01-28 21:30:00,Personal,Location_B,Location_D,3.54,Meeting,Male,Afternoon,2.3684658887746672,Downtown,Suburbs,No,Shared
+2023-01-28 22:00:00,2023-01-28 22:30:00,Business,Location_B,Location_D,10.57,Meal/Entertainment,Male,Evening,8.415351770490407,Downtown,Suburbs,Yes,Shared
+2023-01-28 23:00:00,2023-01-28 23:30:00,Business,Location_B,Location_B,3.3,Meal/Entertainment,Female,Morning,5.2082315574027005,City Outskirts,City Outskirts,No,Solo
+2023-01-29 00:00:00,2023-01-29 00:30:00,Personal,Location_D,Location_A,16.2,Customer Visit,Female,Afternoon,6.282636690517499,Suburbs,Suburbs,No,Shared
+2023-01-29 01:00:00,2023-01-29 01:30:00,Business,Location_B,Location_D,4.12,Airport,Female,Evening,8.42659814294862,Suburbs,Downtown,Yes,Shared
+2023-01-29 02:00:00,2023-01-29 02:30:00,Personal,Location_D,Location_A,16.06,Meal/Entertainment,Female,Evening,3.117315119207226,Suburbs,City Outskirts,Yes,Shared
+2023-01-29 03:00:00,2023-01-29 03:30:00,Personal,Location_C,Location_B,3.14,Airport,Male,Afternoon,4.2436694274127165,Suburbs,Suburbs,Yes,Shared
+2023-01-29 04:00:00,2023-01-29 04:30:00,Business,Location_B,Location_C,14.18,Customer Visit,Male,Morning,5.169530780269351,City Outskirts,Suburbs,No,Solo
+2023-01-29 05:00:00,2023-01-29 05:30:00,Business,Location_D,Location_D,2.44,Customer Visit,Female,Evening,5.066062183510505,City Outskirts,City Outskirts,No,Solo
+2023-01-29 06:00:00,2023-01-29 06:30:00,Business,Location_B,Location_D,15.37,Airport,Female,Evening,5.477156219613908,Downtown,Downtown,Yes,Shared
+2023-01-29 07:00:00,2023-01-29 07:30:00,Personal,Location_D,Location_C,3.66,Customer Visit,Female,Evening,9.3598482837234,City Outskirts,Suburbs,Yes,Shared
+2023-01-29 08:00:00,2023-01-29 08:30:00,Personal,Location_B,Location_B,13.79,Meeting,Female,Night,7.487547363760346,City Outskirts,Suburbs,No,Shared
+2023-01-29 09:00:00,2023-01-29 09:30:00,Business,Location_A,Location_D,23.82,Customer Visit,Female,Morning,6.898817862480048,City Outskirts,Downtown,Yes,Solo
+2023-01-29 10:00:00,2023-01-29 10:30:00,Personal,Location_C,Location_A,9.18,Errand/Supplies,Male,Afternoon,8.068587200595035,Suburbs,Suburbs,Yes,Solo
+2023-01-29 11:00:00,2023-01-29 11:30:00,Personal,Location_C,Location_B,6.18,Customer Visit,Female,Evening,4.007897216578598,Downtown,Downtown,No,Solo
+2023-01-29 12:00:00,2023-01-29 12:30:00,Personal,Location_C,Location_C,14.21,Errand/Supplies,Male,Morning,4.655385370768752,Downtown,Downtown,No,Solo
+2023-01-29 13:00:00,2023-01-29 13:30:00,Business,Location_B,Location_C,16.52,Errand/Supplies,Female,Afternoon,4.650310366090317,Suburbs,Downtown,No,Solo
+2023-01-29 14:00:00,2023-01-29 14:30:00,Business,Location_B,Location_A,18.73,Airport,Male,Afternoon,7.569805151033329,Suburbs,Suburbs,No,Solo
+2023-01-29 15:00:00,2023-01-29 15:30:00,Business,Location_A,Location_C,22.88,Customer Visit,Male,Morning,9.180472873821962,Downtown,City Outskirts,No,Solo
+2023-01-29 16:00:00,2023-01-29 16:30:00,Business,Location_D,Location_B,20.76,Errand/Supplies,Male,Night,8.737719165729033,Suburbs,Suburbs,Yes,Solo
+2023-01-29 17:00:00,2023-01-29 17:30:00,Personal,Location_C,Location_A,12.36,Airport,Female,Afternoon,9.09034520340888,Downtown,City Outskirts,No,Shared
+2023-01-29 18:00:00,2023-01-29 18:30:00,Personal,Location_C,Location_C,9.73,Meal/Entertainment,Male,Evening,1.7420916032706577,Downtown,Suburbs,No,Solo
+2023-01-29 19:00:00,2023-01-29 19:30:00,Personal,Location_D,Location_B,20.53,Meal/Entertainment,Male,Evening,7.351272842176372,Suburbs,Suburbs,No,Shared
+2023-01-29 20:00:00,2023-01-29 20:30:00,Personal,Location_B,Location_D,3.63,Customer Visit,Male,Afternoon,8.320645056908196,City Outskirts,Suburbs,No,Shared
+2023-01-29 21:00:00,2023-01-29 21:30:00,Personal,Location_A,Location_A,12.85,Airport,Female,Night,2.4803984518340787,Suburbs,Downtown,No,Shared
+2023-01-29 22:00:00,2023-01-29 22:30:00,Personal,Location_C,Location_C,11.25,Errand/Supplies,Male,Night,2.8240167341636715,City Outskirts,City Outskirts,No,Solo
+2023-01-29 23:00:00,2023-01-29 23:30:00,Business,Location_B,Location_B,2.23,Customer Visit,Female,Morning,3.725920799404257,Downtown,City Outskirts,No,Shared
+2023-01-30 00:00:00,2023-01-30 00:30:00,Business,Location_C,Location_C,12.56,Meeting,Male,Morning,2.351217976611895,Downtown,Suburbs,No,Shared
+2023-01-30 01:00:00,2023-01-30 01:30:00,Personal,Location_A,Location_D,8.84,Meeting,Male,Evening,1.9479445927443289,Downtown,City Outskirts,No,Shared
+2023-01-30 02:00:00,2023-01-30 02:30:00,Business,Location_D,Location_D,4.96,Meeting,Female,Afternoon,5.527378001846329,Suburbs,Downtown,Yes,Shared
+2023-01-30 03:00:00,2023-01-30 03:30:00,Business,Location_D,Location_D,24.03,Airport,Male,Night,6.709981840076235,Downtown,Downtown,No,Shared
+2023-01-30 04:00:00,2023-01-30 04:30:00,Business,Location_A,Location_A,13.03,Errand/Supplies,Female,Morning,3.221704454787852,Downtown,Downtown,No,Shared
+2023-01-30 05:00:00,2023-01-30 05:30:00,Personal,Location_C,Location_B,1.28,Meal/Entertainment,Female,Afternoon,9.45724787826584,Suburbs,Downtown,No,Solo
+2023-01-30 06:00:00,2023-01-30 06:30:00,Personal,Location_D,Location_C,11.22,Errand/Supplies,Male,Morning,1.7485295826499452,Suburbs,City Outskirts,No,Shared
+2023-01-30 07:00:00,2023-01-30 07:30:00,Personal,Location_D,Location_B,19.68,Customer Visit,Female,Morning,8.430504657878453,City Outskirts,Downtown,No,Solo
+2023-01-30 08:00:00,2023-01-30 08:30:00,Personal,Location_A,Location_A,9.85,Airport,Female,Night,6.688058687429923,City Outskirts,City Outskirts,Yes,Shared
+2023-01-30 09:00:00,2023-01-30 09:30:00,Business,Location_B,Location_D,21.68,Customer Visit,Female,Night,6.806572225531712,Downtown,Downtown,Yes,Shared
+2023-01-30 10:00:00,2023-01-30 10:30:00,Personal,Location_B,Location_D,16.72,Meeting,Female,Evening,1.3707346186447853,City Outskirts,Downtown,No,Shared
+2023-01-30 11:00:00,2023-01-30 11:30:00,Business,Location_C,Location_A,12.13,Airport,Male,Morning,5.511389186120994,City Outskirts,Suburbs,Yes,Solo
+2023-01-30 12:00:00,2023-01-30 12:30:00,Personal,Location_D,Location_C,22.58,Airport,Female,Morning,9.109973819846386,Downtown,Suburbs,No,Shared
+2023-01-30 13:00:00,2023-01-30 13:30:00,Business,Location_D,Location_D,16.23,Airport,Male,Morning,8.393756036711423,Downtown,Downtown,Yes,Shared
+2023-01-30 14:00:00,2023-01-30 14:30:00,Business,Location_D,Location_D,9.48,Customer Visit,Male,Morning,1.7640653391288517,City Outskirts,Suburbs,No,Solo
+2023-01-30 15:00:00,2023-01-30 15:30:00,Business,Location_D,Location_A,1.86,Customer Visit,Female,Morning,1.3978175828433215,City Outskirts,Suburbs,Yes,Solo
+2023-01-30 16:00:00,2023-01-30 16:30:00,Personal,Location_B,Location_A,11.1,Airport,Male,Night,9.963978398319005,Suburbs,Downtown,No,Solo
+2023-01-30 17:00:00,2023-01-30 17:30:00,Business,Location_D,Location_D,15.02,Meal/Entertainment,Male,Morning,4.326548702436561,City Outskirts,Suburbs,No,Solo
+2023-01-30 18:00:00,2023-01-30 18:30:00,Personal,Location_B,Location_B,10.86,Errand/Supplies,Male,Morning,7.299563330244911,Suburbs,City Outskirts,Yes,Solo
+2023-01-30 19:00:00,2023-01-30 19:30:00,Personal,Location_B,Location_C,14.01,Errand/Supplies,Male,Evening,7.106493414184937,Suburbs,Suburbs,No,Shared
+2023-01-30 20:00:00,2023-01-30 20:30:00,Personal,Location_B,Location_B,3.01,Meeting,Male,Evening,2.34338774778044,Suburbs,City Outskirts,No,Shared
+2023-01-30 21:00:00,2023-01-30 21:30:00,Business,Location_B,Location_A,15.27,Airport,Male,Afternoon,5.168358763378349,Suburbs,Suburbs,No,Shared
+2023-01-30 22:00:00,2023-01-30 22:30:00,Business,Location_D,Location_D,8.5,Airport,Male,Evening,1.0312518868065368,Downtown,Suburbs,Yes,Solo
+2023-01-30 23:00:00,2023-01-30 23:30:00,Personal,Location_B,Location_A,5.66,Airport,Male,Night,9.026902439471787,Suburbs,Suburbs,No,Shared
+2023-01-31 00:00:00,2023-01-31 00:30:00,Personal,Location_B,Location_B,1.32,Airport,Male,Afternoon,8.393675065227853,City Outskirts,City Outskirts,No,Shared
+2023-01-31 01:00:00,2023-01-31 01:30:00,Business,Location_C,Location_A,19.03,Airport,Male,Night,6.089038929595967,City Outskirts,City Outskirts,Yes,Shared
+2023-01-31 02:00:00,2023-01-31 02:30:00,Personal,Location_D,Location_A,24.05,Meeting,Female,Morning,2.6046252162625705,City Outskirts,City Outskirts,Yes,Shared
+2023-01-31 03:00:00,2023-01-31 03:30:00,Business,Location_A,Location_A,4.3,Meeting,Male,Morning,4.062278355043334,City Outskirts,City Outskirts,No,Solo
+2023-01-31 04:00:00,2023-01-31 04:30:00,Business,Location_C,Location_A,6.38,Customer Visit,Female,Morning,5.912574060936855,City Outskirts,City Outskirts,Yes,Shared
+2023-01-31 05:00:00,2023-01-31 05:30:00,Personal,Location_B,Location_B,14.19,Meal/Entertainment,Female,Evening,5.723563789222101,Suburbs,Downtown,Yes,Shared
+2023-01-31 06:00:00,2023-01-31 06:30:00,Business,Location_B,Location_D,4.03,Errand/Supplies,Male,Night,3.776182918196699,Suburbs,City Outskirts,Yes,Solo
+2023-01-31 07:00:00,2023-01-31 07:30:00,Business,Location_C,Location_C,3.28,Customer Visit,Female,Afternoon,5.081356323667209,Downtown,Downtown,Yes,Shared
+2023-01-31 08:00:00,2023-01-31 08:30:00,Personal,Location_B,Location_C,18.6,Airport,Female,Morning,4.947355185340522,City Outskirts,Suburbs,Yes,Shared
+2023-01-31 09:00:00,2023-01-31 09:30:00,Business,Location_B,Location_A,17.2,Airport,Female,Afternoon,6.8973721660321505,Suburbs,City Outskirts,Yes,Solo
+2023-01-31 10:00:00,2023-01-31 10:30:00,Personal,Location_A,Location_B,18.72,Meeting,Female,Morning,1.950407481748727,City Outskirts,City Outskirts,No,Shared
+2023-01-31 11:00:00,2023-01-31 11:30:00,Personal,Location_D,Location_D,22.78,Customer Visit,Female,Night,5.6561179809764015,City Outskirts,Downtown,No,Shared
+2023-01-31 12:00:00,2023-01-31 12:30:00,Business,Location_A,Location_B,20.75,Meal/Entertainment,Male,Evening,2.949766091505925,Suburbs,Downtown,No,Shared
+2023-01-31 13:00:00,2023-01-31 13:30:00,Personal,Location_A,Location_D,21.69,Airport,Male,Afternoon,2.31764964601959,City Outskirts,Suburbs,Yes,Solo
+2023-01-31 14:00:00,2023-01-31 14:30:00,Business,Location_D,Location_D,9.46,Airport,Male,Evening,3.5235056709578956,Suburbs,Suburbs,Yes,Shared
+2023-01-31 15:00:00,2023-01-31 15:30:00,Personal,Location_C,Location_B,3.84,Meal/Entertainment,Male,Afternoon,3.6989666337483094,Downtown,City Outskirts,Yes,Shared
+2023-01-31 16:00:00,2023-01-31 16:30:00,Personal,Location_D,Location_C,1.1,Airport,Male,Afternoon,7.744743190078497,Downtown,City Outskirts,Yes,Shared
+2023-01-31 17:00:00,2023-01-31 17:30:00,Personal,Location_D,Location_C,3.41,Meal/Entertainment,Male,Morning,6.73056906244978,Downtown,Downtown,Yes,Shared
+2023-01-31 18:00:00,2023-01-31 18:30:00,Personal,Location_B,Location_D,14.51,Meeting,Female,Evening,3.806361580111773,City Outskirts,Downtown,No,Solo
+2023-01-31 19:00:00,2023-01-31 19:30:00,Business,Location_C,Location_B,1.59,Meeting,Male,Evening,4.7178370595405354,Suburbs,Suburbs,Yes,Solo
+2023-01-31 20:00:00,2023-01-31 20:30:00,Business,Location_D,Location_A,11.94,Meal/Entertainment,Female,Night,5.646547041106098,City Outskirts,Suburbs,Yes,Shared
+2023-01-31 21:00:00,2023-01-31 21:30:00,Personal,Location_A,Location_C,8.27,Airport,Male,Morning,3.7466257597845334,City Outskirts,Suburbs,No,Solo
+2023-01-31 22:00:00,2023-01-31 22:30:00,Business,Location_C,Location_B,2.62,Customer Visit,Male,Afternoon,6.937691838488798,Downtown,City Outskirts,Yes,Solo
+2023-01-31 23:00:00,2023-01-31 23:30:00,Business,Location_C,Location_D,3.85,Meal/Entertainment,Male,Evening,3.522389663549969,City Outskirts,Suburbs,Yes,Solo
+2023-02-01 00:00:00,2023-02-01 00:30:00,Personal,Location_C,Location_C,10.39,Meeting,Female,Evening,9.31470787838357,Suburbs,Suburbs,Yes,Solo
+2023-02-01 01:00:00,2023-02-01 01:30:00,Business,Location_B,Location_D,10.96,Customer Visit,Male,Afternoon,8.37849562787068,Downtown,City Outskirts,Yes,Solo
+2023-02-01 02:00:00,2023-02-01 02:30:00,Business,Location_D,Location_B,22.72,Meeting,Female,Morning,1.1124463292183766,Suburbs,Downtown,No,Shared
+2023-02-01 03:00:00,2023-02-01 03:30:00,Personal,Location_C,Location_A,23.19,Meeting,Male,Night,3.893090047944164,City Outskirts,Suburbs,Yes,Shared
+2023-02-01 04:00:00,2023-02-01 04:30:00,Business,Location_C,Location_C,6.04,Errand/Supplies,Female,Afternoon,9.45305881506967,City Outskirts,Downtown,Yes,Shared
+2023-02-01 05:00:00,2023-02-01 05:30:00,Business,Location_C,Location_C,23.44,Meeting,Female,Morning,4.613372661227912,City Outskirts,Suburbs,No,Solo
+2023-02-01 06:00:00,2023-02-01 06:30:00,Business,Location_A,Location_A,13.62,Meal/Entertainment,Male,Afternoon,3.468285328999519,Downtown,Suburbs,Yes,Solo
+2023-02-01 07:00:00,2023-02-01 07:30:00,Personal,Location_D,Location_D,16.26,Errand/Supplies,Female,Afternoon,9.000829599825284,City Outskirts,Suburbs,Yes,Solo
+2023-02-01 08:00:00,2023-02-01 08:30:00,Business,Location_B,Location_A,10.89,Meal/Entertainment,Male,Morning,9.344335623451393,City Outskirts,Downtown,No,Shared
+2023-02-01 09:00:00,2023-02-01 09:30:00,Personal,Location_C,Location_B,12.38,Meal/Entertainment,Male,Morning,3.8748463971099993,City Outskirts,Downtown,Yes,Shared
+2023-02-01 10:00:00,2023-02-01 10:30:00,Personal,Location_C,Location_B,15.19,Customer Visit,Male,Afternoon,8.850441785580752,Suburbs,Downtown,Yes,Solo
+2023-02-01 11:00:00,2023-02-01 11:30:00,Personal,Location_C,Location_D,8.45,Meeting,Male,Morning,9.96678162401592,City Outskirts,Downtown,Yes,Shared
+2023-02-01 12:00:00,2023-02-01 12:30:00,Business,Location_B,Location_D,18.98,Meal/Entertainment,Male,Evening,4.018201734615996,City Outskirts,City Outskirts,Yes,Solo
+2023-02-01 13:00:00,2023-02-01 13:30:00,Personal,Location_C,Location_C,12.87,Airport,Male,Evening,5.123090648659228,Downtown,Suburbs,Yes,Solo
+2023-02-01 14:00:00,2023-02-01 14:30:00,Business,Location_B,Location_C,24.41,Airport,Male,Evening,1.7054420481669692,Suburbs,Suburbs,Yes,Solo
+2023-02-01 15:00:00,2023-02-01 15:30:00,Business,Location_C,Location_C,16.15,Meeting,Female,Night,4.4087498866999635,City Outskirts,Suburbs,No,Shared
+2023-02-01 16:00:00,2023-02-01 16:30:00,Personal,Location_B,Location_C,23.66,Customer Visit,Male,Evening,5.699525020340393,Downtown,Downtown,No,Shared
+2023-02-01 17:00:00,2023-02-01 17:30:00,Business,Location_D,Location_B,3.77,Meeting,Male,Afternoon,4.891142896063464,City Outskirts,Downtown,No,Solo
+2023-02-01 18:00:00,2023-02-01 18:30:00,Business,Location_A,Location_C,12.4,Meeting,Male,Afternoon,9.973569635916888,City Outskirts,City Outskirts,No,Shared
+2023-02-01 19:00:00,2023-02-01 19:30:00,Business,Location_D,Location_B,11.78,Errand/Supplies,Female,Morning,3.6852560852041534,City Outskirts,Downtown,Yes,Solo
+2023-02-01 20:00:00,2023-02-01 20:30:00,Personal,Location_A,Location_C,22.83,Meal/Entertainment,Male,Morning,4.1895929487436705,Downtown,City Outskirts,No,Shared
+2023-02-01 21:00:00,2023-02-01 21:30:00,Personal,Location_A,Location_B,1.03,Meeting,Female,Morning,1.9155759377216501,City Outskirts,Downtown,Yes,Shared
+2023-02-01 22:00:00,2023-02-01 22:30:00,Business,Location_A,Location_B,16.66,Meeting,Female,Afternoon,5.226527389738543,Suburbs,City Outskirts,Yes,Solo
+2023-02-01 23:00:00,2023-02-01 23:30:00,Personal,Location_D,Location_D,4.01,Meal/Entertainment,Male,Night,3.4321233213717997,Downtown,City Outskirts,No,Shared
+2023-02-02 00:00:00,2023-02-02 00:30:00,Personal,Location_C,Location_D,14.97,Meal/Entertainment,Female,Afternoon,6.210156308462667,City Outskirts,Suburbs,Yes,Solo
+2023-02-02 01:00:00,2023-02-02 01:30:00,Personal,Location_C,Location_D,19.61,Customer Visit,Male,Evening,3.1227048010319285,Downtown,Suburbs,No,Shared
+2023-02-02 02:00:00,2023-02-02 02:30:00,Personal,Location_D,Location_C,6.01,Customer Visit,Male,Evening,9.66758424727327,Suburbs,City Outskirts,No,Solo
+2023-02-02 03:00:00,2023-02-02 03:30:00,Business,Location_A,Location_D,1.89,Customer Visit,Female,Afternoon,6.751352543772047,Suburbs,City Outskirts,Yes,Shared
+2023-02-02 04:00:00,2023-02-02 04:30:00,Business,Location_D,Location_A,1.51,Meeting,Male,Evening,6.842892358077885,City Outskirts,Suburbs,Yes,Solo
+2023-02-02 05:00:00,2023-02-02 05:30:00,Business,Location_C,Location_C,3.13,Errand/Supplies,Female,Afternoon,1.9760600980731442,City Outskirts,City Outskirts,Yes,Shared
+2023-02-02 06:00:00,2023-02-02 06:30:00,Personal,Location_A,Location_A,20.62,Meeting,Female,Morning,3.8856086490831387,Downtown,Downtown,No,Solo
+2023-02-02 07:00:00,2023-02-02 07:30:00,Business,Location_B,Location_D,19.44,Customer Visit,Male,Evening,3.918417879421021,Suburbs,Suburbs,Yes,Solo
+2023-02-02 08:00:00,2023-02-02 08:30:00,Business,Location_A,Location_C,24.39,Customer Visit,Female,Evening,6.914486600412623,Downtown,Downtown,Yes,Solo
+2023-02-02 09:00:00,2023-02-02 09:30:00,Business,Location_B,Location_B,20.18,Airport,Female,Evening,6.74885447420328,Suburbs,Downtown,Yes,Shared
+2023-02-02 10:00:00,2023-02-02 10:30:00,Personal,Location_D,Location_C,16.68,Meal/Entertainment,Female,Evening,7.406947764004269,Downtown,City Outskirts,Yes,Shared
+2023-02-02 11:00:00,2023-02-02 11:30:00,Business,Location_C,Location_A,15.16,Meal/Entertainment,Male,Evening,8.06047967300186,Suburbs,Suburbs,Yes,Shared
+2023-02-02 12:00:00,2023-02-02 12:30:00,Personal,Location_D,Location_B,16.02,Airport,Male,Afternoon,6.5109064116358955,City Outskirts,Suburbs,Yes,Shared
+2023-02-02 13:00:00,2023-02-02 13:30:00,Personal,Location_D,Location_D,7.73,Meeting,Male,Morning,5.9265642609844384,City Outskirts,City Outskirts,Yes,Solo
+2023-02-02 14:00:00,2023-02-02 14:30:00,Personal,Location_A,Location_B,10.55,Airport,Male,Evening,8.69777298169616,City Outskirts,Suburbs,Yes,Shared
+2023-02-02 15:00:00,2023-02-02 15:30:00,Personal,Location_A,Location_A,9.55,Customer Visit,Male,Afternoon,9.424580849625722,Downtown,Downtown,Yes,Solo
+2023-02-02 16:00:00,2023-02-02 16:30:00,Business,Location_C,Location_C,6.0,Meal/Entertainment,Female,Afternoon,7.5147122345329,Downtown,City Outskirts,No,Solo
+2023-02-02 17:00:00,2023-02-02 17:30:00,Business,Location_D,Location_C,8.89,Errand/Supplies,Female,Evening,9.785312321979706,City Outskirts,Downtown,No,Solo
+2023-02-02 18:00:00,2023-02-02 18:30:00,Personal,Location_B,Location_A,8.19,Errand/Supplies,Female,Evening,7.053387157286753,City Outskirts,City Outskirts,Yes,Shared
+2023-02-02 19:00:00,2023-02-02 19:30:00,Business,Location_B,Location_B,4.4,Airport,Male,Night,2.4067473556087133,City Outskirts,Downtown,No,Solo
+2023-02-02 20:00:00,2023-02-02 20:30:00,Business,Location_C,Location_A,12.3,Airport,Female,Evening,5.633586007805757,Downtown,Suburbs,No,Solo
+2023-02-02 21:00:00,2023-02-02 21:30:00,Business,Location_D,Location_C,8.45,Meal/Entertainment,Female,Night,6.083060995680436,City Outskirts,Suburbs,No,Solo
+2023-02-02 22:00:00,2023-02-02 22:30:00,Business,Location_B,Location_D,11.88,Meeting,Male,Evening,3.430447064241128,City Outskirts,Suburbs,No,Solo
+2023-02-02 23:00:00,2023-02-02 23:30:00,Business,Location_C,Location_D,13.44,Customer Visit,Male,Night,1.1297218071995545,Suburbs,Suburbs,Yes,Shared
+2023-02-03 00:00:00,2023-02-03 00:30:00,Business,Location_A,Location_A,2.46,Airport,Male,Evening,6.674490951198882,Suburbs,Downtown,No,Shared
+2023-02-03 01:00:00,2023-02-03 01:30:00,Business,Location_D,Location_B,20.59,Meeting,Female,Evening,6.15761776209613,Suburbs,City Outskirts,No,Solo
+2023-02-03 02:00:00,2023-02-03 02:30:00,Personal,Location_C,Location_D,4.86,Errand/Supplies,Female,Morning,8.767181439418412,Suburbs,Suburbs,No,Solo
+2023-02-03 03:00:00,2023-02-03 03:30:00,Personal,Location_C,Location_C,2.32,Customer Visit,Female,Morning,3.345410673638029,Downtown,Suburbs,Yes,Solo
+2023-02-03 04:00:00,2023-02-03 04:30:00,Business,Location_D,Location_B,11.03,Errand/Supplies,Female,Evening,7.168307353357862,Suburbs,Suburbs,No,Shared
+2023-02-03 05:00:00,2023-02-03 05:30:00,Business,Location_C,Location_B,20.7,Airport,Female,Night,2.212291185525486,Suburbs,Downtown,No,Shared
+2023-02-03 06:00:00,2023-02-03 06:30:00,Personal,Location_A,Location_D,5.36,Errand/Supplies,Female,Morning,5.533940745427231,City Outskirts,Suburbs,Yes,Shared
+2023-02-03 07:00:00,2023-02-03 07:30:00,Business,Location_B,Location_C,12.55,Errand/Supplies,Male,Afternoon,5.323230826603008,Downtown,City Outskirts,Yes,Shared
+2023-02-03 08:00:00,2023-02-03 08:30:00,Business,Location_D,Location_A,22.36,Meal/Entertainment,Female,Evening,6.705798196991091,Downtown,City Outskirts,Yes,Shared
+2023-02-03 09:00:00,2023-02-03 09:30:00,Business,Location_C,Location_A,10.18,Airport,Male,Night,6.297480272980254,Downtown,Downtown,Yes,Shared
+2023-02-03 10:00:00,2023-02-03 10:30:00,Business,Location_D,Location_C,18.18,Errand/Supplies,Female,Night,7.151493430748673,Suburbs,Suburbs,Yes,Shared
+2023-02-03 11:00:00,2023-02-03 11:30:00,Personal,Location_B,Location_B,20.73,Customer Visit,Female,Evening,4.952580469394264,Suburbs,Downtown,No,Solo
+2023-02-03 12:00:00,2023-02-03 12:30:00,Personal,Location_D,Location_D,5.63,Errand/Supplies,Female,Night,8.827810502688173,Downtown,Suburbs,No,Shared
+2023-02-03 13:00:00,2023-02-03 13:30:00,Business,Location_C,Location_B,14.16,Customer Visit,Male,Afternoon,5.122030714418762,City Outskirts,City Outskirts,Yes,Solo
+2023-02-03 14:00:00,2023-02-03 14:30:00,Business,Location_B,Location_B,13.71,Customer Visit,Female,Evening,9.568258880527152,Downtown,Suburbs,Yes,Shared
+2023-02-03 15:00:00,2023-02-03 15:30:00,Personal,Location_D,Location_A,24.42,Airport,Male,Night,9.428433404514859,Suburbs,Downtown,Yes,Shared
+2023-02-03 16:00:00,2023-02-03 16:30:00,Business,Location_D,Location_C,19.91,Errand/Supplies,Male,Evening,4.645992404279992,City Outskirts,Downtown,No,Shared
+2023-02-03 17:00:00,2023-02-03 17:30:00,Personal,Location_A,Location_C,24.25,Airport,Female,Morning,4.225666669527474,Suburbs,City Outskirts,Yes,Shared
+2023-02-03 18:00:00,2023-02-03 18:30:00,Business,Location_C,Location_C,22.73,Meeting,Female,Morning,8.389706645446207,Suburbs,Suburbs,Yes,Solo
+2023-02-03 19:00:00,2023-02-03 19:30:00,Personal,Location_C,Location_B,18.62,Customer Visit,Female,Afternoon,6.5896338312475145,Downtown,Downtown,No,Solo
+2023-02-03 20:00:00,2023-02-03 20:30:00,Personal,Location_D,Location_C,20.4,Errand/Supplies,Male,Morning,6.152499347131608,Suburbs,City Outskirts,No,Shared
+2023-02-03 21:00:00,2023-02-03 21:30:00,Business,Location_B,Location_A,4.12,Meeting,Male,Evening,7.609216826347344,Downtown,City Outskirts,No,Solo
+2023-02-03 22:00:00,2023-02-03 22:30:00,Personal,Location_D,Location_A,11.65,Customer Visit,Male,Afternoon,1.0147348586628016,Downtown,Downtown,Yes,Shared
+2023-02-03 23:00:00,2023-02-03 23:30:00,Business,Location_C,Location_C,22.57,Customer Visit,Female,Afternoon,1.084103527833082,Suburbs,City Outskirts,No,Shared
+2023-02-04 00:00:00,2023-02-04 00:30:00,Business,Location_B,Location_C,10.79,Customer Visit,Female,Afternoon,4.680716507529114,Suburbs,City Outskirts,Yes,Solo
+2023-02-04 01:00:00,2023-02-04 01:30:00,Business,Location_D,Location_C,5.51,Meal/Entertainment,Male,Evening,4.41032202106336,Suburbs,Downtown,Yes,Shared
+2023-02-04 02:00:00,2023-02-04 02:30:00,Personal,Location_D,Location_B,20.74,Meeting,Male,Afternoon,6.806405351694322,City Outskirts,Suburbs,Yes,Shared
+2023-02-04 03:00:00,2023-02-04 03:30:00,Personal,Location_D,Location_A,8.8,Meal/Entertainment,Male,Morning,2.441885090807493,Downtown,Downtown,Yes,Shared
+2023-02-04 04:00:00,2023-02-04 04:30:00,Business,Location_D,Location_A,4.52,Meal/Entertainment,Male,Morning,3.8301764964705254,City Outskirts,Downtown,No,Solo
+2023-02-04 05:00:00,2023-02-04 05:30:00,Personal,Location_A,Location_C,8.25,Meeting,Male,Night,9.254207920746989,City Outskirts,City Outskirts,No,Shared
+2023-02-04 06:00:00,2023-02-04 06:30:00,Personal,Location_A,Location_A,2.06,Meeting,Female,Night,8.116432616738663,City Outskirts,City Outskirts,No,Shared
+2023-02-04 07:00:00,2023-02-04 07:30:00,Business,Location_C,Location_D,15.39,Meal/Entertainment,Female,Afternoon,2.4493136544007204,Downtown,Suburbs,No,Solo
+2023-02-04 08:00:00,2023-02-04 08:30:00,Personal,Location_A,Location_A,23.8,Meeting,Female,Morning,5.34529375010611,Suburbs,City Outskirts,Yes,Solo
+2023-02-04 09:00:00,2023-02-04 09:30:00,Business,Location_A,Location_C,3.7,Customer Visit,Female,Morning,6.788582306092239,Suburbs,Downtown,Yes,Solo
+2023-02-04 10:00:00,2023-02-04 10:30:00,Personal,Location_C,Location_D,21.01,Meeting,Female,Evening,2.503949360821937,Suburbs,City Outskirts,Yes,Shared
+2023-02-04 11:00:00,2023-02-04 11:30:00,Business,Location_C,Location_A,20.53,Meal/Entertainment,Female,Afternoon,2.4535840258324337,City Outskirts,City Outskirts,Yes,Solo
+2023-02-04 12:00:00,2023-02-04 12:30:00,Business,Location_D,Location_C,9.71,Airport,Male,Night,2.3929457493101216,Downtown,Suburbs,Yes,Shared
+2023-02-04 13:00:00,2023-02-04 13:30:00,Personal,Location_B,Location_A,9.94,Meeting,Male,Night,8.896016317407778,Downtown,Downtown,Yes,Solo
+2023-02-04 14:00:00,2023-02-04 14:30:00,Business,Location_D,Location_D,5.76,Meeting,Female,Morning,3.4171521487581895,Downtown,Suburbs,Yes,Shared
+2023-02-04 15:00:00,2023-02-04 15:30:00,Personal,Location_C,Location_C,24.16,Customer Visit,Female,Evening,2.038804013865406,City Outskirts,Suburbs,Yes,Solo
+2023-02-04 16:00:00,2023-02-04 16:30:00,Personal,Location_A,Location_A,1.36,Airport,Female,Night,2.150170336233698,Suburbs,Suburbs,Yes,Solo
+2023-02-04 17:00:00,2023-02-04 17:30:00,Business,Location_C,Location_C,13.58,Meeting,Male,Night,6.156941962757455,City Outskirts,Suburbs,Yes,Solo
+2023-02-04 18:00:00,2023-02-04 18:30:00,Personal,Location_A,Location_D,14.01,Customer Visit,Male,Afternoon,9.172063332235341,Suburbs,Suburbs,Yes,Shared
+2023-02-04 19:00:00,2023-02-04 19:30:00,Personal,Location_B,Location_B,7.54,Meeting,Female,Evening,8.594973199500858,City Outskirts,City Outskirts,No,Shared
+2023-02-04 20:00:00,2023-02-04 20:30:00,Business,Location_B,Location_B,11.16,Errand/Supplies,Male,Morning,7.9378936038877015,City Outskirts,City Outskirts,Yes,Shared
+2023-02-04 21:00:00,2023-02-04 21:30:00,Business,Location_D,Location_B,22.13,Customer Visit,Female,Night,8.024411381322881,Downtown,City Outskirts,No,Shared
+2023-02-04 22:00:00,2023-02-04 22:30:00,Business,Location_C,Location_B,21.38,Meal/Entertainment,Female,Afternoon,2.914757641613546,Suburbs,City Outskirts,Yes,Shared
+2023-02-04 23:00:00,2023-02-04 23:30:00,Business,Location_C,Location_B,5.52,Meeting,Male,Morning,7.964888811974898,Downtown,Suburbs,No,Shared
+2023-02-05 00:00:00,2023-02-05 00:30:00,Business,Location_B,Location_C,7.66,Meeting,Female,Afternoon,1.097758398238998,Suburbs,Suburbs,Yes,Shared
+2023-02-05 01:00:00,2023-02-05 01:30:00,Personal,Location_A,Location_C,2.24,Meal/Entertainment,Female,Evening,5.388060473675711,Downtown,Downtown,Yes,Shared
+2023-02-05 02:00:00,2023-02-05 02:30:00,Business,Location_C,Location_D,16.14,Meal/Entertainment,Female,Evening,6.753259447330435,City Outskirts,Downtown,Yes,Shared
+2023-02-05 03:00:00,2023-02-05 03:30:00,Business,Location_A,Location_C,8.45,Airport,Female,Night,3.1571666616659493,Suburbs,Downtown,No,Solo
+2023-02-05 04:00:00,2023-02-05 04:30:00,Personal,Location_D,Location_A,14.05,Meeting,Female,Evening,6.450068056939772,City Outskirts,Downtown,No,Solo
+2023-02-05 05:00:00,2023-02-05 05:30:00,Personal,Location_D,Location_C,22.62,Airport,Male,Night,4.203547897530232,Suburbs,Suburbs,No,Solo
+2023-02-05 06:00:00,2023-02-05 06:30:00,Personal,Location_D,Location_D,13.32,Meal/Entertainment,Male,Morning,1.5428681716347061,City Outskirts,Downtown,No,Shared
+2023-02-05 07:00:00,2023-02-05 07:30:00,Business,Location_B,Location_B,24.82,Airport,Female,Night,1.9144527918546719,City Outskirts,City Outskirts,No,Shared
+2023-02-05 08:00:00,2023-02-05 08:30:00,Personal,Location_C,Location_A,12.54,Meal/Entertainment,Female,Morning,4.955256715204634,City Outskirts,Downtown,Yes,Solo
+2023-02-05 09:00:00,2023-02-05 09:30:00,Personal,Location_B,Location_D,3.21,Customer Visit,Male,Night,8.379207248559414,Downtown,City Outskirts,Yes,Solo
+2023-02-05 10:00:00,2023-02-05 10:30:00,Personal,Location_A,Location_A,23.4,Errand/Supplies,Male,Afternoon,6.464848024308951,Downtown,City Outskirts,No,Solo
+2023-02-05 11:00:00,2023-02-05 11:30:00,Business,Location_C,Location_D,4.63,Meeting,Male,Afternoon,5.871210637124432,City Outskirts,City Outskirts,No,Shared
+2023-02-05 12:00:00,2023-02-05 12:30:00,Personal,Location_B,Location_D,23.89,Meeting,Female,Evening,9.31433676674196,Downtown,Suburbs,No,Shared
+2023-02-05 13:00:00,2023-02-05 13:30:00,Personal,Location_A,Location_A,5.95,Meal/Entertainment,Female,Evening,8.970312562137881,City Outskirts,City Outskirts,Yes,Solo
+2023-02-05 14:00:00,2023-02-05 14:30:00,Personal,Location_D,Location_D,13.12,Customer Visit,Male,Evening,1.4964748585165353,Suburbs,City Outskirts,Yes,Shared
+2023-02-05 15:00:00,2023-02-05 15:30:00,Personal,Location_C,Location_A,16.51,Customer Visit,Female,Morning,5.637000812316866,Suburbs,Suburbs,Yes,Solo
+2023-02-05 16:00:00,2023-02-05 16:30:00,Personal,Location_A,Location_A,13.2,Meeting,Female,Morning,2.988155952975053,Downtown,Downtown,No,Solo
+2023-02-05 17:00:00,2023-02-05 17:30:00,Business,Location_C,Location_D,2.7,Meal/Entertainment,Female,Afternoon,7.202960654701661,Downtown,Downtown,Yes,Shared
+2023-02-05 18:00:00,2023-02-05 18:30:00,Business,Location_D,Location_B,19.89,Airport,Female,Evening,6.2556559620312076,City Outskirts,Suburbs,No,Shared
+2023-02-05 19:00:00,2023-02-05 19:30:00,Personal,Location_B,Location_D,2.04,Airport,Male,Afternoon,1.5134035832153385,Suburbs,Downtown,Yes,Solo
+2023-02-05 20:00:00,2023-02-05 20:30:00,Personal,Location_B,Location_C,14.33,Errand/Supplies,Male,Morning,1.4048671974937563,City Outskirts,Downtown,No,Solo
+2023-02-05 21:00:00,2023-02-05 21:30:00,Business,Location_B,Location_B,23.1,Meal/Entertainment,Male,Evening,4.950893074144259,Downtown,Suburbs,Yes,Solo
+2023-02-05 22:00:00,2023-02-05 22:30:00,Business,Location_B,Location_C,9.23,Airport,Male,Afternoon,4.197453027525475,Downtown,City Outskirts,No,Shared
+2023-02-05 23:00:00,2023-02-05 23:30:00,Business,Location_A,Location_C,14.36,Meeting,Female,Night,4.721880646317725,Suburbs,Suburbs,Yes,Solo
+2023-02-06 00:00:00,2023-02-06 00:30:00,Personal,Location_D,Location_D,7.9,Customer Visit,Male,Morning,2.2603179941346543,Downtown,City Outskirts,Yes,Solo
+2023-02-06 01:00:00,2023-02-06 01:30:00,Business,Location_B,Location_C,22.36,Meeting,Female,Morning,8.13078268763731,Downtown,Suburbs,No,Shared
+2023-02-06 02:00:00,2023-02-06 02:30:00,Business,Location_C,Location_A,22.57,Customer Visit,Female,Night,8.833363424126748,Downtown,Suburbs,Yes,Solo
+2023-02-06 03:00:00,2023-02-06 03:30:00,Personal,Location_A,Location_A,14.81,Meal/Entertainment,Male,Afternoon,9.88066933977856,Downtown,Suburbs,Yes,Solo
+2023-02-06 04:00:00,2023-02-06 04:30:00,Business,Location_C,Location_C,24.85,Errand/Supplies,Female,Evening,3.441876983157009,Suburbs,Downtown,Yes,Solo
+2023-02-06 05:00:00,2023-02-06 05:30:00,Business,Location_B,Location_D,24.04,Meeting,Male,Night,5.235541185294473,City Outskirts,Downtown,No,Solo
+2023-02-06 06:00:00,2023-02-06 06:30:00,Business,Location_A,Location_C,3.91,Airport,Male,Morning,6.914413589874884,Downtown,Suburbs,Yes,Solo
+2023-02-06 07:00:00,2023-02-06 07:30:00,Business,Location_B,Location_A,4.41,Meal/Entertainment,Female,Evening,4.869870478514432,Downtown,City Outskirts,No,Shared
+2023-02-06 08:00:00,2023-02-06 08:30:00,Business,Location_D,Location_C,11.41,Meal/Entertainment,Female,Afternoon,8.787092002724588,Suburbs,Downtown,Yes,Solo
+2023-02-06 09:00:00,2023-02-06 09:30:00,Personal,Location_C,Location_B,18.88,Errand/Supplies,Male,Afternoon,4.2903381529818825,Downtown,City Outskirts,No,Solo
+2023-02-06 10:00:00,2023-02-06 10:30:00,Business,Location_B,Location_A,2.58,Airport,Female,Afternoon,5.942876899280486,Suburbs,Downtown,No,Solo
+2023-02-06 11:00:00,2023-02-06 11:30:00,Business,Location_A,Location_C,16.05,Airport,Female,Afternoon,9.207088305177056,Suburbs,Suburbs,No,Solo
+2023-02-06 12:00:00,2023-02-06 12:30:00,Business,Location_D,Location_B,2.25,Meal/Entertainment,Male,Evening,6.274005775916778,Suburbs,Downtown,No,Shared
+2023-02-06 13:00:00,2023-02-06 13:30:00,Business,Location_A,Location_A,18.91,Meal/Entertainment,Female,Morning,5.95677747158338,Suburbs,Downtown,Yes,Shared
+2023-02-06 14:00:00,2023-02-06 14:30:00,Personal,Location_A,Location_B,8.61,Meal/Entertainment,Female,Night,7.192921837803994,Suburbs,City Outskirts,No,Shared
+2023-02-06 15:00:00,2023-02-06 15:30:00,Business,Location_C,Location_A,18.82,Airport,Female,Night,2.535663030431523,Suburbs,Suburbs,Yes,Shared
+2023-02-06 16:00:00,2023-02-06 16:30:00,Personal,Location_B,Location_C,18.68,Airport,Female,Evening,9.704029577363396,Downtown,City Outskirts,Yes,Shared
+2023-02-06 17:00:00,2023-02-06 17:30:00,Business,Location_A,Location_A,9.98,Meeting,Male,Afternoon,6.099603212962595,City Outskirts,Suburbs,Yes,Solo
+2023-02-06 18:00:00,2023-02-06 18:30:00,Business,Location_B,Location_C,1.56,Customer Visit,Female,Evening,4.710439186562182,City Outskirts,City Outskirts,No,Solo
+2023-02-06 19:00:00,2023-02-06 19:30:00,Business,Location_C,Location_D,17.66,Meeting,Female,Morning,5.127117578615654,City Outskirts,Downtown,Yes,Shared
+2023-02-06 20:00:00,2023-02-06 20:30:00,Business,Location_B,Location_D,5.55,Meeting,Female,Afternoon,7.5209825765945375,City Outskirts,Downtown,No,Shared
+2023-02-06 21:00:00,2023-02-06 21:30:00,Business,Location_D,Location_A,5.19,Customer Visit,Female,Afternoon,1.7854360192943886,City Outskirts,City Outskirts,Yes,Solo
+2023-02-06 22:00:00,2023-02-06 22:30:00,Business,Location_D,Location_A,1.55,Errand/Supplies,Male,Morning,7.258004007815788,Downtown,Suburbs,Yes,Solo
+2023-02-06 23:00:00,2023-02-06 23:30:00,Personal,Location_D,Location_A,3.05,Airport,Male,Evening,3.1768915186313103,Downtown,City Outskirts,Yes,Shared
+2023-02-07 00:00:00,2023-02-07 00:30:00,Business,Location_B,Location_C,21.76,Airport,Female,Morning,8.298211416434768,Suburbs,Suburbs,No,Solo
+2023-02-07 01:00:00,2023-02-07 01:30:00,Personal,Location_A,Location_B,20.86,Airport,Female,Night,9.245400521755913,Downtown,Downtown,Yes,Shared
+2023-02-07 02:00:00,2023-02-07 02:30:00,Personal,Location_C,Location_C,14.72,Airport,Male,Morning,4.878340355148271,Downtown,Suburbs,Yes,Solo
+2023-02-07 03:00:00,2023-02-07 03:30:00,Personal,Location_B,Location_A,23.42,Meeting,Male,Night,5.363868862577682,Suburbs,City Outskirts,No,Shared
+2023-02-07 04:00:00,2023-02-07 04:30:00,Business,Location_C,Location_A,9.46,Errand/Supplies,Female,Morning,3.33317636478097,City Outskirts,Downtown,No,Solo
+2023-02-07 05:00:00,2023-02-07 05:30:00,Personal,Location_D,Location_C,9.71,Airport,Male,Night,3.3561439703513747,Suburbs,Suburbs,Yes,Shared
+2023-02-07 06:00:00,2023-02-07 06:30:00,Personal,Location_A,Location_C,19.31,Customer Visit,Male,Afternoon,6.467210915452698,Downtown,Downtown,No,Shared
+2023-02-07 07:00:00,2023-02-07 07:30:00,Personal,Location_C,Location_C,23.49,Meeting,Female,Morning,2.624254171513803,Downtown,Downtown,Yes,Solo
+2023-02-07 08:00:00,2023-02-07 08:30:00,Personal,Location_C,Location_C,18.19,Customer Visit,Male,Evening,1.9763333026400476,Suburbs,Suburbs,No,Solo
+2023-02-07 09:00:00,2023-02-07 09:30:00,Business,Location_D,Location_B,20.89,Meeting,Female,Afternoon,4.395764819134111,Downtown,City Outskirts,No,Solo
+2023-02-07 10:00:00,2023-02-07 10:30:00,Business,Location_D,Location_D,12.81,Errand/Supplies,Male,Night,7.468830164489021,Suburbs,Downtown,Yes,Shared
+2023-02-07 11:00:00,2023-02-07 11:30:00,Business,Location_A,Location_B,23.52,Customer Visit,Female,Evening,8.303962543902326,Suburbs,Suburbs,Yes,Shared
+2023-02-07 12:00:00,2023-02-07 12:30:00,Business,Location_A,Location_D,1.51,Meeting,Female,Evening,7.4095298694990435,Downtown,Suburbs,No,Solo
+2023-02-07 13:00:00,2023-02-07 13:30:00,Personal,Location_A,Location_B,16.76,Meal/Entertainment,Female,Morning,7.9239237146495896,City Outskirts,Downtown,No,Shared
+2023-02-07 14:00:00,2023-02-07 14:30:00,Business,Location_D,Location_A,11.2,Errand/Supplies,Female,Evening,1.6138638040700028,Downtown,City Outskirts,No,Solo
+2023-02-07 15:00:00,2023-02-07 15:30:00,Business,Location_D,Location_B,21.77,Meeting,Male,Morning,4.019536136269183,City Outskirts,Downtown,No,Shared
+2023-02-07 16:00:00,2023-02-07 16:30:00,Business,Location_C,Location_C,23.96,Customer Visit,Male,Night,3.903785034109235,Suburbs,Downtown,No,Shared
+2023-02-07 17:00:00,2023-02-07 17:30:00,Business,Location_A,Location_C,20.02,Airport,Male,Night,7.750736581840338,City Outskirts,Downtown,No,Solo
+2023-02-07 18:00:00,2023-02-07 18:30:00,Business,Location_D,Location_A,14.15,Airport,Female,Evening,8.79891802920761,City Outskirts,City Outskirts,No,Shared
+2023-02-07 19:00:00,2023-02-07 19:30:00,Business,Location_A,Location_C,17.46,Meeting,Female,Night,8.335318409173386,Suburbs,Downtown,Yes,Solo
+2023-02-07 20:00:00,2023-02-07 20:30:00,Personal,Location_D,Location_C,9.43,Errand/Supplies,Female,Night,1.4231635804192106,City Outskirts,City Outskirts,Yes,Solo
+2023-02-07 21:00:00,2023-02-07 21:30:00,Personal,Location_D,Location_B,22.53,Airport,Male,Night,8.44094203982556,Downtown,Downtown,No,Solo
+2023-02-07 22:00:00,2023-02-07 22:30:00,Personal,Location_A,Location_A,14.09,Airport,Male,Night,5.16897820568952,Suburbs,Downtown,No,Shared
+2023-02-07 23:00:00,2023-02-07 23:30:00,Personal,Location_A,Location_D,17.98,Errand/Supplies,Female,Afternoon,9.443191573627331,Suburbs,Suburbs,Yes,Shared
+2023-02-08 00:00:00,2023-02-08 00:30:00,Business,Location_C,Location_A,4.26,Meeting,Female,Morning,9.878550941140515,City Outskirts,Downtown,No,Solo
+2023-02-08 01:00:00,2023-02-08 01:30:00,Personal,Location_C,Location_B,3.96,Meal/Entertainment,Female,Evening,4.581425116171078,Downtown,Suburbs,No,Shared
+2023-02-08 02:00:00,2023-02-08 02:30:00,Business,Location_B,Location_D,22.69,Errand/Supplies,Male,Morning,3.4215021525285,City Outskirts,Downtown,Yes,Solo
+2023-02-08 03:00:00,2023-02-08 03:30:00,Business,Location_C,Location_B,9.09,Customer Visit,Male,Night,6.586044223476296,City Outskirts,Downtown,No,Solo
+2023-02-08 04:00:00,2023-02-08 04:30:00,Personal,Location_A,Location_A,8.44,Meal/Entertainment,Female,Afternoon,1.7387579086585556,City Outskirts,Suburbs,Yes,Solo
+2023-02-08 05:00:00,2023-02-08 05:30:00,Personal,Location_B,Location_B,24.28,Meal/Entertainment,Female,Night,2.1095921555536585,Downtown,Suburbs,Yes,Shared
+2023-02-08 06:00:00,2023-02-08 06:30:00,Business,Location_B,Location_A,17.81,Errand/Supplies,Male,Evening,5.537640330042552,Downtown,Suburbs,Yes,Solo
+2023-02-08 07:00:00,2023-02-08 07:30:00,Personal,Location_B,Location_A,14.73,Meal/Entertainment,Female,Night,8.734537219794372,Downtown,City Outskirts,No,Shared
+2023-02-08 08:00:00,2023-02-08 08:30:00,Personal,Location_B,Location_D,8.11,Customer Visit,Male,Afternoon,3.0657174723083935,Downtown,City Outskirts,Yes,Solo
+2023-02-08 09:00:00,2023-02-08 09:30:00,Business,Location_D,Location_C,12.31,Meal/Entertainment,Female,Evening,2.9211378029333592,City Outskirts,Suburbs,No,Shared
+2023-02-08 10:00:00,2023-02-08 10:30:00,Personal,Location_A,Location_C,10.02,Meal/Entertainment,Male,Morning,9.693906909620646,Downtown,Downtown,No,Shared
+2023-02-08 11:00:00,2023-02-08 11:30:00,Business,Location_A,Location_C,22.38,Airport,Male,Afternoon,3.9901740966384596,City Outskirts,Downtown,No,Shared
+2023-02-08 12:00:00,2023-02-08 12:30:00,Business,Location_D,Location_C,7.29,Meeting,Female,Afternoon,3.0429356312960767,Downtown,Suburbs,No,Solo
+2023-02-08 13:00:00,2023-02-08 13:30:00,Personal,Location_B,Location_D,1.41,Errand/Supplies,Male,Afternoon,7.334289993865276,Downtown,Suburbs,Yes,Shared
+2023-02-08 14:00:00,2023-02-08 14:30:00,Business,Location_C,Location_C,12.81,Meeting,Male,Evening,9.823259261908955,City Outskirts,Downtown,Yes,Shared
+2023-02-08 15:00:00,2023-02-08 15:30:00,Personal,Location_B,Location_B,12.61,Customer Visit,Male,Evening,3.3417121693736,Downtown,City Outskirts,No,Solo
+2023-02-08 16:00:00,2023-02-08 16:30:00,Personal,Location_D,Location_C,21.32,Airport,Male,Night,7.106879775718365,City Outskirts,Suburbs,No,Shared
+2023-02-08 17:00:00,2023-02-08 17:30:00,Business,Location_C,Location_C,10.64,Meal/Entertainment,Male,Evening,4.783139181222205,Downtown,Suburbs,Yes,Solo
+2023-02-08 18:00:00,2023-02-08 18:30:00,Personal,Location_D,Location_D,21.8,Errand/Supplies,Male,Night,7.057789527501539,City Outskirts,City Outskirts,Yes,Shared
+2023-02-08 19:00:00,2023-02-08 19:30:00,Business,Location_C,Location_D,23.91,Customer Visit,Female,Night,2.7824363234582155,Downtown,Downtown,No,Solo
+2023-02-08 20:00:00,2023-02-08 20:30:00,Personal,Location_D,Location_D,12.37,Meeting,Female,Night,3.4689481508083797,Downtown,Suburbs,Yes,Solo
+2023-02-08 21:00:00,2023-02-08 21:30:00,Personal,Location_A,Location_B,18.98,Customer Visit,Male,Afternoon,8.704886649544413,Suburbs,City Outskirts,Yes,Shared
+2023-02-08 22:00:00,2023-02-08 22:30:00,Business,Location_B,Location_B,5.85,Errand/Supplies,Male,Evening,4.436424355357887,Suburbs,Downtown,No,Shared
+2023-02-08 23:00:00,2023-02-08 23:30:00,Personal,Location_B,Location_B,4.31,Errand/Supplies,Male,Night,7.594236234123896,City Outskirts,Downtown,No,Shared
+2023-02-09 00:00:00,2023-02-09 00:30:00,Business,Location_D,Location_C,12.57,Meeting,Female,Night,7.2147042678504745,Downtown,Suburbs,Yes,Shared
+2023-02-09 01:00:00,2023-02-09 01:30:00,Business,Location_A,Location_D,12.89,Errand/Supplies,Male,Afternoon,2.7951740000991636,Suburbs,Suburbs,Yes,Shared
+2023-02-09 02:00:00,2023-02-09 02:30:00,Business,Location_A,Location_A,14.28,Meal/Entertainment,Female,Night,1.1354846498902411,City Outskirts,Suburbs,No,Solo
+2023-02-09 03:00:00,2023-02-09 03:30:00,Business,Location_C,Location_A,11.44,Meal/Entertainment,Male,Morning,8.926083212284622,Downtown,Suburbs,Yes,Solo
+2023-02-09 04:00:00,2023-02-09 04:30:00,Business,Location_D,Location_D,15.92,Errand/Supplies,Female,Evening,5.433762866791456,City Outskirts,Suburbs,No,Shared
+2023-02-09 05:00:00,2023-02-09 05:30:00,Personal,Location_A,Location_B,21.97,Errand/Supplies,Female,Night,6.416335972656649,Downtown,City Outskirts,No,Solo
+2023-02-09 06:00:00,2023-02-09 06:30:00,Business,Location_C,Location_B,2.15,Errand/Supplies,Male,Afternoon,4.208292128700908,Suburbs,Suburbs,No,Shared
+2023-02-09 07:00:00,2023-02-09 07:30:00,Personal,Location_B,Location_D,24.55,Airport,Male,Evening,9.941716408021604,Downtown,Downtown,No,Solo
+2023-02-09 08:00:00,2023-02-09 08:30:00,Business,Location_A,Location_B,3.77,Meal/Entertainment,Female,Night,7.483515156569323,Suburbs,Suburbs,No,Solo
+2023-02-09 09:00:00,2023-02-09 09:30:00,Personal,Location_C,Location_C,19.86,Errand/Supplies,Male,Evening,8.865680014620434,Suburbs,Downtown,Yes,Shared
+2023-02-09 10:00:00,2023-02-09 10:30:00,Personal,Location_A,Location_A,13.54,Errand/Supplies,Female,Afternoon,3.0934598616613043,Suburbs,City Outskirts,No,Solo
+2023-02-09 11:00:00,2023-02-09 11:30:00,Personal,Location_A,Location_C,4.69,Airport,Male,Afternoon,5.464579642614469,Downtown,Downtown,Yes,Shared
+2023-02-09 12:00:00,2023-02-09 12:30:00,Business,Location_B,Location_B,17.03,Meeting,Male,Afternoon,4.118725924092443,Suburbs,City Outskirts,Yes,Shared
+2023-02-09 13:00:00,2023-02-09 13:30:00,Business,Location_C,Location_C,11.31,Airport,Female,Evening,8.343068552923109,Suburbs,Suburbs,No,Shared
+2023-02-09 14:00:00,2023-02-09 14:30:00,Personal,Location_D,Location_C,12.76,Meeting,Female,Afternoon,9.64933191189805,Downtown,City Outskirts,Yes,Solo
+2023-02-09 15:00:00,2023-02-09 15:30:00,Personal,Location_B,Location_D,6.89,Errand/Supplies,Female,Night,7.464717788951192,City Outskirts,Suburbs,No,Shared
+2023-02-09 16:00:00,2023-02-09 16:30:00,Personal,Location_A,Location_D,21.74,Meeting,Male,Evening,1.3327795975828312,City Outskirts,Suburbs,No,Solo
+2023-02-09 17:00:00,2023-02-09 17:30:00,Business,Location_A,Location_D,20.46,Errand/Supplies,Male,Night,9.216131545509763,City Outskirts,City Outskirts,No,Shared
+2023-02-09 18:00:00,2023-02-09 18:30:00,Business,Location_D,Location_A,1.48,Customer Visit,Female,Evening,8.572412373232797,City Outskirts,Downtown,Yes,Solo
+2023-02-09 19:00:00,2023-02-09 19:30:00,Personal,Location_B,Location_A,8.12,Meeting,Male,Afternoon,7.955174202987235,Suburbs,Downtown,No,Shared
+2023-02-09 20:00:00,2023-02-09 20:30:00,Personal,Location_A,Location_D,13.2,Airport,Male,Morning,8.122497801357632,City Outskirts,Suburbs,No,Shared
+2023-02-09 21:00:00,2023-02-09 21:30:00,Personal,Location_D,Location_C,3.4,Airport,Male,Evening,8.173925221225993,City Outskirts,Suburbs,No,Solo
+2023-02-09 22:00:00,2023-02-09 22:30:00,Personal,Location_C,Location_C,14.49,Meal/Entertainment,Female,Evening,6.611203042376703,Suburbs,City Outskirts,No,Shared
+2023-02-09 23:00:00,2023-02-09 23:30:00,Personal,Location_A,Location_D,13.69,Customer Visit,Female,Afternoon,9.2749260663462,City Outskirts,City Outskirts,No,Solo
+2023-02-10 00:00:00,2023-02-10 00:30:00,Business,Location_D,Location_D,7.09,Meeting,Male,Evening,1.5683360097242374,City Outskirts,Suburbs,No,Shared
+2023-02-10 01:00:00,2023-02-10 01:30:00,Personal,Location_A,Location_C,21.65,Customer Visit,Female,Afternoon,2.7977323201477207,Suburbs,Downtown,Yes,Shared
+2023-02-10 02:00:00,2023-02-10 02:30:00,Personal,Location_C,Location_D,22.4,Airport,Male,Afternoon,1.6202816553123012,Suburbs,City Outskirts,Yes,Solo
+2023-02-10 03:00:00,2023-02-10 03:30:00,Personal,Location_D,Location_C,8.24,Airport,Female,Morning,6.84289068706579,Downtown,Suburbs,No,Solo
+2023-02-10 04:00:00,2023-02-10 04:30:00,Personal,Location_A,Location_D,6.74,Customer Visit,Female,Evening,1.9594434881546547,City Outskirts,Suburbs,Yes,Solo
+2023-02-10 05:00:00,2023-02-10 05:30:00,Personal,Location_C,Location_C,17.11,Customer Visit,Male,Night,7.014415262894077,City Outskirts,Suburbs,No,Shared
+2023-02-10 06:00:00,2023-02-10 06:30:00,Personal,Location_A,Location_C,2.84,Meal/Entertainment,Male,Morning,7.306602835586521,City Outskirts,City Outskirts,Yes,Solo
+2023-02-10 07:00:00,2023-02-10 07:30:00,Personal,Location_D,Location_A,24.33,Meeting,Female,Evening,2.6476606296030782,City Outskirts,Downtown,Yes,Solo
+2023-02-10 08:00:00,2023-02-10 08:30:00,Business,Location_D,Location_D,5.36,Meeting,Female,Evening,4.2636644455525765,City Outskirts,Suburbs,Yes,Shared
+2023-02-10 09:00:00,2023-02-10 09:30:00,Personal,Location_B,Location_B,15.6,Airport,Male,Morning,2.4981398145174163,Downtown,City Outskirts,No,Shared
+2023-02-10 10:00:00,2023-02-10 10:30:00,Business,Location_D,Location_B,1.44,Airport,Female,Afternoon,2.242062644136303,City Outskirts,Suburbs,No,Solo
+2023-02-10 11:00:00,2023-02-10 11:30:00,Personal,Location_C,Location_A,5.58,Meeting,Male,Afternoon,3.413324968482899,City Outskirts,Downtown,No,Solo
+2023-02-10 12:00:00,2023-02-10 12:30:00,Personal,Location_B,Location_B,18.92,Meal/Entertainment,Male,Evening,8.681491821988207,Suburbs,City Outskirts,No,Shared
+2023-02-10 13:00:00,2023-02-10 13:30:00,Business,Location_B,Location_B,8.6,Meeting,Female,Morning,7.199275206715653,Suburbs,City Outskirts,Yes,Shared
+2023-02-10 14:00:00,2023-02-10 14:30:00,Business,Location_A,Location_B,1.47,Meeting,Male,Evening,2.4783865850207216,City Outskirts,City Outskirts,No,Shared
+2023-02-10 15:00:00,2023-02-10 15:30:00,Business,Location_D,Location_A,14.62,Meal/Entertainment,Male,Morning,3.2407723509310156,Suburbs,Downtown,No,Solo
+2023-02-10 16:00:00,2023-02-10 16:30:00,Business,Location_B,Location_A,11.4,Meeting,Male,Evening,8.468782220111024,Downtown,Downtown,Yes,Shared
+2023-02-10 17:00:00,2023-02-10 17:30:00,Business,Location_B,Location_A,8.94,Customer Visit,Male,Evening,5.5737717158443685,Downtown,Downtown,No,Shared
+2023-02-10 18:00:00,2023-02-10 18:30:00,Personal,Location_C,Location_D,2.56,Customer Visit,Female,Morning,8.772170885156301,City Outskirts,Suburbs,Yes,Solo
+2023-02-10 19:00:00,2023-02-10 19:30:00,Personal,Location_A,Location_A,11.62,Meeting,Female,Afternoon,2.6785735030601363,Downtown,Suburbs,No,Shared
+2023-02-10 20:00:00,2023-02-10 20:30:00,Business,Location_C,Location_B,15.66,Errand/Supplies,Male,Evening,5.497944391194477,City Outskirts,Downtown,No,Shared
+2023-02-10 21:00:00,2023-02-10 21:30:00,Personal,Location_A,Location_B,24.44,Meeting,Male,Night,4.417529277557868,Downtown,Downtown,Yes,Solo
+2023-02-10 22:00:00,2023-02-10 22:30:00,Business,Location_D,Location_D,13.36,Meeting,Male,Night,2.9817678415127333,Suburbs,Downtown,No,Solo
+2023-02-10 23:00:00,2023-02-10 23:30:00,Business,Location_C,Location_C,11.88,Meeting,Female,Afternoon,8.179058056176993,Suburbs,City Outskirts,No,Shared
+2023-02-11 00:00:00,2023-02-11 00:30:00,Business,Location_A,Location_C,20.64,Meal/Entertainment,Female,Afternoon,6.255649690657339,City Outskirts,City Outskirts,No,Shared
+2023-02-11 01:00:00,2023-02-11 01:30:00,Personal,Location_A,Location_A,7.48,Customer Visit,Female,Afternoon,4.6460447223039925,Suburbs,City Outskirts,Yes,Solo
+2023-02-11 02:00:00,2023-02-11 02:30:00,Business,Location_C,Location_A,22.2,Meal/Entertainment,Male,Evening,9.837828997251714,City Outskirts,City Outskirts,Yes,Shared
+2023-02-11 03:00:00,2023-02-11 03:30:00,Business,Location_A,Location_A,20.58,Meeting,Male,Night,3.9206565963658724,Downtown,Suburbs,Yes,Solo
+2023-02-11 04:00:00,2023-02-11 04:30:00,Personal,Location_B,Location_A,1.1,Airport,Male,Morning,8.407002744914159,City Outskirts,City Outskirts,Yes,Solo
+2023-02-11 05:00:00,2023-02-11 05:30:00,Business,Location_D,Location_B,22.59,Errand/Supplies,Female,Evening,3.6008428001272286,Suburbs,City Outskirts,No,Solo
+2023-02-11 06:00:00,2023-02-11 06:30:00,Business,Location_B,Location_D,18.9,Meeting,Female,Night,2.6426843677181804,City Outskirts,Downtown,Yes,Solo
+2023-02-11 07:00:00,2023-02-11 07:30:00,Personal,Location_D,Location_B,6.54,Meal/Entertainment,Female,Evening,7.7412677413058,Suburbs,City Outskirts,No,Solo
+2023-02-11 08:00:00,2023-02-11 08:30:00,Personal,Location_A,Location_D,13.69,Meeting,Female,Afternoon,2.216180744854452,Downtown,Suburbs,No,Shared
+2023-02-11 09:00:00,2023-02-11 09:30:00,Personal,Location_B,Location_C,21.79,Errand/Supplies,Male,Night,2.428518552237777,Downtown,City Outskirts,No,Solo
+2023-02-11 10:00:00,2023-02-11 10:30:00,Personal,Location_D,Location_B,9.76,Meal/Entertainment,Male,Morning,2.5993750417004473,Downtown,Suburbs,No,Solo
+2023-02-11 11:00:00,2023-02-11 11:30:00,Personal,Location_C,Location_B,22.15,Meeting,Male,Morning,7.071891394547814,Suburbs,City Outskirts,Yes,Shared
+2023-02-11 12:00:00,2023-02-11 12:30:00,Personal,Location_B,Location_C,11.51,Meeting,Female,Evening,4.1142930781225635,Suburbs,Downtown,No,Shared
+2023-02-11 13:00:00,2023-02-11 13:30:00,Business,Location_B,Location_A,2.32,Meal/Entertainment,Male,Morning,8.307756164228666,Downtown,Downtown,No,Shared
+2023-02-11 14:00:00,2023-02-11 14:30:00,Personal,Location_C,Location_A,15.1,Meeting,Female,Night,7.849296172672348,City Outskirts,City Outskirts,No,Solo
+2023-02-11 15:00:00,2023-02-11 15:30:00,Personal,Location_A,Location_D,21.67,Customer Visit,Male,Morning,4.2050726139809385,Downtown,Suburbs,No,Shared
+2023-02-11 16:00:00,2023-02-11 16:30:00,Personal,Location_B,Location_D,19.61,Meeting,Female,Night,7.4538210016865465,City Outskirts,Downtown,No,Solo
+2023-02-11 17:00:00,2023-02-11 17:30:00,Business,Location_C,Location_C,19.86,Meeting,Female,Afternoon,7.3956068957126115,Downtown,City Outskirts,Yes,Solo
+2023-02-11 18:00:00,2023-02-11 18:30:00,Personal,Location_C,Location_D,10.4,Meeting,Male,Night,3.2064215667661093,Suburbs,City Outskirts,Yes,Shared
+2023-02-11 19:00:00,2023-02-11 19:30:00,Business,Location_A,Location_C,4.93,Airport,Female,Evening,3.132041138978976,City Outskirts,Downtown,No,Solo
+2023-02-11 20:00:00,2023-02-11 20:30:00,Personal,Location_C,Location_A,7.3,Meeting,Female,Afternoon,2.186010545141343,Downtown,City Outskirts,Yes,Shared
+2023-02-11 21:00:00,2023-02-11 21:30:00,Personal,Location_D,Location_B,1.69,Errand/Supplies,Female,Morning,6.347214835605898,City Outskirts,Suburbs,Yes,Shared
+2023-02-11 22:00:00,2023-02-11 22:30:00,Personal,Location_A,Location_C,19.61,Errand/Supplies,Male,Morning,3.9047362964617935,Suburbs,Downtown,No,Shared
+2023-02-11 23:00:00,2023-02-11 23:30:00,Personal,Location_B,Location_D,2.42,Meal/Entertainment,Female,Evening,1.6863491648083522,City Outskirts,Suburbs,No,Solo
+2023-02-12 00:00:00,2023-02-12 00:30:00,Personal,Location_A,Location_C,3.08,Airport,Male,Afternoon,3.9461941240757406,Suburbs,Downtown,No,Solo
+2023-02-12 01:00:00,2023-02-12 01:30:00,Personal,Location_B,Location_C,5.65,Customer Visit,Male,Night,8.932473392636329,City Outskirts,Downtown,No,Shared
+2023-02-12 02:00:00,2023-02-12 02:30:00,Personal,Location_A,Location_B,8.42,Customer Visit,Female,Night,9.52140891036385,Downtown,Downtown,No,Solo
+2023-02-12 03:00:00,2023-02-12 03:30:00,Personal,Location_D,Location_D,8.49,Errand/Supplies,Male,Evening,8.966879007285247,Downtown,City Outskirts,No,Solo
+2023-02-12 04:00:00,2023-02-12 04:30:00,Personal,Location_A,Location_B,15.43,Meal/Entertainment,Male,Evening,4.040276825741622,City Outskirts,Suburbs,Yes,Shared
+2023-02-12 05:00:00,2023-02-12 05:30:00,Business,Location_C,Location_D,8.32,Airport,Female,Evening,8.578429860255028,City Outskirts,Suburbs,Yes,Solo
+2023-02-12 06:00:00,2023-02-12 06:30:00,Business,Location_B,Location_C,14.04,Airport,Female,Night,4.70979077531312,Suburbs,Suburbs,Yes,Solo
+2023-02-12 07:00:00,2023-02-12 07:30:00,Personal,Location_D,Location_B,3.77,Customer Visit,Female,Evening,8.130636110242177,Downtown,Downtown,No,Shared
+2023-02-12 08:00:00,2023-02-12 08:30:00,Business,Location_C,Location_D,11.66,Errand/Supplies,Male,Afternoon,1.1861977405814117,Downtown,Downtown,No,Solo
+2023-02-12 09:00:00,2023-02-12 09:30:00,Business,Location_C,Location_C,4.0,Customer Visit,Male,Afternoon,6.11347974610513,Suburbs,Suburbs,No,Shared
+2023-02-12 10:00:00,2023-02-12 10:30:00,Business,Location_B,Location_C,9.73,Airport,Male,Morning,6.449446393050411,Downtown,City Outskirts,No,Shared
+2023-02-12 11:00:00,2023-02-12 11:30:00,Personal,Location_A,Location_A,4.74,Airport,Female,Afternoon,4.248527091577418,City Outskirts,Suburbs,Yes,Shared
+2023-02-12 12:00:00,2023-02-12 12:30:00,Business,Location_D,Location_B,7.66,Airport,Female,Afternoon,2.0618332894182005,City Outskirts,Downtown,Yes,Solo
+2023-02-12 13:00:00,2023-02-12 13:30:00,Business,Location_B,Location_A,22.55,Errand/Supplies,Female,Evening,9.164765367274956,Suburbs,Suburbs,No,Shared
+2023-02-12 14:00:00,2023-02-12 14:30:00,Personal,Location_D,Location_D,22.45,Airport,Female,Afternoon,9.856621594943418,Downtown,Downtown,No,Solo
+2023-02-12 15:00:00,2023-02-12 15:30:00,Business,Location_B,Location_C,7.41,Customer Visit,Female,Night,4.760440221780753,Suburbs,Suburbs,No,Shared
+2023-02-12 16:00:00,2023-02-12 16:30:00,Personal,Location_C,Location_A,2.29,Airport,Male,Evening,9.186173939869054,Downtown,Suburbs,No,Shared
+2023-02-12 17:00:00,2023-02-12 17:30:00,Business,Location_B,Location_D,7.6,Meal/Entertainment,Female,Afternoon,4.348844316110831,Suburbs,City Outskirts,No,Solo
+2023-02-12 18:00:00,2023-02-12 18:30:00,Personal,Location_A,Location_D,5.28,Airport,Male,Morning,6.231424988876803,Suburbs,City Outskirts,No,Shared
+2023-02-12 19:00:00,2023-02-12 19:30:00,Business,Location_C,Location_B,18.16,Errand/Supplies,Female,Afternoon,1.094807639284915,Suburbs,City Outskirts,No,Shared
+2023-02-12 20:00:00,2023-02-12 20:30:00,Business,Location_D,Location_A,5.67,Errand/Supplies,Female,Evening,6.713094653077384,Downtown,Downtown,Yes,Solo
+2023-02-12 21:00:00,2023-02-12 21:30:00,Business,Location_B,Location_C,9.87,Airport,Female,Morning,1.4390794059730472,Suburbs,City Outskirts,No,Solo
+2023-02-12 22:00:00,2023-02-12 22:30:00,Personal,Location_A,Location_D,7.5,Meal/Entertainment,Female,Night,7.065520862210155,City Outskirts,City Outskirts,No,Solo
+2023-02-12 23:00:00,2023-02-12 23:30:00,Personal,Location_C,Location_C,2.76,Airport,Female,Morning,4.029683825235449,City Outskirts,City Outskirts,No,Shared
+2023-02-13 00:00:00,2023-02-13 00:30:00,Business,Location_C,Location_B,7.03,Meeting,Male,Morning,7.298622034588389,Downtown,Downtown,No,Shared
+2023-02-13 01:00:00,2023-02-13 01:30:00,Business,Location_D,Location_A,16.68,Meal/Entertainment,Male,Evening,3.681467886733583,Suburbs,Suburbs,Yes,Solo
+2023-02-13 02:00:00,2023-02-13 02:30:00,Business,Location_A,Location_B,9.37,Errand/Supplies,Male,Morning,7.174991041961187,Downtown,Downtown,Yes,Shared
+2023-02-13 03:00:00,2023-02-13 03:30:00,Business,Location_A,Location_C,14.39,Customer Visit,Male,Afternoon,4.5109043582460515,City Outskirts,City Outskirts,No,Shared
+2023-02-13 04:00:00,2023-02-13 04:30:00,Business,Location_A,Location_B,9.54,Meal/Entertainment,Male,Morning,5.890134910513876,Downtown,Downtown,Yes,Solo
+2023-02-13 05:00:00,2023-02-13 05:30:00,Business,Location_C,Location_C,16.04,Meal/Entertainment,Male,Evening,6.7004933216517815,Downtown,Suburbs,No,Solo
+2023-02-13 06:00:00,2023-02-13 06:30:00,Personal,Location_A,Location_A,13.76,Airport,Male,Evening,5.438117824825695,Suburbs,City Outskirts,No,Solo
+2023-02-13 07:00:00,2023-02-13 07:30:00,Personal,Location_C,Location_C,20.35,Meeting,Male,Night,9.946233565893706,City Outskirts,Downtown,No,Shared
+2023-02-13 08:00:00,2023-02-13 08:30:00,Business,Location_D,Location_C,11.1,Meeting,Male,Morning,2.518267202248748,Downtown,City Outskirts,No,Shared
+2023-02-13 09:00:00,2023-02-13 09:30:00,Business,Location_A,Location_D,4.22,Airport,Female,Night,5.7684874987427825,City Outskirts,Suburbs,No,Shared
+2023-02-13 10:00:00,2023-02-13 10:30:00,Business,Location_C,Location_C,8.9,Airport,Female,Evening,3.690263376863677,Suburbs,Suburbs,No,Solo
+2023-02-13 11:00:00,2023-02-13 11:30:00,Business,Location_A,Location_C,23.02,Errand/Supplies,Female,Evening,3.872184239951338,Downtown,Suburbs,No,Shared
+2023-02-13 12:00:00,2023-02-13 12:30:00,Personal,Location_B,Location_A,16.34,Meeting,Male,Night,3.8569201362074135,City Outskirts,Downtown,Yes,Solo
+2023-02-13 13:00:00,2023-02-13 13:30:00,Business,Location_C,Location_B,17.07,Meeting,Female,Afternoon,3.51864430369736,City Outskirts,Suburbs,No,Solo
+2023-02-13 14:00:00,2023-02-13 14:30:00,Personal,Location_B,Location_A,20.41,Errand/Supplies,Male,Morning,5.333287361216604,Suburbs,Downtown,No,Solo
+2023-02-13 15:00:00,2023-02-13 15:30:00,Business,Location_B,Location_A,4.74,Errand/Supplies,Male,Night,6.670110700736249,Suburbs,City Outskirts,No,Shared
+2023-02-13 16:00:00,2023-02-13 16:30:00,Personal,Location_C,Location_C,7.65,Airport,Male,Afternoon,9.11840690879732,City Outskirts,Downtown,Yes,Shared
+2023-02-13 17:00:00,2023-02-13 17:30:00,Personal,Location_D,Location_D,22.88,Errand/Supplies,Female,Afternoon,1.8345370344334642,Suburbs,City Outskirts,Yes,Solo
+2023-02-13 18:00:00,2023-02-13 18:30:00,Personal,Location_A,Location_D,10.23,Meeting,Male,Afternoon,2.837186820434983,Downtown,Suburbs,No,Shared
+2023-02-13 19:00:00,2023-02-13 19:30:00,Business,Location_A,Location_C,5.13,Errand/Supplies,Male,Night,6.249045925661289,Suburbs,City Outskirts,Yes,Solo
+2023-02-13 20:00:00,2023-02-13 20:30:00,Personal,Location_C,Location_B,8.03,Meal/Entertainment,Male,Night,5.705294796682844,City Outskirts,Suburbs,No,Shared
+2023-02-13 21:00:00,2023-02-13 21:30:00,Business,Location_D,Location_C,16.9,Meal/Entertainment,Female,Morning,9.733586551146034,Suburbs,Downtown,No,Shared
+2023-02-13 22:00:00,2023-02-13 22:30:00,Business,Location_B,Location_C,22.51,Airport,Female,Night,4.685032348601205,Suburbs,Suburbs,Yes,Solo
+2023-02-13 23:00:00,2023-02-13 23:30:00,Personal,Location_D,Location_C,22.1,Customer Visit,Female,Evening,3.0243525638634052,City Outskirts,City Outskirts,No,Shared
+2023-02-14 00:00:00,2023-02-14 00:30:00,Business,Location_B,Location_B,15.99,Airport,Female,Night,9.652959896649694,City Outskirts,Downtown,Yes,Shared
+2023-02-14 01:00:00,2023-02-14 01:30:00,Business,Location_C,Location_A,21.55,Errand/Supplies,Female,Morning,6.480453096100267,City Outskirts,Suburbs,No,Solo
+2023-02-14 02:00:00,2023-02-14 02:30:00,Personal,Location_D,Location_C,8.71,Customer Visit,Male,Night,9.522663283690298,Suburbs,City Outskirts,No,Solo
+2023-02-14 03:00:00,2023-02-14 03:30:00,Personal,Location_C,Location_D,7.46,Meeting,Male,Night,7.809964052863752,City Outskirts,Suburbs,No,Shared
+2023-02-14 04:00:00,2023-02-14 04:30:00,Business,Location_A,Location_C,22.05,Errand/Supplies,Male,Afternoon,9.861026176884527,Downtown,Downtown,No,Shared
+2023-02-14 05:00:00,2023-02-14 05:30:00,Business,Location_C,Location_B,9.86,Airport,Female,Night,1.7951738442530503,City Outskirts,Downtown,Yes,Shared
+2023-02-14 06:00:00,2023-02-14 06:30:00,Business,Location_C,Location_A,23.94,Airport,Female,Evening,3.001192085421369,Suburbs,Downtown,No,Shared
+2023-02-14 07:00:00,2023-02-14 07:30:00,Personal,Location_A,Location_A,6.26,Meeting,Male,Afternoon,5.607285750843671,City Outskirts,Suburbs,No,Solo
+2023-02-14 08:00:00,2023-02-14 08:30:00,Business,Location_D,Location_B,14.13,Airport,Female,Evening,3.4513138409834534,Downtown,Downtown,Yes,Shared
+2023-02-14 09:00:00,2023-02-14 09:30:00,Business,Location_A,Location_A,23.42,Airport,Female,Afternoon,8.61907183399286,City Outskirts,Downtown,No,Solo
+2023-02-14 10:00:00,2023-02-14 10:30:00,Business,Location_A,Location_D,21.07,Customer Visit,Male,Evening,2.5330969725784653,City Outskirts,Downtown,Yes,Solo
+2023-02-14 11:00:00,2023-02-14 11:30:00,Personal,Location_B,Location_C,1.97,Meeting,Female,Night,1.9214605744317965,City Outskirts,Suburbs,No,Shared
+2023-02-14 12:00:00,2023-02-14 12:30:00,Business,Location_A,Location_C,3.55,Meeting,Female,Night,8.210154071167853,Suburbs,Suburbs,Yes,Solo
+2023-02-14 13:00:00,2023-02-14 13:30:00,Personal,Location_C,Location_A,14.92,Meeting,Female,Evening,9.835894181151946,Suburbs,City Outskirts,No,Shared
+2023-02-14 14:00:00,2023-02-14 14:30:00,Personal,Location_B,Location_D,24.46,Meeting,Male,Night,5.508997155170171,Suburbs,City Outskirts,No,Solo
+2023-02-14 15:00:00,2023-02-14 15:30:00,Personal,Location_A,Location_A,7.22,Customer Visit,Female,Afternoon,4.264494988027295,City Outskirts,City Outskirts,No,Solo
+2023-02-14 16:00:00,2023-02-14 16:30:00,Personal,Location_D,Location_D,2.5,Customer Visit,Female,Evening,1.129590865259234,Suburbs,City Outskirts,Yes,Shared
+2023-02-14 17:00:00,2023-02-14 17:30:00,Business,Location_D,Location_D,20.17,Meeting,Female,Night,5.676166472183046,Suburbs,City Outskirts,No,Shared
+2023-02-14 18:00:00,2023-02-14 18:30:00,Business,Location_A,Location_A,14.97,Airport,Female,Afternoon,3.877167321959064,Suburbs,Downtown,No,Shared
+2023-02-14 19:00:00,2023-02-14 19:30:00,Business,Location_D,Location_B,19.2,Meeting,Female,Night,9.979692830911992,Downtown,Suburbs,Yes,Shared
+2023-02-14 20:00:00,2023-02-14 20:30:00,Personal,Location_A,Location_C,10.65,Airport,Male,Morning,6.107280227879723,Suburbs,Downtown,No,Solo
+2023-02-14 21:00:00,2023-02-14 21:30:00,Personal,Location_A,Location_B,4.45,Customer Visit,Female,Night,7.18671292748868,City Outskirts,Suburbs,No,Solo
+2023-02-14 22:00:00,2023-02-14 22:30:00,Personal,Location_A,Location_C,14.08,Meeting,Female,Afternoon,9.45109597306443,Downtown,Downtown,Yes,Shared
+2023-02-14 23:00:00,2023-02-14 23:30:00,Personal,Location_B,Location_C,12.26,Meal/Entertainment,Male,Evening,2.76718674015478,Downtown,Suburbs,Yes,Solo
+2023-02-15 00:00:00,2023-02-15 00:30:00,Personal,Location_C,Location_B,15.74,Meal/Entertainment,Female,Evening,4.366764490513061,Suburbs,City Outskirts,No,Shared
+2023-02-15 01:00:00,2023-02-15 01:30:00,Personal,Location_A,Location_A,2.54,Customer Visit,Female,Morning,4.064764541270309,City Outskirts,City Outskirts,Yes,Shared
+2023-02-15 02:00:00,2023-02-15 02:30:00,Business,Location_B,Location_B,1.3,Meal/Entertainment,Female,Evening,9.102178246483753,Downtown,City Outskirts,No,Shared
+2023-02-15 03:00:00,2023-02-15 03:30:00,Business,Location_B,Location_C,14.54,Airport,Male,Morning,2.2802875055087997,City Outskirts,City Outskirts,No,Solo
+2023-02-15 04:00:00,2023-02-15 04:30:00,Business,Location_B,Location_A,9.02,Airport,Male,Morning,5.511338375404082,Suburbs,City Outskirts,No,Shared
+2023-02-15 05:00:00,2023-02-15 05:30:00,Personal,Location_D,Location_B,10.73,Errand/Supplies,Female,Afternoon,7.612168304749632,Downtown,City Outskirts,No,Shared
+2023-02-15 06:00:00,2023-02-15 06:30:00,Business,Location_D,Location_C,11.13,Errand/Supplies,Male,Morning,4.767273877260804,City Outskirts,Downtown,No,Shared
+2023-02-15 07:00:00,2023-02-15 07:30:00,Business,Location_D,Location_A,16.75,Meal/Entertainment,Male,Night,1.9940797561936954,City Outskirts,Downtown,Yes,Solo
+2023-02-15 08:00:00,2023-02-15 08:30:00,Business,Location_D,Location_A,18.89,Errand/Supplies,Female,Morning,8.023446008882836,Suburbs,Downtown,No,Shared
+2023-02-15 09:00:00,2023-02-15 09:30:00,Personal,Location_B,Location_D,12.72,Errand/Supplies,Female,Afternoon,7.593467430524191,City Outskirts,City Outskirts,No,Solo
+2023-02-15 10:00:00,2023-02-15 10:30:00,Personal,Location_D,Location_C,14.02,Errand/Supplies,Male,Night,6.239498364158411,Suburbs,Suburbs,No,Solo
+2023-02-15 11:00:00,2023-02-15 11:30:00,Business,Location_C,Location_A,9.21,Meal/Entertainment,Female,Afternoon,3.250602937060315,City Outskirts,City Outskirts,Yes,Solo
+2023-02-15 12:00:00,2023-02-15 12:30:00,Business,Location_D,Location_C,5.47,Meal/Entertainment,Male,Morning,4.815127006816169,Downtown,Downtown,No,Solo
+2023-02-15 13:00:00,2023-02-15 13:30:00,Business,Location_A,Location_A,6.71,Customer Visit,Male,Afternoon,3.454129091265514,City Outskirts,Suburbs,Yes,Solo
+2023-02-15 14:00:00,2023-02-15 14:30:00,Business,Location_C,Location_B,15.67,Airport,Male,Afternoon,3.433016868224401,Downtown,Suburbs,No,Shared
+2023-02-15 15:00:00,2023-02-15 15:30:00,Personal,Location_A,Location_D,1.3,Meal/Entertainment,Female,Night,3.0372456372720693,Suburbs,Suburbs,No,Solo
+2023-02-15 16:00:00,2023-02-15 16:30:00,Personal,Location_A,Location_A,9.55,Meeting,Female,Morning,1.3632424938529608,Suburbs,Suburbs,Yes,Solo
+2023-02-15 17:00:00,2023-02-15 17:30:00,Personal,Location_A,Location_C,12.53,Meeting,Male,Morning,9.31199219773588,Downtown,City Outskirts,Yes,Solo
+2023-02-15 18:00:00,2023-02-15 18:30:00,Personal,Location_D,Location_D,13.91,Customer Visit,Female,Afternoon,1.6636341100212473,Downtown,Suburbs,Yes,Shared
+2023-02-15 19:00:00,2023-02-15 19:30:00,Business,Location_D,Location_C,17.54,Errand/Supplies,Male,Morning,6.879532112307755,City Outskirts,Suburbs,Yes,Shared
+2023-02-15 20:00:00,2023-02-15 20:30:00,Personal,Location_D,Location_C,2.24,Airport,Male,Night,8.145303322851435,Suburbs,City Outskirts,Yes,Solo
+2023-02-15 21:00:00,2023-02-15 21:30:00,Business,Location_A,Location_D,7.58,Meal/Entertainment,Male,Evening,2.0435953625613674,Downtown,Downtown,No,Solo
+2023-02-15 22:00:00,2023-02-15 22:30:00,Personal,Location_C,Location_C,18.51,Meeting,Female,Morning,8.80911923258019,City Outskirts,Downtown,Yes,Shared
+2023-02-15 23:00:00,2023-02-15 23:30:00,Business,Location_B,Location_C,24.0,Errand/Supplies,Male,Evening,7.817345303060454,Suburbs,Downtown,No,Solo
+2023-02-16 00:00:00,2023-02-16 00:30:00,Business,Location_B,Location_B,22.22,Meal/Entertainment,Female,Evening,8.420494289016354,City Outskirts,Downtown,Yes,Solo
+2023-02-16 01:00:00,2023-02-16 01:30:00,Business,Location_B,Location_A,2.91,Airport,Female,Morning,6.647182160127802,City Outskirts,Suburbs,No,Shared
+2023-02-16 02:00:00,2023-02-16 02:30:00,Business,Location_A,Location_A,12.45,Airport,Female,Morning,6.902901932055508,Downtown,City Outskirts,No,Shared
+2023-02-16 03:00:00,2023-02-16 03:30:00,Personal,Location_C,Location_C,9.48,Customer Visit,Female,Night,5.141926430601297,Downtown,Suburbs,No,Solo
+2023-02-16 04:00:00,2023-02-16 04:30:00,Personal,Location_D,Location_D,5.63,Airport,Male,Night,3.878699573626273,Downtown,Downtown,Yes,Solo
+2023-02-16 05:00:00,2023-02-16 05:30:00,Personal,Location_D,Location_B,22.68,Meeting,Male,Night,2.0800310368285553,Downtown,Downtown,Yes,Shared
+2023-02-16 06:00:00,2023-02-16 06:30:00,Business,Location_C,Location_A,7.08,Errand/Supplies,Female,Night,4.1761000140951605,Suburbs,Suburbs,Yes,Shared
+2023-02-16 07:00:00,2023-02-16 07:30:00,Personal,Location_C,Location_A,5.31,Airport,Male,Afternoon,1.2826098067465457,City Outskirts,City Outskirts,Yes,Shared
+2023-02-16 08:00:00,2023-02-16 08:30:00,Personal,Location_D,Location_C,9.59,Meal/Entertainment,Female,Afternoon,7.317720071047408,Downtown,Downtown,Yes,Shared
+2023-02-16 09:00:00,2023-02-16 09:30:00,Business,Location_C,Location_C,15.73,Airport,Female,Afternoon,7.428125364295939,Suburbs,City Outskirts,Yes,Shared
+2023-02-16 10:00:00,2023-02-16 10:30:00,Personal,Location_C,Location_B,11.94,Meeting,Female,Evening,3.65600380155127,Downtown,City Outskirts,No,Shared
+2023-02-16 11:00:00,2023-02-16 11:30:00,Personal,Location_B,Location_A,23.78,Meeting,Male,Morning,8.7604344051003,City Outskirts,City Outskirts,No,Solo
+2023-02-16 12:00:00,2023-02-16 12:30:00,Personal,Location_D,Location_D,2.51,Airport,Male,Afternoon,2.548120693110615,Suburbs,Downtown,No,Solo
+2023-02-16 13:00:00,2023-02-16 13:30:00,Business,Location_A,Location_C,8.99,Airport,Female,Evening,9.898507120786757,Suburbs,City Outskirts,No,Shared
+2023-02-16 14:00:00,2023-02-16 14:30:00,Business,Location_B,Location_B,9.74,Meal/Entertainment,Male,Night,4.363923337667926,Suburbs,City Outskirts,No,Shared
+2023-02-16 15:00:00,2023-02-16 15:30:00,Business,Location_C,Location_B,21.85,Errand/Supplies,Female,Evening,2.3594959623510223,City Outskirts,Suburbs,Yes,Solo
+2023-02-16 16:00:00,2023-02-16 16:30:00,Personal,Location_D,Location_B,2.53,Customer Visit,Male,Morning,5.410439748998504,City Outskirts,City Outskirts,No,Solo
+2023-02-16 17:00:00,2023-02-16 17:30:00,Personal,Location_A,Location_B,23.88,Airport,Female,Afternoon,9.103992713524347,Suburbs,Downtown,No,Shared
+2023-02-16 18:00:00,2023-02-16 18:30:00,Business,Location_C,Location_D,17.08,Meeting,Male,Afternoon,1.069730121577889,Suburbs,Suburbs,No,Shared
+2023-02-16 19:00:00,2023-02-16 19:30:00,Personal,Location_A,Location_C,23.59,Airport,Male,Night,2.7972215478188103,Suburbs,Downtown,Yes,Shared
+2023-02-16 20:00:00,2023-02-16 20:30:00,Business,Location_B,Location_A,7.16,Customer Visit,Female,Afternoon,7.157336568575771,Downtown,City Outskirts,No,Solo
+2023-02-16 21:00:00,2023-02-16 21:30:00,Business,Location_B,Location_B,8.73,Airport,Male,Afternoon,5.601462781436093,Downtown,Downtown,No,Shared
+2023-02-16 22:00:00,2023-02-16 22:30:00,Business,Location_B,Location_C,19.17,Customer Visit,Female,Afternoon,9.309961214334074,Downtown,Downtown,Yes,Solo
+2023-02-16 23:00:00,2023-02-16 23:30:00,Personal,Location_D,Location_A,12.71,Airport,Male,Evening,6.238643536667608,City Outskirts,Downtown,No,Solo
+2023-02-17 00:00:00,2023-02-17 00:30:00,Business,Location_A,Location_B,6.64,Airport,Male,Morning,8.922501375074589,City Outskirts,City Outskirts,No,Solo
+2023-02-17 01:00:00,2023-02-17 01:30:00,Business,Location_C,Location_C,16.13,Meeting,Male,Afternoon,6.976834934435727,Suburbs,Downtown,No,Solo
+2023-02-17 02:00:00,2023-02-17 02:30:00,Business,Location_A,Location_B,18.88,Meal/Entertainment,Male,Morning,8.95459411652838,Downtown,Suburbs,Yes,Solo
+2023-02-17 03:00:00,2023-02-17 03:30:00,Business,Location_D,Location_A,5.04,Meal/Entertainment,Female,Afternoon,8.5804837495245,Downtown,City Outskirts,No,Solo
+2023-02-17 04:00:00,2023-02-17 04:30:00,Personal,Location_B,Location_C,12.26,Meeting,Female,Night,5.1411711048418125,Downtown,City Outskirts,Yes,Solo
+2023-02-17 05:00:00,2023-02-17 05:30:00,Personal,Location_D,Location_C,23.78,Errand/Supplies,Female,Night,6.396759294287868,Suburbs,Suburbs,No,Shared
+2023-02-17 06:00:00,2023-02-17 06:30:00,Personal,Location_B,Location_B,14.98,Errand/Supplies,Female,Afternoon,4.648264712274342,Suburbs,Suburbs,Yes,Shared
+2023-02-17 07:00:00,2023-02-17 07:30:00,Business,Location_B,Location_D,2.37,Errand/Supplies,Male,Morning,4.2069642933023,City Outskirts,Suburbs,No,Shared
+2023-02-17 08:00:00,2023-02-17 08:30:00,Personal,Location_C,Location_A,15.41,Customer Visit,Female,Night,3.2939185679508167,City Outskirts,Suburbs,Yes,Shared
+2023-02-17 09:00:00,2023-02-17 09:30:00,Personal,Location_D,Location_C,4.08,Meal/Entertainment,Male,Night,2.6657868152435213,Suburbs,Suburbs,Yes,Shared
+2023-02-17 10:00:00,2023-02-17 10:30:00,Business,Location_D,Location_C,18.31,Meeting,Female,Evening,8.075713194891504,Downtown,Downtown,Yes,Solo
+2023-02-17 11:00:00,2023-02-17 11:30:00,Personal,Location_C,Location_C,18.36,Customer Visit,Female,Night,2.476822379831983,City Outskirts,Downtown,No,Shared
+2023-02-17 12:00:00,2023-02-17 12:30:00,Business,Location_C,Location_A,5.07,Customer Visit,Female,Morning,9.611673243547024,Downtown,Downtown,No,Shared
+2023-02-17 13:00:00,2023-02-17 13:30:00,Personal,Location_C,Location_C,8.81,Meeting,Female,Morning,2.6427464554608022,Downtown,Downtown,Yes,Solo
+2023-02-17 14:00:00,2023-02-17 14:30:00,Business,Location_B,Location_B,9.29,Meeting,Male,Afternoon,7.9845415855691,City Outskirts,City Outskirts,No,Shared
+2023-02-17 15:00:00,2023-02-17 15:30:00,Business,Location_A,Location_D,23.84,Errand/Supplies,Female,Morning,3.912699814720371,City Outskirts,Downtown,Yes,Solo
+2023-02-17 16:00:00,2023-02-17 16:30:00,Personal,Location_C,Location_D,17.91,Errand/Supplies,Male,Night,9.325901321681213,Downtown,Suburbs,Yes,Solo
+2023-02-17 17:00:00,2023-02-17 17:30:00,Business,Location_C,Location_C,23.49,Customer Visit,Male,Afternoon,3.7385710167136095,Downtown,Downtown,Yes,Solo
+2023-02-17 18:00:00,2023-02-17 18:30:00,Personal,Location_D,Location_D,11.53,Customer Visit,Female,Evening,6.2100939802623225,Downtown,Suburbs,Yes,Shared
+2023-02-17 19:00:00,2023-02-17 19:30:00,Personal,Location_C,Location_A,18.57,Meeting,Female,Evening,8.547959348740388,Downtown,Suburbs,Yes,Shared
+2023-02-17 20:00:00,2023-02-17 20:30:00,Personal,Location_D,Location_A,11.32,Meal/Entertainment,Male,Afternoon,8.543080971302462,Suburbs,Suburbs,Yes,Solo
+2023-02-17 21:00:00,2023-02-17 21:30:00,Business,Location_C,Location_B,9.7,Meeting,Male,Night,9.204202182593779,City Outskirts,Suburbs,Yes,Shared
+2023-02-17 22:00:00,2023-02-17 22:30:00,Business,Location_B,Location_A,12.74,Airport,Male,Morning,4.547964271916502,Downtown,Downtown,Yes,Shared
+2023-02-17 23:00:00,2023-02-17 23:30:00,Personal,Location_A,Location_B,24.47,Airport,Male,Afternoon,9.734693222000057,City Outskirts,Suburbs,No,Solo
+2023-02-18 00:00:00,2023-02-18 00:30:00,Personal,Location_D,Location_D,7.77,Airport,Female,Evening,4.538069447659279,Suburbs,Suburbs,Yes,Solo
+2023-02-18 01:00:00,2023-02-18 01:30:00,Personal,Location_B,Location_C,23.08,Airport,Male,Night,3.7831271397838497,Downtown,Suburbs,Yes,Shared
+2023-02-18 02:00:00,2023-02-18 02:30:00,Business,Location_D,Location_B,13.41,Meal/Entertainment,Male,Night,2.0659996234769964,City Outskirts,Downtown,Yes,Solo
+2023-02-18 03:00:00,2023-02-18 03:30:00,Business,Location_D,Location_C,23.89,Customer Visit,Female,Morning,3.064133611946806,Suburbs,Suburbs,Yes,Shared
+2023-02-18 04:00:00,2023-02-18 04:30:00,Personal,Location_B,Location_B,7.74,Errand/Supplies,Female,Evening,5.968481288123851,Suburbs,City Outskirts,Yes,Solo
