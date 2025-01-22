@@ -1,0 +1,103 @@
+
+How does the IF() function in Excel work?
+
+In excel if function performs a logical test, checks the condition and returns different values based on whether the condition is true or false.
+
+it allows to create formulas that can make decisions and produce outcomes based on specific criteria.
+
+syntax:=IF(logical_test, value_if_true, value_if_false)
+
+logical_test: The condition you want to test. This can be a comparison between values, text, or expressions (e.g., A1 > 10).
+value_if_true: The value or action to return if the logical_test is true.
+value_if_false: The value or action to return if the logical_test is false.
+
+present with the example 
+Sydent marks data 
+if(marks>90 , "Excellent" , "Distinct")
+
+
+Nested If : it refers to the practice of placing if function inside another  if function to test multiple conditions,
+
+
+syntax:
+=if(condition1,value_if_true , If(condition 2 , value_if true , value_if_false))
+
+present with example 
+Students marks :
+if(marks>90 , "Excellent, if(marks>=85 , "Merit" ,marks>70, "Distinct" , Fail)
+
+
+If with text and if with numbers 
+
+if(a1="English","Passed","Failed)
+
+
+with numbers 
+
+if(a1=90 , "Passed", "Failed")
+
+
+
+#SumIf
+The SUMIF function in Excel is used to sum values based on a specified criterion.
+It allows you to add up values in a range that meet a particular condition
+
+syntax is 
+=sumif(range , criteria ,[sum_range])
+
+->>The range of cells that you want to apply the criteria
+->>criteria that you want to apply to the range. This can be a number, text, expression, or even a cell reference.
+
+->>[sum_range]: (Optional) The range of cells containing the values to be summed.
+
+How It Works:
+->>Evaluate the Condition: Excel checks each cell in the range to see if it meets the criteria.
+
+->>Sum Values: Excel sums the corresponding values in the sum_range if the condition is met. 
+->>If sum_range is omitted, it sums the cells in the range.
+
+
+present with example :
+
+Suppose you have a list of sales figures and you want to sum only the sales greater than $500.
+
+=SUMIF(B2:B5, ">500")
+
+
+Also explain with 
+
+=SUMIF(A2:A5, "Product 2", B2:B5)
+
+#CountIf
+
+The COUNTIF function in Excel is used to count the number of cells within a range that meet a specified condition or criteria.
+
+
+It is useful for tallying occurrences based on certain criteria,
+Basic Numeric Count:
+
+Suppose you have a list of scores and want to count how many scores are greater than 75.
+
+A
+Score
+85
+78
+92
+70
+=COUNTIF(A2:A5, ">75")
+
+A pivot table is like a summary table of the dataset that enables you to create reports and analyze trends. They are useful when you have long rows or columns that hold values you need to track
+
+
+Steps  with example 
+
+
+
+
+
+
+
+
+
+
+
